@@ -280,3 +280,95 @@ Longest word, biggest comeback, luckiest draw, chaos agent, reigning champ.
 | "Chess pieces" | "captured-piece tray" |
 
 Use game names in SEO/descriptions if needed, but don't make product identity dependent on someone else's IP.
+
+---
+
+## 11. Gaming (Video Games / TCG / Tabletop)
+
+### The Angle
+Gaming accessories for cult/fandom games. Maps, figures, cards, displays. Copyright is a thing — design original items inspired by aesthetics, don't copy IP.
+
+### Copyright-Safe Approach
+- **Don't:** Use "The Witcher", "Pokemon", "Magic" in titles
+- **Do:** Use dimensions, aesthetics, "inspired by" language
+- **Do:** Make original designs that fit the vibe
+- **Do:** "Fantasy medieval map frame" not "Witcher map frame"
+
+### Products
+
+#### 54. Fantasy Map Display Frame ⭐⭐⭐
+For printed game maps (The Witcher, Elden Ring, Skyrim, etc.)
+| Field | Value |
+|-------|-------|
+| **What** | Frame that holds and displays game maps |
+| **Material** | PLA+ with acrylic front |
+| **Price** | $18-30 |
+| **Supplier** | Makr3D + acrylic cut |
+| **Copyright** | Frame is generic, map is user's own print |
+
+#### 55. Miniature Display Diorama Bases ⭐⭐⭐
+For game figurines (Warhammer, D&D, board game pieces)
+| Field | Value |
+|-------|-------|
+| **What** | Themed display bases for miniatures |
+| **Material** | PLA+ with Meshy scenery |
+| **Price** | $12-25 |
+| **Supplier** | Makr3D + Meshy |
+| **Themes** | Medieval ruins, space station, enchanted forest, dark alley |
+
+#### 56. Custom Trading Card Frames ⭐⭐
+For displaying favorite cards from any game
+| Field | Value |
+|-------|-------|
+| **What** | Decorative frame for single cards |
+| **Material** | PLA+ with LED option |
+| **Price** | $15-35 |
+| **Supplier** | Makr3D |
+| **Themes** | Gothic arch, wizard tower, museum pedestal |
+
+#### 57. Board Game Component Organizer ⭐⭐
+For games with lots of small pieces
+| Field | Value |
+|-------|-------|
+| **What** | Insert/organizer for specific games |
+| **Material** | PLA+ |
+| **Price** | $15-40 |
+| **Supplier** | Makr3D |
+| **Games** | Gloomhaven, Wingspan, Arkham Horror, etc. |
+
+#### 58. Dice Tower / Dice Vault (Themed) ⭐⭐⭐
+For D&D, board games, tabletop
+| Field | Value |
+|-------|-------|
+| **What** | Themed dice tower or storage vault |
+| **Material** | PLA+ with Meshy details |
+| **Price** | $18-40 |
+| **Supplier** | Makr3D + Meshy |
+| **Themes** | Dragon skull, wizard tower, ancient ruin, space crate |
+
+#### 59. Game Night Scoreboard (Digital/Physical) ⭐⭐
+Personalized scoreboard for recurring game nights
+| Field | Value |
+|-------|-------|
+| **What** | Magnetic or dry-erase scoreboard |
+| **Material** | PLA+ with magnetic backing |
+| **Price** | $15-25 |
+| **Supplier** | Makr3D |
+| **Personalization** | Game name, player names, date started |
+
+#### 60. Card Sleeve / Deck Box Display Stand ⭐⭐
+For showing off premium card sleeves or deck boxes
+| Field | Value |
+|-------|-------|
+| **What** | Stand that displays deck box at angle |
+| **Material** | PLA+ |
+| **Price** | $10-20 |
+| **Supplier** | Makr3D |
+| **Personalization** | Player name, game title |
+
+### Gaming Niche Priority
+1. Fantasy map frame (universal, copyright-safe)
+2. Dice tower/vault (high demand, themed)
+3. Miniature diorama bases (collector angle)
+4. Board game organizers (proven on Etsy)
+5. Card display frames (collector angle)
