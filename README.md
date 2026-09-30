@@ -1,120 +1,182 @@
 # OddHobbies
 
-> Micro-infrastructure for obsessive hobbies.
-> Little physical things enthusiasts repeatedly need, where injection molding is uneconomic but CAD + 3D printing is perfect.
+> Game accessories, collector displays, and the little things that make hobbies better.
+> One production primitive exploding into lots of demand-capturing listings.
 
 ## The Thesis
 
-The best signal is somebody sitting in front of:
-- 20 bobbins
-- 30 ink bottles
-- 15 bonsai wire gauges
-- piles of coins
-- 50 paper colors
-- dozens of miniature tack items
-- tiny watch screws
-- 20 stained-glass fragments
-- game pieces rolling everywhere
+Don't manufacture fandom objects. Manufacture the **little "stage" that makes somebody's existing fandom object feel important.**
 
-Every object needs to be **held, sorted, measured, positioned, protected, counted or displayed.** That's our product surface.
+A Pokémon-card collector wants their prized card facing outward and visible. A miniature painter spends 40 hours on a model and then wants it elevated into an exhibit. A D&D player owns dice they don't want thrown into a bag.
 
-## The Rule
+We make the stage. They bring their stuff.
 
-Don't search for "weird hobbies." Search for:
+## Two Pillars
 
-**"Hobbies where practitioners have a table covered in shit."**
+### Pillar 1: Evergreen Game Accessories
+Accessories for globally popular games that never die. Scrabble, Mahjong, Chess, Catan, D&D, MTG, Pokemon, bridge, Go, Rubik's cube.
 
-Then build the **whole physical operating system for that hobby**, not just one random accessory.
+The pattern: **game-specific helper that solves a real friction.**
 
-## Hobby Lines
+| Game | Friction | Product |
+|------|----------|---------|
+| Scrabble | Ugly 1970s tile racks | Modern tile holder with magnetic base |
+| Mahjong | Can't read tile sequences | Personalized line reader (17k+ proven sales) |
+| Chess | Captured pieces pile up | Premium piece holder tray |
+| Catan | Resource piles everywhere | Resource tower system |
+| D&D | Initiative always fumbled | Initiative tracker + dice tower combo |
+| MTG | Commander not visible during play | Commander throne (deck box + display) |
+| Bridge | Scorekeeping is tedious | Digital score pad + physical scorepad |
+| Go | Stone storage is basic | Premium magnetic stone container |
+| Rubik's Cube | Display collection | Modular cube display stand |
+| Mahjong | Tile accessories untapped | Tile cufflinks, keychains, ornaments |
 
-### Tier 1 — Launch First (Excellent signal)
+### Pillar 2: Collector Display System
+The **Figg Collector Chassis** — one standardized system, infinite adapters.
 
-| Hobby | Core Problem | Flagship Product |
-|-------|-------------|------------------|
-| **Cross-Stitch** | Needles roll, floss tangles | Modular needle minder + floss drops |
-| **Stained Glass** | Holding odd angles, different glass thicknesses | Adjustable angle jig system |
-| **Bonsai** | Wire management, expensive accessories | Modular wire-spool kit |
-| **Quilling** | 100+ strips become a storage nightmare | Vertical color library |
-| **Crokinole** | Powder, scoring, board-edge organization | Powder sweeper + disc towers |
+```
+Weighted base → USB-C/tea-light LED cavity → magnetic front nameplate → universal slot → replaceable surround
+```
 
-### Tier 2 — Month 2-3 (Strong signal)
+**Adapters (plug into the chassis):**
+| Adapter | Holds | Audience |
+|---------|-------|----------|
+| Card slot | Raw card / toploader / graded slab | TCG collectors |
+| Dice socket | 7-dice polyhedral set | D&D/RPG players |
+| Mini plinth | 25-60mm miniature | Wargamers, painters |
+| Keycap mount | MX artisan keycap | Keyboard collectors |
+| Coin capsule | Standard coin capsule | Numismatists |
+| Pen cradle | Fountain pen | Pen collectors |
+| Car bay | 1:64 diecast car | Hot Wheels/Matchbox |
+| Cube stand | Rubik's cube | Puzzle collectors |
 
-| Hobby | Core Problem | Flagship Product |
-|-------|-------------|------------------|
-| **Diamond Painting** | Tray management, drill organization | Tray tower + alignment ruler |
-| **Model-Horse Showing** | 1:9 scale stable/show environments | Parametric tack-room system |
-| **Coin-Roll Hunting** | Sorting hundreds/thousands of coins | Multi-denomination sorting workstation |
-| **Bobbin Lace** | Managing 50-100+ bobbins around a pillow | Clip-on parking comb system |
+**Meshy shells (swap the aesthetic):**
+- Gothic arch
+- Wizard observatory
+- Japanese garden
+- Museum marble
+- Space station
+- Dark forest
+- Ancient ruins
+- Cyberpunk alley
+- Cosy tavern
+- Victory podium
 
-### Tier 3 — Month 4+ (Proven demand, more competitive)
+**Same chassis. Same base. Different shell + adapter = different listing.**
 
-| Hobby | Core Problem | Flagship Product |
-|-------|-------------|------------------|
-| **Card & Board Games** | Accessibility, peeking, token management | Universal card holder, tile racks |
-| **Slot-Car Racing** | Track maintenance, pit workflow | Pit caddy, track cleaner |
-| **Watch Repair** | Microscopic parts, different movements | Movement cradles, project trays |
-| **Metal Detecting** | Field finds protection/classification | Finds case, coin cradle |
+A customer searching "gift for D&D dice collector" sees the **wizard observatory** holding *their own dice*. Someone searching "trading card display" sees the **museum marble** holding *their own card*.
 
-### Tier 4 — Specialty (Low volume, high margin)
+## Three Revenue Streams
 
-| Hobby | Core Problem | Flagship Product |
-|-------|-------------|------------------|
-| **Ant Keeping** | Test tubes, feeding, heating mess | Modular tube rack, feeder dock |
-| **Carnivorous Plants** | Constant-moisture watering | Species-specific reservoir pots |
-| **Stamp Collecting** | Display, storage, classification | Custom album pages, display cases |
-| **Rubik's Cubes** | Display, competition setup | Cube stands, timer docks, collection display |
+### 1. Physical Products (60% revenue)
+- Game accessories (tile holders, line readers, token trays)
+- Collector chassis + adapters + shells
+- Custom puzzles, personalized game items
+- Custom trading cards
 
-## Brand Separation
+### 2. Digital Products (25% revenue)
+- Game helper apps (scoring, rules, strategy)
+- Printable game accessories
+- Custom card templates
+- Display labels and placards
 
-| Brand | What | Why Separate |
-|-------|------|-------------|
-| **OddHobbies** | Functional hobby accessories (secular) | Broadest audience |
-| **Ochema** | Occult-themed hobby tools | Different aesthetic, same craft audience |
-| **DivergentJoy** | Neurodivergent tools | Different need, some cross-sell with craft |
+### 3. Personalization Premium (15% revenue)
+- Name engraving on any product
+- Custom color matching
+- Fandom-themed shells
+- Gift packaging
 
-## Revenue Model
+## Product Lines
 
-| Product Type | Avg Price | COGS | Margin |
-|-------------|-----------|------|--------|
-| Small accessory (minder, clip, tray) | $8-15 | $0.50-2.00 | 85-95% |
-| Medium tool (jig, holder, rack) | $15-30 | $2.00-4.00 | 80-87% |
-| System/kit (workstation, library) | $30-60 | $5.00-10.00 | 75-83% |
-| Personalized/custom | +$5-15 | +$0.50-1.00 | 90%+ |
+### Line A: Game Accessories
+| Product | Game | Price | Status |
+|---------|------|-------|--------|
+| Modern tile holder | Scrabble | $12-18 | Building |
+| Personalized line reader | Mahjong | $8-12 | Building |
+| Magnetic hex token trays | Board games | $15-25 | Building |
+| Commander deck box + display | MTG | $25-35 | Building |
+| Resource tower system | Catan | $15-22 | Planning |
+| Initiative tracker + dice tower | D&D | $18-25 | Planning |
+| Premium stone container | Go | $15-25 | Planning |
+| Modern chess piece holder | Chess | $12-20 | Planning |
+| Bridge scoring pad | Bridge | $8-12 | Planning |
+
+### Line B: Collector Displays
+| Product | Holds | Price | Status |
+|---------|-------|-------|--------|
+| Hero miniature plinth | 25-60mm mini | $18-35 | Building |
+| Card grail shrine | Card/slab | $25-45 | Building |
+| Pin micro-gallery tiles | Enamel pins | $12-18 | Planning |
+| Artisan keycap pedestal | MX keycap | $12-22 | Planning |
+| Coin museum stand | Coin capsule | $12-24 | Planning |
+| Fountain pen throne | Fountain pen | $15-30 | Planning |
+| 1:64 car museum bay | Diecast car | $12-25 | Planning |
+| Vinyl "now playing" stage | Record | $25-40 | Planning |
+
+### Line C: Custom & Personalized
+| Product | What | Price | Status |
+|---------|------|-------|--------|
+| Custom puzzle | Upload photo → puzzle | $20-35 | Planning |
+| Custom Rubik's cube | Printed stickers/patterns | $15-25 | Planning |
+| Custom trading cards | AI-designed, printed | $8-15 | Planning |
+| Scrabble family frame | Name in scrabble tiles | $25-40 | Planning |
+| Personalized game-night set | Name trays + tiles | $35-50 | Planning |
+
+### Line D: Digital Assets
+| Product | What | Price | Status |
+|---------|------|-------|--------|
+| Mahjong helper (scoring) | Digital tool | $4.99 | Planning |
+| Bridge rules helper | Digital reference | $3.99 | Planning |
+| D&D encounter tracker | Notion template | $7.99 | Planning |
+| Printable game accessories | PDF downloads | $2.99 | Planning |
+| Custom card templates | Canva editable | $5.99 | Planning |
+| Display placards | Printable labels | $1.99 | Planning |
 
 ## IP Guardrails
 
-- **Don't use brand names in titles** — "Fits tiles up to 15mm" not "Scrabble-compatible"
+- **Don't use brand names** in titles — "Fits tiles up to 15mm" not "Scrabble-compatible"
 - **Design from scratch** — Don't copy competitor geometry
+- **Original aesthetics only** — Our Meshy shells are original, not copied franchise art
+- **"Fits X" not "compatible with X"** — safer phrasing
 - **Etsy requires original design** — Unmodified factory products don't qualify
-- **Dimensions over brands** — "Fits standard 6-strand floss" not "DMC-compatible"
 
-## File Structure
+## The "Cult Game" Advantage
 
-```
-oddhobbies/
-├── docs/                     — brand, master product list
-├── products/
-│   ├── cross-stitch/         — needle minders, floss drops
-│   ├── stained-glass/        — jigs, assembly systems
-│   ├── bonsai/               — wire management, tools
-│   ├── quilling/             — color library, dispensers
-│   ├── crokinole/            — powder tools, disc organizers
-│   ├── diamond-painting/     — trays, towers, pens
-│   ├── model-horse/          — 1:9 scale stable systems
-│   ├── coin-roll/            — sorting workstations
-│   ├── bobbin-lace/          — pillow organization
-│   ├── card-games/           — holders, racks, accessories
-│   ├── slot-car/             — pit caddy, track tools
-│   ├── watch-repair/         — movement cradles, parts storage
-│   ├── metal-detecting/      — finds cases, field tools
-│   ├── ant-keeping/          — tube racks, feeder docks
-│   ├── carnivorous-plants/   — reservoir pots
-│   ├── stamp-collecting/     — display, album pages
-│   └── rubiks-cube/          — display stands, collection cases
-├── templates/
-│   ├── cad/                  — OpenSCAD/FreeCAD parametric models
-│   └── meshy/                — Meshy generation prompts
-├── shop/                     — Etsy setup, listing templates
-└── assets/                   — branding, photos
-```
+These games have obsessive communities, few accessories, and high willingness to spend:
+
+| Game | Community Size | Accessories Gap | Spend Level |
+|------|---------------|-----------------|-------------|
+| Mahjong | Massive (Asia + diaspora) | Huge — only line readers exist | High |
+| Scrabble | Global, 400M+ players | Medium — racks are outdated | Medium |
+| Bridge | 200M+ players | Massive — almost nothing exists | High (older, wealthier) |
+| Go | 46M+ players | Large — bowls only | High |
+| Chess | 600M+ players | Medium — lots of boards, few accessories | Medium |
+| Catan | 30M+ copies sold | Large — resource management is chaos | Medium |
+| D&D | 50M+ players | Medium — dice towers saturated, helpers aren't | High |
+
+## Launch Sequence
+
+### Week 1-2: Proven Sellers
+1. Mahjong line reader (personalized) — 17k+ proven
+2. Funko display stands (themed) — 4.8k reviews
+3. Magnetic hex token trays — 8.7k sales
+
+### Week 3-4: Gift Items
+4. Scrabble family frame
+5. Commander deck box + display
+6. Hero miniature plinth
+
+### Week 5-6: Collector Chassis
+7. Card grail shrine (museum marble)
+8. Dice reliquary (wizard observatory)
+9. Keycap pedestal (space station)
+
+### Week 7-8: Game Helpers
+10. Resource tower (Catan)
+11. Initiative tracker (D&D)
+12. Stone container (Go)
+
+### Month 2+: Digital + Custom
+13. Mahjong helper app
+14. Custom puzzle service
+15. Custom trading card generator
