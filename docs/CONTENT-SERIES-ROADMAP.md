@@ -1,233 +1,265 @@
-# OddHobb — Content Series Roadmap
+# OddHobb — Hobby Content Series
 
-> 2-hour Odd News + more series. Ochema gets the hardcore stuff.
-
----
-
-## Content Split
-
-| Brand | Content | Tone |
-|-------|---------|------|
-| **OddHobb** | Odd News, Etymology, Folk & Fable, Diaries (light) | Intellectual, curious, accessible |
-| **Ochema** | Grimoires, rituals, deep spiritual, traditions | Esoteric, scholarly, practitioner |
+> Content about the niches we sell products for. Each video is an ad for the hobby.
 
 ---
 
-## Series 1: Odd News (2 hours, daily)
+## The Logic
 
-**Status:** Episode 1 written. Pipeline ready.
+We sell products for hobbies. Content about those hobbies drives traffic to those products. A person who watches a video about chess openings might buy a chess piece holder. A person who watches a video about bonsai might buy a wire spool tower.
 
-**Format:** 20 countries × 900 words = 21,000 words
-**Voice:** Calm, warm, 0.7x pace
-**Frequency:** Daily
-**Data:** World Bank + Global Voices + Wikimedia
+**Content → audience → products → revenue.**
 
 ---
 
-## Series 2: Odd Etymology (30-60 min, 3x/week)
+## Series: Chess Openings (30 min, 2x/week)
 
-**Status:** Concept ready. Sources identified.
+**Why:** Chess is universal. 600M+ players. "The Queen's Gambit" effect still going.
 
-**Format:** 5-10 words per episode, each word's full history
-**Voice:** Curious, warm, slightly playful
-**Frequency:** 3x per week
-**Sources:** Etymonline, Wiktionary, Oxford
+**Format:** One opening per episode — history, strategy, famous games
 
-### Episode Structure (per word, ~5 minutes)
+**Season 1: 20 Openings**
 
-```
-1. Today: "Salary. Noun. A fixed regular payment."
-2. Origin: "From Latin 'salarium'. From 'sal' — salt."
-3. Story: "Roman soldiers received a salt allowance. Salt was currency."
-4. Journey: "Through Old French 'salaire', into Middle English."
-5. Relatives: "Salad — from the same root. Vegetables dressed with salt."
-6. Reflection: "Every time you say 'salary', you're speaking Latin."
-7. Goodnight: "Sleep well."
-```
-
-### Season 1: Words About Money (20 episodes)
-
-| # | Word | Origin | Hook |
-|---|------|--------|------|
-| 1 | Salary | Latin salarium (salt money) | Roman soldiers paid in salt |
-| 2 | Salary's cousin: Salad | Latin salata (salted greens) | Same root — salted vegetables |
-| 3 | Salsus (sauce) | Latin salsus (salted) | Salt → sauce |
-| 4 | Salutation | Latin salus (health) | To salute = wish someone salt |
-| 5 | Dollar | German/Bohemian "thaler" | A silver coin's name |
-| 6 | Bankrupt | Italian banca rotta (broken bench) | Broke the bench |
-| 7 | Salary's opposite: Free | Latin liber (free man) | Freedom from slavery |
-| 8 | Price | Latin pretium (value) | What things are worth |
-| 9 | Value | Latin valere (to be strong) | Worth = strength |
-| 10 | Rich | Old English rice (powerful) | Rich = powerful |
-| 11 | Poor | Latin pauper (few possessions) | Poverty = having little |
-| 12 | Debt | Latin debitum (owed) | What you owe |
-| 13 | Credit | Latin creditum (trusted) | Trust = credit |
-| 14 | Profit | Latin profectus (progress) | Profit = progress |
-| 15 | Loss | Old English los (destruction) | Loss = destruction |
-| 16 | Gain | Old English geyn (profitable) | Gain = profit |
-| 17 | Spend | Latin expendere (to weigh out) | Weighing money |
-| 18 | Save | Latin salvare (to make safe) | Saving = safety |
-| 19 | Earn | Old English earnian (to work for) | Earning = working |
-| 20 | Wealth | Old English wealthe (well-being) | Wealth = wellbeing |
-
-### Season 2: Words About Time (20 episodes)
-### Season 3: Words About War (20 episodes)
-### Season 4: Words About Love (20 episodes)
-### Season 5: Words About Food (20 episodes)
+| # | Opening | Hook | Product |
+|---|---------|------|---------|
+| 1 | The Italian Game | 600 years old, still played | Chess piece holder |
+| 2 | The Sicilian Defense | The most popular reply to 1.e4 | Chess board accessories |
+| 3 | The Ruy Lopez | "The Spanish Game" — 500 years of theory | Capture tray |
+| 4 | The French Defense | Solid, stubborn, French | Chess accessories |
+| 5 | The Caro-Kann | The "respectable" alternative to Sicilian | Chess accessories |
+| 6 | The King's Indian | Aggressive, modern, romantic | Chess board |
+| 7 | The Queen's Gambit | The most famous gambit in chess | Chess accessories |
+| 8 | The English Opening | 1.c4 — positional, flexible | Chess accessories |
+| 9 | The Scotch Game | 4.d4 — open, tactical | Chess accessories |
+| 10 | The Petrov Defense | "The Russian Game" — symmetrical | Chess accessories |
+| 11 | The Scandinavian Defense | 1.e4 d5 — simple, direct | Chess accessories |
+| 12 | The Pirc Defense | Hypermodern, flexible | Chess accessories |
+| 13 | The Alekhine's Defense | Provocative, unbalanced | Chess accessories |
+| 14 | The Nimzo-Indian | Pin the knight, control center | Chess accessories |
+| 15 | The Queen's Indian | Solid, positional | Chess accessories |
+| 16 | The Slav Defense | Solid alternative to Queen's Gambit | Chess accessories |
+| 17 | The Grünfeld Defense | Dynamic, hypermodern | Chess accessories |
+| 18 | The Benoni Defense | Sharp, unbalanced, risky | Chess accessories |
+| 19 | The Catalan | Positional, subtle | Chess accessories |
+| 20 | The London System | Solid, easy to learn | Chess accessories |
 
 ---
 
-## Series 3: Folk & Fable (20-30 min, 2x/week)
+## Series: Bonsai (20 min, 2x/week)
 
-**Status:** Concept ready.
+**Why:** Bonsai is meditative, visual, and deeply practical. The community is obsessed.
 
-**Format:** One story per episode — folklore, fairy tales, myths
-**Voice:** Warm, storytelling, slightly dramatic
-**Frequency:** 2x per week
-**Sources:** Gutenberg, folklore archives, mythology databases
+**Format:** One technique or concept per episode
 
-### Episode Structure
+**Season 1: 20 Episodes**
 
-```
-1. Hook: "This story is about..."
-2. Setting: Where and when
-3. Characters: Who's involved
-4. Rising action: What happens
-5. Climax: The key moment
-6. Resolution: How it ends
-7. Reflection: What it means
-8. Goodnight: "Sleep well."
-```
-
-### Season 1: Fairy Tales The World Forgot (20 episodes)
-
-| # | Story | Origin | Why It's Interesting |
-|---|-------|--------|---------------------|
-| 1 | The North Wind's Gift | Norse | Wind gives gifts — not the Disney version |
-| 2 | The Crane Wife | Japanese | A man marries a crane who weaves for him |
-| 3 | Vasilisa the Beautiful | Russian | A girl carries a burning skull through the forest |
-| 4 | The Girl Who Trod on a Loaf | Danish | Girl sinks into the earth for being vain |
-| 5 | The Six Swans | German | Brother turns to swan — sister must stay silent |
-| 6 | The Tale of the Bamboo Cutter | Japanese | A tiny princess from a bamboo stalk |
-| 7 | The Snow Maiden | Russian | A snow girl who melts in spring |
-| 8 | The Fisherman and His Wife | German | A fish grants wishes — but she wants more |
-| 9 | The Tinder Box | Danish | A soldier finds magic matches |
-| 10 | The Rose Tree | German | A girl is killed and becomes a rose tree |
-| 11 | The Seven Ravens | German | Brothers turned to ravens |
-| 12 | The Glass Mountain | German | A princess on a glass mountain |
-| 13 | The White Snake | German | A servant eats a snake and understands animals |
-| 14 | The Water of Life | German | Three brothers seek the water of life |
-| 15 | The Golden Bird | Russian | A prince seeks a golden bird |
-| 16 | The Moon Flower | Korean | A flower that blooms only at night |
-| 17 | The Tiger's Whisker | Korean | A woman grinds a tiger's whisker |
-| 18 | The Monkey King | Chinese | Sun Wukong's origin story |
-| 19 | Anansi the Spider | West African | The trickster who steals stories |
-| 20 | The Selkie | Scottish | Seal people who shed their skin |
-
-### Season 2: Myths of Creation (20 episodes)
-### Season 3: Monsters and Creatures (20 episodes)
-### Season 4: Trickster Tales (20 episodes)
-### Season 5: Love Stories Gone Wrong (20 episodes)
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Bonsai? | Not dwarf trees — trees in miniature | Wire spool tower |
+| 2 | Choosing Your First Tree | Juniper, ficus, elm — where to start | Root basket |
+| 3 | Watering Bonsai | The most important skill | Tool dock |
+| 4 | Pruning Basics | Shape follows function | Bonsai tools |
+| 5 | Wiring Bonsai | The art of bending wood | Wire spool tower |
+| 6 | Repotting Bonsai | Every 2-3 years, a new home | Repotting tray |
+| 7 | Soil and Drainage | Bonsai soil is not garden soil | Root basket |
+| 8 | Sunlight and Placement | Indoor vs. outdoor bonsai | Display stand |
+| 9 | The Art of Deadwood | Jin and shari — beauty in death | Bonsai tools |
+| 10 | Fertilizing Bonsai | Feeding a miniature tree | Tool dock |
+| 11 | Bonsai Styles | Formal upright, informal, cascading | Display stand |
+| 12 | Seasonal Care | What changes through the year | Tool dock |
+| 13 | Juniper Bonsai | The most popular beginner tree | Root basket |
+| 14 | Ficus Bonsai | The indoor champion | Root basket |
+| 15 | Maple Bonsai | Color, grace, seasonal beauty | Display stand |
+| 16 | Pine Bonsai | The king of bonsai | Wire spool tower |
+| 17 | Bonsai Displays | How to show your trees | Display stand |
+| 18 | Common Mistakes | What kills bonsai (and how to avoid it) | Tool dock |
+| 19 | Bonsai Communities | Clubs, shows, and conventions | All products |
+| 20 | The Zen of Bonsai | Patience, observation, care | All products |
 
 ---
 
-## Series 4: Diaries of the Greats (30-45 min, 2x/week)
+## Series: Cross-Stitch (15 min, 2x/week)
 
-**Status:** Concept ready.
+**Why:** Cross-stitch is having a renaissance. Adult crafters, modern patterns, huge Etsy market.
 
-**Format:** Historical diary entries, read and discussed
-**Voice:** Warm, reflective, scholarly but accessible
-**Frequency:** 2x per week
-**Sources:** Gutenberg, public domain diaries
+**Format:** One technique or project per episode
 
-### Episode Structure
+**Season 1: 20 Episodes**
 
-```
-1. Context: Who is this person? When are they writing?
-2. The diary entry: Read it aloud (or TTS)
-3. What was happening: Historical context
-4. What it means: Why this entry matters
-5. Reflection: What we can learn
-6. Goodnight: "Sleep well."
-```
-
-### Season 1: Diaries of the Greats (20 episodes)
-
-| # | Person | Period | Why Their Diary Matters |
-|---|--------|--------|------------------------|
-| 1 | Samuel Pepys | 1660s London | The Great Fire, plague, daily life |
-| 2 | Anne Frank | 1942-44 | The most famous diary ever |
-| 3 | Leonardo da Vinci | 1490s | His notebooks — art, science, invention |
-| 4 | Abraham Lincoln | 1860s | The Civil War from inside |
-| 5 | Marie Curie | 1900s | Science, tragedy, perseverance |
-| 6 | Virginia Woolf | 1920s-40s | Literature, mental health, war |
-| 7 | Charles Darwin | 1830s-50s | The voyage of the Beagle |
-| 8 | Frida Kahlo | 1920s-50s | Pain, art, politics |
-| 9 | Winston Churchill | 1940s | World War II from the inside |
-| 10 | Emily Dickinson | 1850s-80s | Poetry, solitude, genius |
-| 11 | Mark Twain | 1870s-1900s | Humor, travel, America |
-| 12 | Nikola Tesla | 1890s-1940s | Electricity, rivalry, genius |
-| 13 | Nelson Mandela | 1960s-90s | Imprisonment, forgiveness |
-| 14 | Maya Angelou | 1950s-70s | Civil rights, literature, resilience |
-| 15 | Albert Einstein | 1910s-40s | Physics, pacifism, curiosity |
-| 16 | Helen Keller | 1890s-1960s | Disability, advocacy, wonder |
-| 17 | Galileo Galilei | 1600s | Science vs. religion |
-| 18 | Queen Victoria | 1840s-1900s | Empire, family, duty |
-| 19 | Frederick Douglass | 1840s-90s | Slavery, freedom, rhetoric |
-| 20 | Susan B. Anthony | 1860s-1900s | Women's suffrage |
-
-### Season 2: Diaries of War (20 episodes)
-### Season 3: Diaries of Science (20 episodes)
-### Season 4: Diaries of Art (20 episodes)
-### Season 5: Diaries of Exploration (20 episodes)
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Cross-Stitch? | Not just grandma's hobby | Needle minder |
+| 2 | Your First Cross-Stitch | Start here, today | Needle minder + floss drops |
+| 3 | Reading Patterns | The language of X's | Floss drop set |
+| 4 | Choosing Floss | DMC, Anchor, and the rainbow | Floss drop set |
+| 5 | Fabric Basics | Aida, linen, and evenweave | Cross-stitch accessories |
+| 6 | Needle Minders | Never lose a needle again | Needle minder |
+| 7 | Parking Method | For complex patterns | Floss workstation |
+| 8 | Gridding Your Fabric | The secret to sanity | Cross-stitch accessories |
+| 9 | Finishing Your Piece | Washing, pressing, framing | Display accessories |
+| 10 | Modern Cross-Stitch | Not your grandma's patterns | All products |
+| 11 | Cross-Stitch and Mental Health | Craft as meditation | All products |
+| 12 | Substitution Tricks | When you don't have the right color | Floss drop set |
+| 13 | Full Coverage vs. Partial | Two styles, two vibes | Cross-stitch accessories |
+| 14 | Beads and Specialty Stitches | Adding sparkle | Needle minder |
+| 15 | Cross-Stitch for Beginners | The absolute basics | Needle minder |
+| 16 | Designing Your Own Pattern | From idea to chart | All products |
+| 17 | Cross-Stitch on Dark Fabric | Moody and dramatic | Floss drop set |
+| 18 | Finishing as Ornaments | Seasonal cross-stitch | Display accessories |
+| 19 | Cross-Stitch Communities | Where to share your work | All products |
+| 20 | The Joy of Cross-Stitch | Why we stitch | All products |
 
 ---
 
-## Series 5: Odd Sleep (30-60 min, daily)
+## Series: Mahjong (15 min, 2x/week)
 
-**Status:** Concept ready.
+**Why:** Mahjong is huge in Asia and growing globally. 17k+ line reader sales prove demand.
 
-**Format:** Sleep stories, ambient content
-**Voice:** Calm, warm, 0.7x pace
-**Frequency:** Daily (alternates with Odd News)
+**Format:** One aspect of mahjong per episode
 
-### Episode Types
+**Season 1: 20 Episodes**
 
-| Type | Content | Duration |
-|------|---------|----------|
-| **Sleep stories** | Fictional narratives, calm | 30-60 min |
-| **Ambient** | Rain, fire, nature sounds | 1-3 hours |
-| **Guided relaxation** | Body scan, breathing | 15-30 min |
-| **Nature documentaries** | Calm narration about wildlife | 30-45 min |
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Mahjong? | Not just a tile game — a culture | Line reader |
+| 2 | The Tiles | 144 tiles, infinite combinations | Line reader |
+| 3 | Setting Up | The ritual of the shuffle | Organizer tray |
+| 4 | Basic Rules | How to play, simply | Line reader |
+| 5 | American vs. Chinese | Two games, one name | Line reader |
+| 6 | The Charleston | The unique American feature | Line reader |
+| 7 | Reading the Table | What are your opponents doing? | Wind markers |
+| 8 | Common Patterns | Pungs, chows, kongs | Line reader |
+| 9 | Strategy Basics | When to be aggressive | Line reader |
+| 10 | Mahjong Etiquette | The unwritten rules | Organizer tray |
+| 11 | Mahjong and Math | Probability and decision-making | Line reader |
+| 12 | Mahjong Culture | More than a game | Line reader |
+| 13 | Online Mahjong | Playing in the digital age | Line reader |
+| 14 | Mahjong Tournaments | Competitive play | Organizer tray |
+| 15 | Mahjong History | From China to the world | Line reader |
+| 16 | Mahjong Variants | Beyond the standard game | Line reader |
+| 17 | Mahjong and Memory | The cognitive benefits | Line reader |
+| 18 | Mahjong as Meditation | The zen of tiles | Line reader |
+| 19 | Mahjong Communities | Where to find players | Organizer tray |
+| 20 | Why Mahjong Endures | A game for a lifetime | Line reader |
 
 ---
 
-## Ochema Series (Separate, Hardcore)
+## Series: Stained Glass (20 min, 2x/week)
 
-After OddHobb is established:
+**Why:** Stained glass is visual, meditative, and deeply satisfying. The community is growing.
 
-| Series | Content | Tone |
-|--------|---------|------|
-| **Grimoirer** | Grimoire explainers, magical texts | Esoteric, scholarly |
-| **Daimon Dreams** | Greek dream traditions | Esoteric, spiritual |
-| **Magus Logs** | Historical diaries (Dee, etc.) | Esoteric, historical |
-| **Astrael** | Dreams, OBE, angels | Esoteric, consciousness |
-| **Tantric** | Tantric texts | Esoteric, spiritual |
-| **Alchemical Secrets** | Alchemy | Esoteric, scholarly |
-| **Sufi Night** | Rumi, Sufi poetry | Esoteric, spiritual |
+**Format:** One technique or project per episode
+
+**Season 1: 20 Episodes**
+
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Stained Glass? | Light through color | Jig system |
+| 2 | Your First Piece | Start here, today | Jig system |
+| 3 | Tools of the Trade | The essential kit | Jig system |
+| 4 | Cutting Glass | The most important skill | Jig system |
+| 5 | Grinding and Shaping | Precision and patience | Jig system |
+| 6 | Copper Foil Method | Tiffany style | Jig system |
+| 7 | Lead Came Method | Traditional technique | Jig system |
+| 8 | Soldering Basics | Heat, solder, and patience | Jig system |
+| 9 | Choosing Glass | Color, texture, opacity | Jig system |
+| 10 | Pattern Design | From idea to glass | Jig system |
+| 11 | 3D Glass Sculptures | Beyond flat panels | Jig system |
+| 12 | Stained Glass for Beginners | The absolute basics | Jig system |
+| 13 | Stained Glass and Light | How color transforms a room | Display accessories |
+| 14 | Repairing Stained Glass | Fixing broken pieces | Jig system |
+| 15 | Stained Glass Business | Selling your work | All products |
+| 16 | Stained Glass History | Medieval cathedrals to modern art | Display accessories |
+| 17 | Stained Glass Communities | Where to learn and share | All products |
+| 18 | Stained Glass Safety | Handling glass responsibly | Jig system |
+| 19 | Advanced Techniques | Pushing the craft | Jig system |
+| 20 | The Joy of Stained Glass | Why we work with light | All products |
+
+---
+
+## Series: Quilling (15 min, 2x/week)
+
+**Why:** Quilling is visual, meditative, and underrepresented on YouTube.
+
+**Format:** One technique or project per episode
+
+**Season 1: 20 Episodes**
+
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Quilling? | Paper, rolled into art | Color library |
+| 2 | Your First Quill | Start here, today | Tool dock |
+| 3 | Basic Shapes | The building blocks | Color library |
+| 4 | Choosing Paper | Color, width, weight | Color library |
+| 5 | Tool Basics | Slotted tool, needle, tweezers | Tool dock |
+| 6 | Gluing Techniques | Clean, precise, invisible | Tool dock |
+| 7 | 3D Quilling | Beyond flat designs | Color library |
+| 8 | Quilling for Beginners | The absolute basics | Tool dock |
+| 9 | Quilling Cards | Paper art on greetings | Color library |
+| 10 | Quilling Jewelry | Wearable paper art | Color library |
+| 11 | Quilling Frames | Displaying your work | Display accessories |
+| 12 | Quilling and Patience | The meditative aspect | Tool dock |
+| 13 | Quilling Patterns | From simple to complex | Color library |
+| 14 | Quilling Business | Selling your art | All products |
+| 15 | Quilling History | From Renaissance Europe | All products |
+| 16 | Quilling Communities | Where to learn and share | All products |
+| 17 | Quilling on a Budget | Paper art for everyone | Tool dock |
+| 18 | Advanced Quilling | Pushing the craft | Color library |
+| 19 | Quilling Gifts | Handmade presents | All products |
+| 20 | The Joy of Quilling | Why we roll paper | All products |
+
+---
+
+## Series: Tufting (20 min, 2x/week)
+
+**Why:** Tufting is new, visual, and exploding. The yarn feed tower has proven demand.
+
+**Format:** One aspect of tufting per episode
+
+**Season 1: 20 Episodes**
+
+| # | Topic | Hook | Product |
+|---|-------|------|---------|
+| 1 | What Is Tufting? | Rug-making, reimagined | Yarn feed tower |
+| 2 | Your First Tufting Project | Start here, today | Yarn feed tower |
+| 3 | Tufting Gun Basics | The primary tool | Yarn feed tower |
+| 4 | Choosing Yarn | Color, texture, weight | Yarn feed tower |
+| 5 | Fabric and Primary | The foundation | Yarn feed tower |
+| 6 | Trimming and Shearing | The finishing touch | Yarn feed tower |
+| 7 | Tufting Patterns | From simple to complex | Yarn feed tower |
+| 8 | Tufting for Beginners | The absolute basics | Yarn feed tower |
+| 9 | Tufting Rugs | The classic project | Yarn feed tower |
+| 10 | Tufting Wall Hangings | Modern art | Yarn feed tower |
+| 11 | Tufting Business | Selling your work | All products |
+| 12 | Tufting and Mental Health | Craft as therapy | All products |
+| 13 | Tufting Communities | Where to learn and share | All products |
+| 14 | Tufting Tools | The essential kit | Yarn feed tower |
+| 15 | Tufting Colors | Design and palette | Yarn feed tower |
+| 16 | Tufting Maintenance | Caring for your gun | Yarn feed tower |
+| 17 | Tufting Exhibitions | Showing your work | All products |
+| 18 | Tufting History | From industrial to handmade | All products |
+| 19 | Advanced Tufting | Pushing the craft | Yarn feed tower |
+| 20 | The Joy of Tufting | Why we tuft | All products |
 
 ---
 
 ## Content Calendar (Week 1)
 
-| Day | Odd News | Other Series |
-|-----|----------|-------------|
-| Monday | Life in 20 Countries | Odd Etymology: "Salary" |
-| Tuesday | — | Folk & Fable: "The North Wind's Gift" |
-| Wednesday | Life in 20 Countries | Odd Etymology: "Dollar" |
-| Thursday | — | Diaries: "Samuel Pepys" |
-| Friday | Life in 20 Countries | Odd Etymology: "Bankrupt" |
-| Saturday | — | Folk & Fable: "The Crane Wife" |
-| Sunday | Life in 20 Countries | Odd Etymology: "Free" |
+| Day | Series | Episode | Product |
+|-----|--------|---------|---------|
+| Monday | Odd News | Life in 20 Countries | Gift products |
+| Monday | Chess Openings | The Italian Game | Chess accessories |
+| Tuesday | Folk & Fable | The North Wind's Gift | Personalized gifts |
+| Tuesday | Bonsai | What Is Bonsai? | Wire spool tower |
+| Wednesday | Odd Etymology | Salary | Journals |
+| Wednesday | Cross-Stitch | What Is Cross-Stitch? | Needle minder |
+| Thursday | Diaries | Samuel Pepys | Journals |
+| Thursday | Mahjong | What Is Mahjong? | Line reader |
+| Friday | Odd News | Life in 20 Countries | Gift products |
+| Friday | Chess Openings | The Sicilian Defense | Chess accessories |
+| Saturday | Folk & Fable | The Crane Wife | Personalized gifts |
+| Saturday | Stained Glass | What Is Stained Glass? | Jig system |
+| Sunday | Odd Etymology | Dollar | Journals |
+| Sunday | Quilling | What Is Quilling? | Color library |
 
-**7 episodes in week 1. 30+ per month.**
+**14 episodes in week 1. 60+ per month.**
