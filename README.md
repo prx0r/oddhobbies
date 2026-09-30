@@ -1,81 +1,120 @@
 # OddHobbies
 
-> Accessories that fix the friction in the things you love.
+> Micro-infrastructure for obsessive hobbies.
+> Little physical things enthusiasts repeatedly need, where injection molding is uneconomic but CAD + 3D printing is perfect.
 
-## What This Is
+## The Thesis
 
-OddHobbies makes accessories for hobbies that have gaps — where the branded standard doesn't quite work, where accessibility is an afterthought, or where the only option is a mass-produced thing that doesn't fit your setup.
+The best signal is somebody sitting in front of:
+- 20 bobbins
+- 30 ink bottles
+- 15 bonsai wire gauges
+- piles of coins
+- 50 paper colors
+- dozens of miniature tack items
+- tiny watch screws
+- 20 stained-glass fragments
+- game pieces rolling everywhere
 
-We don't make the hobby. We make the thing that makes the hobby better.
+Every object needs to be **held, sorted, measured, positioned, protected, counted or displayed.** That's our product surface.
 
-## The Pattern
+## The Rule
 
-Every product starts with a complaint:
+Don't search for "weird hobbies." Search for:
 
-| Pattern | Example | What We Build |
-|---------|---------|---------------|
-| **Fixing a branded flaw** | "The original holder is slippery" | Better holder |
-| **A play problem** | "Someone keeps peeking at my tiles" | Cover with sliding lid |
-| **Accessibility** | "I can't hold cards with arthritis" | Hands-free holder |
-| **Themed hobby tools** | "All the trays look the same" | Occult/witchy tray skins |
+**"Hobbies where practitioners have a table covered in shit."**
 
-## Brands (Keep Separate)
+Then build the **whole physical operating system for that hobby**, not just one random accessory.
 
-| Brand | Audience | Products |
-|-------|----------|----------|
-| **OddHobbies** | Hobbyists, crafters, gamers | Functional accessories, themed tools |
-| **Ochema** | Occult, witchy, spiritual | Celestial/occult-themed hobby tools |
-| **DivergentJoy** | Neurodivergent adults | Energy trackers, sensory tools |
+## Hobby Lines
 
-**Cross-sell rule:** OddHobbies and Ochema share the same hobby audience. DivergentJoy shares the neurodivergent audience with OddHobbies (spoonie crafters exist). But products stay in their own shops.
+### Tier 1 — Launch First (Excellent signal)
 
-## Pilot: Cross-Stitch
+| Hobby | Core Problem | Flagship Product |
+|-------|-------------|------------------|
+| **Cross-Stitch** | Needles roll, floss tangles | Modular needle minder + floss drops |
+| **Stained Glass** | Holding odd angles, different glass thicknesses | Adjustable angle jig system |
+| **Bonsai** | Wire management, expensive accessories | Modular wire-spool kit |
+| **Quilling** | 100+ strips become a storage nightmare | Vertical color library |
+| **Crokinole** | Powder, scoring, board-edge organization | Powder sweeper + disc towers |
 
-### Why Cross-Stitch First
-1. **Proven need** — floss drops, needle minders, parking bobbins are all bestsellers
-2. **Adult buyers** — no kids' safety certification needed
-3. **Small products** — print fast, ship cheap
-4. **Needle minders = natural Meshy fit** — sculpted toppers on magnetic bases
-5. **+173% search growth** in diamond painting (adjacent craft, same audience)
+### Tier 2 — Month 2-3 (Strong signal)
 
-### The Fix
-- **Needle minders** — standard ones are flat metal clips. We make sculpted 3D toppers that swap on a magnetic base.
-- **Floss drops** — standard ones have no label slot. Ours have ID slots and house-shaped designs.
+| Hobby | Core Problem | Flagship Product |
+|-------|-------------|------------------|
+| **Diamond Painting** | Tray management, drill organization | Tray tower + alignment ruler |
+| **Model-Horse Showing** | 1:9 scale stable/show environments | Parametric tack-room system |
+| **Coin-Roll Hunting** | Sorting hundreds/thousands of coins | Multi-denomination sorting workstation |
+| **Bobbin Lace** | Managing 50-100+ bobbins around a pillow | Clip-on parking comb system |
 
-## IP Guardrails
+### Tier 3 — Month 4+ (Proven demand, more competitive)
 
-| Don't | Do |
-|-------|-----|
-| Put "DMC" in titles | "Fits thread up to 8-strand" |
-| Put "Scrabble" in titles | "Fits tiles up to 15mm" |
-| Copy competitor geometry | Design from scratch, measure from complaints |
-| Use brand logos | Use dimensions and compatibility language |
+| Hobby | Core Problem | Flagship Product |
+|-------|-------------|------------------|
+| **Card & Board Games** | Accessibility, peeking, token management | Universal card holder, tile racks |
+| **Slot-Car Racing** | Track maintenance, pit workflow | Pit caddy, track cleaner |
+| **Watch Repair** | Microscopic parts, different movements | Movement cradles, project trays |
+| **Metal Detecting** | Field finds protection/classification | Finds case, coin cradle |
 
-**Etsy's rule:** Your listing must be your own original design. Unmodified factory products don't qualify.
+### Tier 4 — Specialty (Low volume, high margin)
+
+| Hobby | Core Problem | Flagship Product |
+|-------|-------------|------------------|
+| **Ant Keeping** | Test tubes, feeding, heating mess | Modular tube rack, feeder dock |
+| **Carnivorous Plants** | Constant-moisture watering | Species-specific reservoir pots |
+| **Stamp Collecting** | Display, storage, classification | Custom album pages, display cases |
+| **Rubik's Cubes** | Display, competition setup | Cube stands, timer docks, collection display |
+
+## Brand Separation
+
+| Brand | What | Why Separate |
+|-------|------|-------------|
+| **OddHobbies** | Functional hobby accessories (secular) | Broadest audience |
+| **Ochema** | Occult-themed hobby tools | Different aesthetic, same craft audience |
+| **DivergentJoy** | Neurodivergent tools | Different need, some cross-sell with craft |
 
 ## Revenue Model
 
-| Product | Price | COGS (3D print) | Margin |
-|---------|-------|-----------------|--------|
-| Needle minder (1) | $8.99 | ~$1.50 | ~83% |
-| Needle minder set (3) | $22.99 | ~$4.00 | ~83% |
-| Floss drop set (10) | $12.99 | ~$2.50 | ~81% |
-| Floss drop + minder bundle | $18.99 | ~$3.50 | ~81% |
-| Diamond painting tray | $14.99 | ~$3.00 | ~80% |
-| Themed tray set (3) | $34.99 | ~$7.00 | ~80% |
+| Product Type | Avg Price | COGS | Margin |
+|-------------|-----------|------|--------|
+| Small accessory (minder, clip, tray) | $8-15 | $0.50-2.00 | 85-95% |
+| Medium tool (jig, holder, rack) | $15-30 | $2.00-4.00 | 80-87% |
+| System/kit (workstation, library) | $30-60 | $5.00-10.00 | 75-83% |
+| Personalized/custom | +$5-15 | +$0.50-1.00 | 90%+ |
+
+## IP Guardrails
+
+- **Don't use brand names in titles** — "Fits tiles up to 15mm" not "Scrabble-compatible"
+- **Design from scratch** — Don't copy competitor geometry
+- **Etsy requires original design** — Unmodified factory products don't qualify
+- **Dimensions over brands** — "Fits standard 6-strand floss" not "DMC-compatible"
 
 ## File Structure
 
 ```
 oddhobbies/
-├── docs/           — brand, products, research
+├── docs/                     — brand, master product list
 ├── products/
-│   ├── cross-stitch/  — needle minders, floss drops
-│   ├── diamond-painting/  — trays, towers, pens
-│   └── card-games/  — holders, racks, accessories
+│   ├── cross-stitch/         — needle minders, floss drops
+│   ├── stained-glass/        — jigs, assembly systems
+│   ├── bonsai/               — wire management, tools
+│   ├── quilling/             — color library, dispensers
+│   ├── crokinole/            — powder tools, disc organizers
+│   ├── diamond-painting/     — trays, towers, pens
+│   ├── model-horse/          — 1:9 scale stable systems
+│   ├── coin-roll/            — sorting workstations
+│   ├── bobbin-lace/          — pillow organization
+│   ├── card-games/           — holders, racks, accessories
+│   ├── slot-car/             — pit caddy, track tools
+│   ├── watch-repair/         — movement cradles, parts storage
+│   ├── metal-detecting/      — finds cases, field tools
+│   ├── ant-keeping/          — tube racks, feeder docks
+│   ├── carnivorous-plants/   — reservoir pots
+│   ├── stamp-collecting/     — display, album pages
+│   └── rubiks-cube/          — display stands, collection cases
 ├── templates/
-│   ├── cad/        — OpenSCAD/FreeCAD parametric models
-│   └── meshy/      — Meshy generation prompts
-├── shop/           — Etsy setup, listing templates
-└── assets/         — branding, photos
+│   ├── cad/                  — OpenSCAD/FreeCAD parametric models
+│   └── meshy/                — Meshy generation prompts
+├── shop/                     — Etsy setup, listing templates
+└── assets/                   — branding, photos
 ```

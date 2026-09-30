@@ -20,19 +20,21 @@
 `[Product] — [What It Fixes]`
 
 ### Examples
-- "Magnetic Needle Minder — Swappable Sculpted Toppers"
-- "Floss Drop Set — House-Shaped with ID Slots"
-- "Diamond Painting Tray Tower — Holds 12 Trays"
+- "Adjustable Angle Jig — Holds 2mm-8mm Glass"
+- "Wire Spool Tower — Collapses Flat for Storage"
+- "Color Library 24 — Vertical Strip Organizer"
+- "Powder Sweeper — Cleans Board Gutters"
 
 ### Avoid in Titles
-- Brand names (Scrabble, Rummikub, DMC, Diamond Art Club)
+- Brand names (Scrabble, Rummikub, DMC, Diamond Art Club, Breyer)
 - Medical language
 - Superlatives ("best", "ultimate", "perfect")
 
 ### Use in Titles
-- Dimensions ("fits tiles up to 15mm")
-- Compatibility ("fits standard 6-strand floss")
-- Quantity ("set of 10", "3-pack")
+- Dimensions ("fits tiles up to 15mm", "holds 2mm-8mm glass")
+- Compatibility ("fits standard 6-strand floss", "1:9 scale")
+- Quantity ("set of 10", "24-strip organizer")
+- Hobby-specific terms (cross stitch, bonsai, quilling, etc.)
 
 ## Visual Identity
 
@@ -55,49 +57,17 @@
 - Hands holding/using the product (scale reference)
 - No busy backgrounds
 - Natural light preferred
+- Show the hobby context (e.g., glass pieces next to the jig)
 
-## Etsy Tags (max 13, max 20 chars)
+## Per-Hobby Aesthetic Notes
 
-```
-cross stitch
-needle minder
-floss drop
-embroidery
-diamond painting
-craft accessory
-handmade
-3D printed
-custom
-personalized
-gift for crafter
-stitcher gift
-needlework
-```
-
-## Listing Template
-
-### Title
-`[Product] — [Fix] | [Audience] | [Format]`
-
-### Example
-`Magnetic Needle Minder — Swappable 3D Topper | Cross Stitch Accessory | Personalized Gift`
-
-### Description
-```
-[1 sentence: what this is and what problem it solves]
-
-[2-3 sentences: how it works and why it's different]
-
-WHAT'S INCLUDED:
-• [item 1]
-• [item 2]
-
-SPECIFICATIONS:
-• [material]
-• [size]
-• [compatibility]
-
-NOTE: [Any usage notes, care instructions, etc.]
-
-Designed and printed by a fellow hobbyist. Every piece is original.
-```
+| Hobby | Visual Mood | Props |
+|-------|------------|-------|
+| Cross-Stitch | Cozy, craft room | Fabric, thread, hoops |
+| Stained Glass | Workshop, tools | Glass pieces, solder, foil |
+| Bonsai | Natural, zen | Trees, wire, pots, stones |
+| Quilling | Colorful, organized | Rainbow paper strips |
+| Crokinole | Game night, warm | Board, discs, friends |
+| Model-Horse | Collector, detailed | Horses, stables, tack |
+| Coin-Roll | Study, organized | Coins, rolls, magnifier |
+| Bobbin-Lace | Heritage, delicate | Bobbins, pillow, thread |
