@@ -1,138 +1,180 @@
-# YouTube Architecture — Ochema vs OddHobb
+# OddHobb YouTube — Final Architecture
 
-> Two parent brands. Every channel is a sub-niche. Whatever performs well gets promoted to its own channel.
-
----
-
-## The Split
-
-| Parent | Territory | Audience |
-|--------|-----------|----------|
-| **Ochema** | Traditions, esoteric, grimoires, diaries, spiritual, dream work, history | Practitioners, mystics, scholars, dreamers |
-| **OddHobb** | Novel, interesting, curiosity-driven, goodnight news, weird facts, human stories | Curious people, gift buyers, hobbyists |
+> Weird intellectual things. The gateway. Pilot niches, validate, promote what works.
 
 ---
 
-## Ochema Channels
+## The Brand
 
-### Established (from sleepintel/sleepvids)
+**OddHobb = weird intellectual things in general.**
 
-| Channel | Source | Content | Etsy Products |
-|---------|--------|---------|---------------|
-| **Grimoirer** | SPIRITUAL shelf | Grimoire explainers, magical texts | Wax seals, journals, sigil packs |
-| **Daimon Dreams** | ESOTERIC shelf | Greek daimonic, dream traditions | Dream tablets, votives, dream journals |
-| **Magus Logs** | ESOTERIC shelf | Historical diaries (Dee, etc.) | Timeline prints, facsimile objects |
-| **Astrael** | ESOTERIC/MUSIC | Dreams, OBE, angels, afterlife | Dream tools, celestial displays |
-| **Tantric** | SPIRITUAL shelf | Tantric texts and traditions | Yantra prints, study objects |
-| **Alchemical Secrets** | ESOTERIC shelf | Alchemy explainers | Alchemical prints, study objects |
-| **Sufi Night** | SPIRITUAL shelf | Sufi poetry and mysticism | Poetry prints, meditation objects |
-| **Kashmir Readings** | SPIRITUAL shelf | Kashmir Shaivism texts | Study objects, yantra prints |
-| **Steiner Sleep** | ESOTERIC shelf | Steiner philosophy readings | Philosophical prints |
-| **Channeled Wisdom** | ESOTERIC shelf | Channeling sessions, Ra material | Dream/vision tools |
+Not sleepy. Not esoteric. Just... curious. The kind of content where you click because the title makes you go "wait, what?" and stay because it's genuinely interesting.
 
-### Future Ochema Channels
-
-| Channel | Content | Etsy Products |
-|---------|---------|---------------|
-| **Folk & Fable** | Folklore, fairy tales, neglected stories | Creature prints, story art |
-| **Rasa Stage** | Shakespeare, Faust, obscure drama | Theatrical posters, scene art |
+**Audience:** Nerdy, curious, neurodivergent people. The kind of person who has 47 browser tabs open and is proud of it.
 
 ---
 
-## OddHobb Channels
+## Gateway Channels (Launch First)
 
-### Established (from sleepvids/sleepintel)
+| Channel | Content | Why It's a Gateway |
+|---------|---------|-------------------|
+| **Odd News** | Goodnight news, daily forgiveness | Feel-good, daily habit, shareable |
+| **Odd Minds** | AGI, maths, science explainers | Nerdy, mind-blown, accessible |
+| **Odd Stories** | Fairy tales, folklore, human stories | Storytelling, emotional, universal |
+| **Odd Etymology** | Word histories, language origins | Surprising, intellectual, addictive |
+| **Divergent Joy** | Neurodivergent stories, ADHD/autism | Identity, community, relatable |
 
-| Channel | Source | Content | Etsy Products |
-|---------|--------|---------|---------------|
-| **Odd Sleep** | PLACE/MIND | Sleep stories, ambient, relaxation | Dream journals, sleep tools |
-| **Odd Minds** | MIND shelf | Philosophy, AGI, maths, science | Neurodivergent tools, planners |
-| **Odd Stories** | STORY shelf | Human interest, everyday truths | Personalized gifts, collector items |
-| **Odd News** | FRESH shelf | Good news, positive stories | Gift products, feel-good items |
-| **Odd Sleep Stories** | STORY/MIND | Bedtime stories, fiction | Sleep products, ambient tools |
+---
 
-### Future OddHobb Channels (promoted from performing content)
+## Pilot Niches (Test, Then Promote)
 
-| Channel | Content | Etsy Products |
-|---------|---------|---------------|
-| **Odd History** | Weird historical facts, forgotten stories | Historical prints, book objects |
-| **Odd Science** | Fascinating science explainers | Science-themed accessories |
-| **Odd Nature** | Weird animals, nature mysteries | Nature prints, animal figures |
-| **Odd Food** | Food history, weird culinary facts | Kitchen accessories, recipe journals |
-| **Odd Music** | Music history, obscure composers | Music-themed displays, instruments |
+| Pilot Channel | Content | Promotion Signal |
+|---------------|---------|-----------------|
+| **Odd Sleep** | Sleep stories, ambient | High retention = promote |
+| **Odd History** | Weird historical facts | High views = promote |
+| **Odd Nature** | Weird animals, nature mysteries | High engagement = promote |
+| **Odd Food** | Food history, culinary facts | High shares = promote |
+| **Odd Music** | Music history, obscure composers | High watch time = promote |
+| **Odd Science** | Fascinating science explainers | High CTR = promote |
+
+**The rule:** Start as a segment on Odd Minds or Odd Stories. If it consistently outperforms → spin off to own channel.
+
+---
+
+## Spotify / Podcast
+
+OddHobb content works as audio too:
+
+| YouTube Channel | Spotify Format | Notes |
+|-----------------|---------------|-------|
+| Odd News | Daily podcast (5-10 min) | "Goodnight News" — perfect for commute |
+| Odd Minds | Weekly podcast (20-30 min) | Deep dives on topics |
+| Odd Stories | Weekly podcast (15-25 min) | Fairy tales, folklore |
+| Odd Etymology | Weekly podcast (10-15 min) | Word stories |
+| Divergent Joy | Weekly podcast (20-30 min) | Neurodivergent stories |
+
+**Same content, different distribution.** Record once → publish on YouTube + Spotify + podcast apps.
+
+---
+
+## Content Pillars
+
+### 1. Goodnight News (Odd News)
+- Daily good news stories
+- "The day, forgiven"
+- 5-10 minutes
+- Perfect bedtime content
+- **Product tie-in:** Gift products, feel-good items
+
+### 2. Neurodivergent Stories (Divergent Joy)
+- Real stories of ADHD/autism/AuDHD/PDA lives
+- Not clinical, not inspiration porn
+- Identity-affirming
+- **Product tie-in:** Neurodivergent planners, tools
+
+### 3. Fairy Tales & Folklore (Odd Stories)
+- The originals, not Disney
+- Foreign folklore stories the algorithm forgot
+- Storytelling format
+- **Product tie-in:** Personalized gifts, story art
+
+### 4. Etymology (Odd Etymology)
+- Word histories
+- "Did you know 'silly' used to mean 'holy'?"
+- Surprising, intellectual
+- **Product tie-in:** Journal, writing tools
+
+### 5. AGI & Science (Odd Minds)
+- AI scenarios, maths visualizations, science explainers
+- Nerdy but accessible
+- Mind-blown moments
+- **Product tie-in:** Neurodivergent tools, planners
 
 ---
 
 ## The Promotion System
 
 ```
-1. Start with broad channels (OddHobb / Ochema)
-2. Post content regularly
-3. What performs well gets more content
-4. If a sub-topic consistently outperforms → spin off to own channel
-5. Example: "Odd Sleep Stories" performs → becomes "Odd Bedtime Stories" → becomes "Odd Fiction"
+Week 1-2: Launch 5 gateway channels
+  → Post 3-5 videos each
+  → Measure: views, retention, subs, Etsy clicks
+
+Week 3-4: Double down on what works
+  → Top performer gets more content
+  → Underperformer gets adjusted or killed
+
+Week 5-8: Pilot new niches
+  → Add segments to top channels
+  → Test 2-3 new topics
+  → Measure again
+
+Week 9+: Promote winners
+  → Consistent outperformer → spin off to own channel
+  → Kill anything that doesn't work
 ```
 
 ### Promotion Criteria
 
 | Signal | Threshold | Action |
 |--------|-----------|--------|
-| Views | 2x channel average | More content on this topic |
-| Subscribers gained | 100+ from one video series | Consider dedicated channel |
-| Comments | High engagement, requests for more | Spin off |
-| Etsy clicks | Consistent traffic from videos | Double down |
+| Views | 2x channel average | More content on topic |
 | Retention | 50%+ watch time | Topic works |
-
----
-
-## Content Pipeline
-
-### Ochema
-```
-sleepintel/ESOTERIC channels → scripts → Ochema YouTube → Ochema Etsy
-sleepintel/SPIRITUAL channels → scripts → Ochema YouTube → Ochema Etsy
-```
-
-### OddHobb
-```
-sleepvids/MIND channels → scripts → OddHobb YouTube → OddHobb Etsy
-sleepvids/STORY channels → scripts → OddHobb YouTube → OddHobb Etsy
-sleepvids/PLACE channels → scripts → OddHobb YouTube → OddHobb Etsy
-```
-
----
-
-## The Flywheel (Per Channel)
-
-```
-YouTube video (content)
-  → OddHobb/Ochema logo (2s)
-  → Interesting content (8-15 min)
-  → Product mention + link
-  → End screen (subscribe + product)
-  → Viewer buys product
-  → Sees other products
-  → Subscribes to channel
-  → Watches next video
-  → Repeat
-```
+| Subs from video | 50+ from one video | Consider dedicated channel |
+| Etsy clicks | Consistent traffic | Double down |
+| Spotify follows | 100+ from series | Audio works too |
 
 ---
 
 ## Week 1 Launch Plan
 
-### Ochema YouTube
-| Day | Channel | Video | Product |
-|-----|---------|-------|---------|
-| Mon | Grimoirer | "What Is a Grimoire?" | Grimoire Pages |
-| Wed | Daimon Dreams | "The Greek Dream Oracle" | Dream Journal |
-| Fri | Astrael | "The History of Lucid Dreaming" | Reality Check Cards |
+### Monday
+| Channel | Video | Product |
+|---------|-------|---------|
+| Odd News | "Goodnight News — Oct 6" | Gift products |
+| Odd Etymology | "Why 'Silly' Used to Mean 'Holy'" | Journal |
 
-### OddHobb YouTube
-| Day | Channel | Video | Product |
-|-----|---------|-------|---------|
-| Mon | Odd Sleep | "The Roman Dream Incubation" | Dream Journal |
-| Wed | Odd Minds | "Why Your ADHD Brain Isn't Broken" | Energy Planner |
-| Fri | Odd Stories | "Why People Pay $100 for Custom Figures" | Brick Figure |
+### Wednesday
+| Channel | Video | Product |
+|---------|-------|---------|
+| Odd Minds | "Why Your ADHD Brain Isn't Broken" | Energy Planner |
+| Odd Stories | "The Original Little Red Riding Hood" | Personalized gifts |
 
-**6 videos in week 1. 24 videos/month across both brands.**
+### Friday
+| Channel | Video | Product |
+|---------|-------|---------|
+| Divergent Joy | "What Executive Dysfunction Actually Feels Like" | Task Cards |
+| Odd News | "Goodnight News — Oct 10" | Gift products |
+
+**6 videos. 5 channels. All linking to Etsy products.**
+
+---
+
+## The Flywheel
+
+```
+Odd News (daily) → builds habit → subscriber watches Odd Minds → buys planner
+Odd Minds (weekly) → nerdy content → subscriber discovers Divergent Joy → buys tools
+Odd Stories (weekly) → fairy tales → subscriber discovers Ochema → buys grimoire pages
+Divergent Joy (weekly) → identity content → subscriber buys from OddHobb Etsy
+Odd Etymology (weekly) → intellectual → subscriber buys journal → explores OddHobb
+```
+
+**Every channel feeds every other channel. Every video feeds Etsy.**
+
+---
+
+## Ochema (Separate, Deeper)
+
+After OddHobb is established (month 2-3):
+
+| Channel | Content |
+|---------|---------|
+| Grimoirer | Grimoire explainers |
+| Daimon Dreams | Greek dream traditions |
+| Magus Logs | Historical diaries |
+| Astrael | Dreams, OBE, angels |
+| Tantric | Tantric texts |
+
+**Same playbook:** Logo → content → soft sell → product link.
+
+**Cross-promotion:** OddHobb gateway → Ochema deep end.
