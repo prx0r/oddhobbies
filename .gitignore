@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.generated.*
+/output/
+
+# 3D print files (large)
+*.stl
+*.3mf
+*.obj
+
+# Temp
+/tmp/
+*.tmp
