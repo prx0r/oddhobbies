@@ -1,0 +1,73 @@
+{
+  "priority": 2,
+  "sku": "XMAS-3D-TILE-RACK",
+  "etsy_listing_id": "4586662106",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Game Night",
+  "etsy_title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+  "price": 12.99,
+  "taxonomy_id": 1554,
+  "tags": [
+    "tile rack",
+    "scrabble rack",
+    "board game accessory",
+    "christmas gift",
+    "game night",
+    "personalised gift",
+    "magnetic rack",
+    "word game",
+    "tile holder",
+    "family gift",
+    "board game gift",
+    "modern rack",
+    "game night gift"
+  ],
+  "description": "One modern word-game rack engraved with your name. Magnetic base option. Buy 1\u20136 with volume discounts.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Name to engrave",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Colour choice",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 80
+    },
+    {
+      "question_text": "Magnetic base?",
+      "question_type": "dropdown",
+      "required": 0,
+      "max_chars": 20
+    }
+  ],
+  "agent_sku": "tile-rack",
+  "fulfilment_blurb": "3D printed to order. UK 2\u20135 days, US 6\u201316 days.",
+  "gift_occasions": "christmas,game night,housewarming",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#xmas-3d-tile-rack",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

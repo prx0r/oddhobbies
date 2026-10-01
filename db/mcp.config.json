@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "oddhobbies-db": {
+      "command": "python3",
+      "args": ["/root/oddhobbies/db/mcp_server.py"],
+      "env": {}
+    }
+  }
+}

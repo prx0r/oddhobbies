@@ -18,3 +18,15 @@ Thumbs.db
 # Temp
 /tmp/
 *.tmp
+
+# SQLite runtime DB (rebuild: python3 db/seed.py)
+db/*.db
+db/*.db-journal
+db/*.db-wal
+db/*.db-shm
+
+# Secrets / tokens
+*token*.json
+*refresh*
+.venv/
+__pycache__/

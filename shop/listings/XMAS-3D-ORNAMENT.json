@@ -1,0 +1,93 @@
+{
+  "priority": 1,
+  "sku": "XMAS-3D-ORNAMENT",
+  "etsy_listing_id": "4586658575",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Christmas Gifts",
+  "etsy_title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+  "price": 14.99,
+  "taxonomy_id": 1857,
+  "tags": [
+    "christmas ornament",
+    "custom ornament",
+    "pet ornament",
+    "personalised bauble",
+    "3d printed ornament",
+    "christmas gift",
+    "stocking stuffer",
+    "family ornament",
+    "brick figure",
+    "christmas tree",
+    "pet gift",
+    "dog ornament",
+    "personalised christm"
+  ],
+  "description": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Photo or motif",
+      "question_type": "labeled_upload",
+      "required": 0,
+      "max_chars": 0
+    },
+    {
+      "question_text": "Name",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 200
+    }
+  ],
+  "agent_sku": "xmas-ornament",
+  "fulfilment_blurb": "3D printed to order.",
+  "gift_occasions": "christmas,stocking stuffer,pet gift",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#xmas-3d-ornament",
+  "assets_now": [
+    {
+      "asset_key": "etsy-4584658252-8649381383",
+      "role": "lifestyle",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament."
+    },
+    {
+      "asset_key": "etsy-4584658252-8601539634",
+      "role": "lifestyle",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament."
+    },
+    {
+      "asset_key": "etsy-4584658252-8601539620",
+      "role": "lifestyle",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament."
+    },
+    {
+      "asset_key": "etsy-4584658252-8601539516",
+      "role": "lifestyle",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament."
+    },
+    {
+      "asset_key": "etsy-4584658252-8601539642",
+      "role": "lifestyle",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree \u2014 hero lifestyle for Xmas pet ornament."
+    }
+  ],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

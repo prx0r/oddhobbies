@@ -1,0 +1,73 @@
+{
+  "priority": 10,
+  "sku": "PROD-PET-TAG-SET",
+  "etsy_listing_id": "4586691324",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Couples & Weddings",
+  "etsy_title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+  "price": 16.99,
+  "taxonomy_id": 1250,
+  "tags": [
+    "metal pet tag",
+    "custom dog tag",
+    "pet tag",
+    "personalised pet",
+    "christmas gift",
+    "dog lover",
+    "pet gift",
+    "custom tag",
+    "pet accessory",
+    "gift for dog",
+    "keepsake",
+    "pet parent",
+    "christmas pet"
+  ],
+  "description": "Bone or round metallic tag engraved with name and number. Hang on any collar.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Shape",
+      "question_type": "dropdown",
+      "required": 1,
+      "max_chars": 20
+    },
+    {
+      "question_text": "Pet name",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Phone number",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    }
+  ],
+  "agent_sku": "metal-pet-tag",
+  "fulfilment_blurb": "Printed on demand via Prodigi. Thin margin \u2014 quirky gift.",
+  "gift_occasions": "christmas,pet gift,dog lover",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#prod-pet-tag-set",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

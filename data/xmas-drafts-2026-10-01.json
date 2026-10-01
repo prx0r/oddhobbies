@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-10-01",
+  "focus": "3D-first Game Night + Weddings/Couples",
+  "shop_id": "67863887",
+  "us_3d_supplier_pick": "Printie (US facility)",
+  "uk_3d_supplier": "Makr3D (Huddersfield UK)",
+  "rejected_as_us_primary": {
+    "3D Vikings": "Latvia/EU farm \u2014 not US"
+  },
+  "game_night_3d": [
+    {
+      "listing_id": 4586657665,
+      "product": "Mahjong Line Reader",
+      "price": 11.99,
+      "est_cost": "~$1.75",
+      "size": "small"
+    },
+    {
+      "listing_id": 4586658541,
+      "product": "First-Player Token",
+      "price": 8.99,
+      "est_cost": "~$1.75",
+      "size": "small"
+    },
+    {
+      "listing_id": 4586671942,
+      "product": "Cribbage Pegs",
+      "price": 14.99,
+      "est_cost": "~$1.75-3.37",
+      "size": "small-mid"
+    },
+    {
+      "listing_id": 4586662106,
+      "product": "Tile Rack (single + volume)",
+      "price": 12.99,
+      "est_cost": "~$3.37",
+      "size": "mid"
+    },
+    {
+      "listing_id": 4586671970,
+      "product": "Mahjong Wind Markers",
+      "price": 16.99,
+      "est_cost": "~$3.37",
+      "size": "mid"
+    },
+    {
+      "listing_id": 4586658575,
+      "product": "Christmas Ornament",
+      "price": 14.99,
+      "est_cost": "~$1.75",
+      "size": "small"
+    },
+    {
+      "listing_id": 4586661282,
+      "product": "Magnetic Token Tray",
+      "price": 22.99,
+      "est_cost": "~$3.37-10.30",
+      "size": "mid-large"
+    },
+    {
+      "listing_id": 4586671960,
+      "product": "Travel Cribbage Board",
+      "price": 29.99,
+      "est_cost": "~$10.30",
+      "size": "large"
+    }
+  ],
+  "weddings_couples": [
+    {
+      "listing_id": 4586678898,
+      "product": "Wedding Video Album",
+      "price": 59.99,
+      "supplier": "Kunaki+Prodigi"
+    },
+    {
+      "listing_id": 4586678882,
+      "product": "Personalised Memory Album",
+      "price": 34.99,
+      "supplier": "Kunaki/DiskCrafters"
+    },
+    {
+      "listing_id": 4586691388,
+      "product": "Personalised Playing Cards",
+      "price": 22.99,
+      "supplier": "Prodigi/MPC"
+    },
+    {
+      "listing_id": 4586691360,
+      "product": "Custom Top Trumps",
+      "price": 24.99,
+      "supplier": "Prodigi/MPC"
+    },
+    {
+      "listing_id": 4586691324,
+      "product": "Metal Pet Tag",
+      "price": 16.99,
+      "supplier": "Prodigi PET-MET-*",
+      "cost": "~$11.16 all-in"
+    }
+  ],
+  "prodigi_side": [
+    {
+      "listing_id": 4586687823,
+      "product": "Board Game Notebook",
+      "price": 16.99
+    },
+    {
+      "listing_id": 4586691376,
+      "product": "Game Night Coaster Set",
+      "price": 19.99
+    }
+  ],
+  "cut": [
+    "mug",
+    "bandana",
+    "calendar",
+    "wrapping-as-hero",
+    "tests",
+    "old pet drafts"
+  ]
+}

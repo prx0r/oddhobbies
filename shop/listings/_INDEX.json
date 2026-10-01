@@ -1,0 +1,106 @@
+{
+  "brand_target": "couples brick figurine lifestyle",
+  "shop": "PogPet 67863887",
+  "store_design": "oddhobbies/shop/STORE-DESIGN.md",
+  "photo_lists": "oddhobbies/shop/listing-photo-shots.md",
+  "sections": [
+    "Featured",
+    "Couples & Weddings",
+    "Christmas Gifts",
+    "Game Night",
+    "Add-Ons"
+  ],
+  "count": 15,
+  "packages": [
+    {
+      "sku": "XMAS-3D-ORNAMENT",
+      "listing_id": "4586658575",
+      "price": 14.99,
+      "section": "Christmas Gifts"
+    },
+    {
+      "sku": "XMAS-3D-TILE-RACK",
+      "listing_id": "4586662106",
+      "price": 12.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "XMAS-3D-MAHJONG-READER",
+      "listing_id": "4586657665",
+      "price": 11.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "XMAS-3D-FIRST-PLAYER",
+      "listing_id": "4586658541",
+      "price": 8.99,
+      "section": "Christmas Gifts"
+    },
+    {
+      "sku": "XMAS-3D-CRIBBAGE-PEGS",
+      "listing_id": "4586671942",
+      "price": 14.99,
+      "section": "Christmas Gifts"
+    },
+    {
+      "sku": "ALBUM-MEMORY-CD",
+      "listing_id": "4586678882",
+      "price": 34.99,
+      "section": "Couples & Weddings"
+    },
+    {
+      "sku": "XMAS-3D-CRIBBAGE-BOARD",
+      "listing_id": "4586671960",
+      "price": 29.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "XMAS-3D-MAHJONG-WINDS",
+      "listing_id": "4586671970",
+      "price": 16.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "XMAS-3D-TOKEN-TRAY",
+      "listing_id": "4586661282",
+      "price": 22.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "PROD-PET-TAG-SET",
+      "listing_id": "4586691324",
+      "price": 16.99,
+      "section": "Couples & Weddings"
+    },
+    {
+      "sku": "PROD-TOP-TRUMPS",
+      "listing_id": "4586691360",
+      "price": 24.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "PROD-BOARDGAME-NOTEBOOK",
+      "listing_id": "4586687823",
+      "price": 16.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "PROD-COASTER-SET",
+      "listing_id": "4586691376",
+      "price": 19.99,
+      "section": "Game Night"
+    },
+    {
+      "sku": "PROD-XMAS-PLAYING-CARDS",
+      "listing_id": "4586691388",
+      "price": 22.99,
+      "section": "Couples & Weddings"
+    },
+    {
+      "sku": "ALBUM-WEDDING-VIDEO",
+      "listing_id": "4586678898",
+      "price": 59.99,
+      "section": "Couples & Weddings"
+    }
+  ]
+}

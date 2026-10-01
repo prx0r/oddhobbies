@@ -1,0 +1,346 @@
+[
+  {
+    "sku": "ALBUM-MEMORY-CD",
+    "template": "T4",
+    "product_name": "Personalised Memory Album",
+    "material": "CD jewel case + digital download",
+    "size_class": "small",
+    "supplier": "KUNAKI",
+    "price": 34.99,
+    "etsy_id": "4586678882",
+    "fulfilment": "Produced to order. UK/US CD partners. Order early for Christmas.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "jewel case CD + digital download",
+    "cover_theme": "cream + gold keepsake",
+    "track_info": "4-10 tracks + liner notes",
+    "mood": "cosy romantic",
+    "prompt": "TEMPLATE T4\nGenerate 4 Etsy listing images for: Personalised Memory Album\nSKU: ALBUM-MEMORY-CD | Supplier: KUNAKI | Material: CD jewel case + digital download | Size class: small\nFulfilment: Produced to order. UK/US CD partners. Order early for Christmas.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero_case, lifestyle_listening, detail_cover, digital_mock\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero_case",
+      "lifestyle_listening",
+      "detail_cover",
+      "digital_mock"
+    ]
+  },
+  {
+    "sku": "ALBUM-WEDDING-VIDEO",
+    "template": "T4",
+    "product_name": "Wedding Video Album",
+    "material": "PLA",
+    "size_class": "small",
+    "supplier": "KUNAKI",
+    "price": 59.99,
+    "etsy_id": "4586678898",
+    "fulfilment": "Produced to order. Longer lead time.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "jewel case CD + digital download",
+    "cover_theme": "cream + gold keepsake",
+    "track_info": "4-10 tracks + liner notes",
+    "mood": "cosy romantic",
+    "prompt": "TEMPLATE T4\nGenerate 4 Etsy listing images for: Wedding Video Album\nSKU: ALBUM-WEDDING-VIDEO | Supplier: KUNAKI | Material: PLA | Size class: small\nFulfilment: Produced to order. Longer lead time.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero_case, lifestyle_listening, detail_cover, digital_mock\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero_case",
+      "lifestyle_listening",
+      "detail_cover",
+      "digital_mock"
+    ]
+  },
+  {
+    "sku": "KEYCHAIN-BRICK",
+    "template": "T2",
+    "product_name": "Brick Figure Keychain | Custom Character Keyring | 3D Printed Keychain | Christmas Gift | Personalised Brick Figure",
+    "material": "PLA",
+    "size_class": "small",
+    "supplier": "MAKR3D",
+    "price": 9.99,
+    "etsy_id": null,
+    "fulfilment": "Made to order",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "brick_type": "couple or solo brick-style figure",
+    "base": "black display base",
+    "size": "~70-80mm",
+    "prompt": "TEMPLATE T2\nGenerate 4 Etsy listing images for: Brick Figure Keychain | Custom Character Keyring | 3D Printed Keychain | Christmas Gift | Personalised Brick Figure\nSKU: KEYCHAIN-BRICK | Supplier: MAKR3D | Material: PLA | Size class: small\nFulfilment: Made to order\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, lifestyle_person, detail_face, gift_moment\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "lifestyle_person",
+      "detail_face",
+      "gift_moment"
+    ]
+  },
+  {
+    "sku": "KEYCHAIN-PET",
+    "template": "T3",
+    "product_name": "Pet Keychain Figurine | Personalised Pet Keyring | 3D Printed Keychain | Christmas Stocking Stuffer | Dog Cat Gift",
+    "material": "PLA",
+    "size_class": "small",
+    "supplier": "MAKR3D",
+    "price": 9.99,
+    "etsy_id": null,
+    "fulfilment": "Made to order",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: Pet Keychain Figurine | Personalised Pet Keyring | 3D Printed Keychain | Christmas Stocking Stuffer | Dog Cat Gift\nSKU: KEYCHAIN-PET | Supplier: MAKR3D | Material: PLA | Size class: small\nFulfilment: Made to order\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  },
+  {
+    "sku": "PROD-BOARDGAME-NOTEBOOK",
+    "template": "T5",
+    "product_name": "Board Game Notebook",
+    "material": "paper notebook",
+    "size_class": "small",
+    "supplier": "PRODIGI",
+    "price": 16.99,
+    "etsy_id": "4586687823",
+    "fulfilment": "Printed on demand.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "flat print goods",
+    "prompt": "TEMPLATE T5\nGenerate 3 Etsy listing images for: Board Game Notebook\nSKU: PROD-BOARDGAME-NOTEBOOK | Supplier: PRODIGI | Material: paper notebook | Size class: small\nFulfilment: Printed on demand.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, in_use, bundle\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "in_use",
+      "bundle"
+    ]
+  },
+  {
+    "sku": "PROD-COASTER-SET",
+    "template": "T5",
+    "product_name": "Game Night Coaster Set",
+    "material": "wood coasters",
+    "size_class": "small",
+    "supplier": "PRODIGI",
+    "price": 19.99,
+    "etsy_id": "4586691376",
+    "fulfilment": "Printed on demand.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "flat print goods",
+    "prompt": "TEMPLATE T5\nGenerate 3 Etsy listing images for: Game Night Coaster Set\nSKU: PROD-COASTER-SET | Supplier: PRODIGI | Material: wood coasters | Size class: small\nFulfilment: Printed on demand.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, in_use, bundle\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "in_use",
+      "bundle"
+    ]
+  },
+  {
+    "sku": "PROD-PET-TAG-SET",
+    "template": "T3",
+    "product_name": "Metal Pet Tag",
+    "material": "metallic tag",
+    "size_class": "small",
+    "supplier": "PRODIGI",
+    "price": 16.99,
+    "etsy_id": "4586691324",
+    "fulfilment": "Printed on demand via Prodigi. Thin margin \u2014 quirky gift.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: Metal Pet Tag\nSKU: PROD-PET-TAG-SET | Supplier: PRODIGI | Material: metallic tag | Size class: small\nFulfilment: Printed on demand via Prodigi. Thin margin \u2014 quirky gift.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  },
+  {
+    "sku": "PROD-TOP-TRUMPS",
+    "template": "T5",
+    "product_name": "Custom Top Trumps",
+    "material": "card stock deck + box",
+    "size_class": "small",
+    "supplier": "PRODIGI",
+    "price": 24.99,
+    "etsy_id": "4586691360",
+    "fulfilment": "Card deck printed on demand.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "flat print goods",
+    "prompt": "TEMPLATE T5\nGenerate 3 Etsy listing images for: Custom Top Trumps\nSKU: PROD-TOP-TRUMPS | Supplier: PRODIGI | Material: card stock deck + box | Size class: small\nFulfilment: Card deck printed on demand.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, in_use, bundle\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "in_use",
+      "bundle"
+    ]
+  },
+  {
+    "sku": "PROD-XMAS-PLAYING-CARDS",
+    "template": "T5",
+    "product_name": "Personalised Playing Cards",
+    "material": "card stock deck",
+    "size_class": "small",
+    "supplier": "PRODIGI",
+    "price": 22.99,
+    "etsy_id": "4586691388",
+    "fulfilment": "Card deck printed on demand.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "format": "flat print goods",
+    "prompt": "TEMPLATE T5\nGenerate 3 Etsy listing images for: Personalised Playing Cards\nSKU: PROD-XMAS-PLAYING-CARDS | Supplier: PRODIGI | Material: card stock deck | Size class: small\nFulfilment: Card deck printed on demand.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, in_use, bundle\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "in_use",
+      "bundle"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-CRIBBAGE-BOARD",
+    "template": "T1",
+    "product_name": "Travel Cribbage Board",
+    "material": "PLA+",
+    "size_class": "large",
+    "supplier": "MAKR3D",
+    "price": 29.99,
+    "etsy_id": "4586671960",
+    "fulfilment": "3D printed to order. Larger print.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "size": "see size_class; show with game pieces",
+    "prompt": "TEMPLATE T1\nGenerate 4 Etsy listing images for: Travel Cribbage Board\nSKU: XMAS-3D-CRIBBAGE-BOARD | Supplier: MAKR3D | Material: PLA+ | Size class: large\nFulfilment: 3D printed to order. Larger print.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, lifestyle_person, detail, scale_hand\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "lifestyle_person",
+      "detail",
+      "scale_hand"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-CRIBBAGE-PEGS",
+    "template": "T3",
+    "product_name": "Personalised Cribbage Pegs",
+    "material": "PLA+",
+    "size_class": "small-mid",
+    "supplier": "MAKR3D",
+    "price": 14.99,
+    "etsy_id": "4586671942",
+    "fulfilment": "3D printed to order.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: Personalised Cribbage Pegs\nSKU: XMAS-3D-CRIBBAGE-PEGS | Supplier: MAKR3D | Material: PLA+ | Size class: small-mid\nFulfilment: 3D printed to order.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-FIRST-PLAYER",
+    "template": "T3",
+    "product_name": "First-Player Token",
+    "material": "PLA",
+    "size_class": "small",
+    "supplier": "MAKR3D",
+    "price": 8.99,
+    "etsy_id": "4586658541",
+    "fulfilment": "3D printed to order.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: First-Player Token\nSKU: XMAS-3D-FIRST-PLAYER | Supplier: MAKR3D | Material: PLA | Size class: small\nFulfilment: 3D printed to order.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-MAHJONG-READER",
+    "template": "T1",
+    "product_name": "Mahjong Line Reader",
+    "material": "PLA / PLA+",
+    "size_class": "small",
+    "supplier": "MAKR3D",
+    "price": 11.99,
+    "etsy_id": "4586657665",
+    "fulfilment": "3D printed to order. Fast UK dispatch.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "size": "see size_class; show with game pieces",
+    "prompt": "TEMPLATE T1\nGenerate 4 Etsy listing images for: Mahjong Line Reader\nSKU: XMAS-3D-MAHJONG-READER | Supplier: MAKR3D | Material: PLA / PLA+ | Size class: small\nFulfilment: 3D printed to order. Fast UK dispatch.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, lifestyle_person, detail, scale_hand\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "lifestyle_person",
+      "detail",
+      "scale_hand"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-MAHJONG-WINDS",
+    "template": "T1",
+    "product_name": "Mahjong Wind Markers",
+    "material": "PLA",
+    "size_class": "mid",
+    "supplier": "MAKR3D",
+    "price": 16.99,
+    "etsy_id": "4586671970",
+    "fulfilment": "3D printed to order.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "size": "see size_class; show with game pieces",
+    "prompt": "TEMPLATE T1\nGenerate 4 Etsy listing images for: Mahjong Wind Markers\nSKU: XMAS-3D-MAHJONG-WINDS | Supplier: MAKR3D | Material: PLA | Size class: mid\nFulfilment: 3D printed to order.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, lifestyle_person, detail, scale_hand\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "lifestyle_person",
+      "detail",
+      "scale_hand"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-ORNAMENT",
+    "template": "T3",
+    "product_name": "Custom Christmas Ornament",
+    "material": "PLA",
+    "size_class": "small",
+    "supplier": "MAKR3D",
+    "price": 14.99,
+    "etsy_id": "4586658575",
+    "fulfilment": "3D printed to order.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: Custom Christmas Ornament\nSKU: XMAS-3D-ORNAMENT | Supplier: MAKR3D | Material: PLA | Size class: small\nFulfilment: 3D printed to order.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-TILE-RACK",
+    "template": "T1",
+    "product_name": "Personalised Tile Rack",
+    "material": "PLA+",
+    "size_class": "mid",
+    "supplier": "MAKR3D",
+    "price": 12.99,
+    "etsy_id": "4586662106",
+    "fulfilment": "3D printed to order. UK 2\u20135 days, US 6\u201316 days.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "size": "see size_class; show with game pieces",
+    "prompt": "TEMPLATE T1\nGenerate 4 Etsy listing images for: Personalised Tile Rack\nSKU: XMAS-3D-TILE-RACK | Supplier: MAKR3D | Material: PLA+ | Size class: mid\nFulfilment: 3D printed to order. UK 2\u20135 days, US 6\u201316 days.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, lifestyle_person, detail, scale_hand\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "lifestyle_person",
+      "detail",
+      "scale_hand"
+    ]
+  },
+  {
+    "sku": "XMAS-3D-TOKEN-TRAY",
+    "template": "T3",
+    "product_name": "Magnetic Token Tray",
+    "material": "PLA+ + magnets",
+    "size_class": "mid-large",
+    "supplier": "MAKR3D",
+    "price": 22.99,
+    "etsy_id": "4586661282",
+    "fulfilment": "3D printed to order.",
+    "style_lock": "cream studio, soft light, Xmas bokeh optional, no brand marks",
+    "loop_spec": "keyring or hanging loop",
+    "size": "~40-80mm",
+    "prompt": "TEMPLATE T3\nGenerate 3 Etsy listing images for: Magnetic Token Tray\nSKU: XMAS-3D-TOKEN-TRAY | Supplier: MAKR3D | Material: PLA+ + magnets | Size class: mid-large\nFulfilment: 3D printed to order.\nSTYLE LOCK: cream studio, soft light, Xmas bokeh optional, no brand marks\nSlots: hero, scale_hand, gift_flatlay\nInclude product spec details accurately (material texture, scale, personalisation if any).\nNO brand-name marks. NO watermark. Cream/gift aesthetic.\n",
+    "slots": [
+      "hero",
+      "scale_hand",
+      "gift_flatlay"
+    ]
+  }
+]

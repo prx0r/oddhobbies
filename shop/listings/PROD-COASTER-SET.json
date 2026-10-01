@@ -1,0 +1,61 @@
+{
+  "priority": 13,
+  "sku": "PROD-COASTER-SET",
+  "etsy_listing_id": "4586691376",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Game Night",
+  "etsy_title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+  "price": 19.99,
+  "taxonomy_id": 1250,
+  "tags": [
+    "coaster set",
+    "custom coasters",
+    "game night",
+    "house rules",
+    "personalised coaster",
+    "christmas gift",
+    "family game",
+    "coasters",
+    "gift for host",
+    "table decor",
+    "custom gift",
+    "game night gift",
+    "christmas game"
+  ],
+  "description": "Wooden coasters with house rules, names, or a hobby pattern.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Design text",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 500
+    }
+  ],
+  "agent_sku": "coaster-set",
+  "fulfilment_blurb": "Printed on demand.",
+  "gift_occasions": "christmas,host gift,game night",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#prod-coaster-set",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

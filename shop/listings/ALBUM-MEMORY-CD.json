@@ -1,0 +1,73 @@
+{
+  "priority": 6,
+  "sku": "ALBUM-MEMORY-CD",
+  "etsy_listing_id": "4586678882",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Couples & Weddings",
+  "etsy_title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+  "price": 34.99,
+  "taxonomy_id": 1250,
+  "tags": [
+    "personalised album",
+    "custom album",
+    "memory album",
+    "anniversary gift",
+    "birthday gift",
+    "song ep",
+    "digital download",
+    "personalised music",
+    "story album",
+    "gift for her",
+    "gift for him",
+    "keepsake",
+    "christmas gift"
+  ],
+  "description": "We turn your stories and style notes into a 4\u201310 track album with custom cover, CD and digital download.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Who is this for?",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 500
+    },
+    {
+      "question_text": "Stories and style notes",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Cover direction",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 1024
+    }
+  ],
+  "agent_sku": "memory-album",
+  "fulfilment_blurb": "Produced to order. UK/US CD partners. Order early for Christmas.",
+  "gift_occasions": "anniversary,birthday,christmas,wedding",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#album-memory-cd",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

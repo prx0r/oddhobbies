@@ -1,0 +1,73 @@
+{
+  "priority": 11,
+  "sku": "PROD-TOP-TRUMPS",
+  "etsy_listing_id": "4586691360",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Game Night",
+  "etsy_title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+  "price": 24.99,
+  "taxonomy_id": 1554,
+  "tags": [
+    "top trumps",
+    "custom card game",
+    "battle cards",
+    "family cards",
+    "game night",
+    "christmas gift",
+    "personalised cards",
+    "playing cards",
+    "custom trumps",
+    "gift for family",
+    "card game",
+    "personalised gift",
+    "christmas game"
+  ],
+  "description": "Family or couple battle cards \u2014 your people, your pets, your stats. Game night only your table can play.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Names on cards",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Photos",
+      "question_type": "labeled_upload",
+      "required": 0,
+      "max_chars": 2
+    },
+    {
+      "question_text": "Funny stats",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 1024
+    }
+  ],
+  "agent_sku": "top-trumps",
+  "fulfilment_blurb": "Card deck printed on demand.",
+  "gift_occasions": "christmas,game night,family",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#prod-top-trumps",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}

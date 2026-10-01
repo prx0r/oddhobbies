@@ -1,0 +1,73 @@
+{
+  "priority": 14,
+  "sku": "PROD-XMAS-PLAYING-CARDS",
+  "etsy_listing_id": "4586691388",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Couples & Weddings",
+  "etsy_title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+  "price": 22.99,
+  "taxonomy_id": 1554,
+  "tags": [
+    "personalised playing",
+    "custom deck",
+    "christmas gift",
+    "family cards",
+    "wedding cards",
+    "gift for couple",
+    "card deck",
+    "personalised gift",
+    "playing cards",
+    "custom cards",
+    "keepsake",
+    "game night",
+    "wedding gift"
+  ],
+  "description": "Custom deck from your photos. Also works as a wedding guest-book card set.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design \u2014 not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 \u00b7 postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Photos",
+      "question_type": "labeled_upload",
+      "required": 0,
+      "max_chars": 2
+    },
+    {
+      "question_text": "Names",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 500
+    },
+    {
+      "question_text": "Date if wedding",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 80
+    }
+  ],
+  "agent_sku": "playing-cards",
+  "fulfilment_blurb": "Card deck printed on demand.",
+  "gift_occasions": "christmas,wedding,gift for couple",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#prod-xmas-playing-cards",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ]
+}
