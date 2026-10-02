@@ -1,6 +1,7 @@
 # Brand stack — how commerce + cmail + stevejobless fit
 
 > Domains live on Cloudflare. Products live in the commerce graph.
+> Brand identity graph (branches/content methods): `/root/bgraph`
 > Mail lands in cmail. Desired-vs-observed lives in stevejobless.
 > Influence runs social/content passports on the same identity rails.
 
