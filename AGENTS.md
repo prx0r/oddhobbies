@@ -84,3 +84,5 @@ MCP tools: `store_list`, `store_get`, `store_products`, `store_agent_catalog`, `
 | stonedoorway | empty until thesis |
 | Social claims | X/YT available — human signup |
 | Photos / ads | next blockers |
+
+**Spine:** `/root/bgraph` · site map: `docs/commerce/SITE-LINK.md`
