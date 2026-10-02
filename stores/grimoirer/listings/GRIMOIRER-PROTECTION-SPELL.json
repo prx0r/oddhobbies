@@ -1,0 +1,49 @@
+{
+  "store_id": "grimoirer",
+  "brand_id": "grimoirer",
+  "sku": "GRIMOIRER-PROTECTION-SPELL",
+  "price": 20,
+  "currency": "USD",
+  "state": "draft",
+  "section": "Spell Kits",
+  "make": "kit",
+  "etsy_title": "Protection Ritual Kit | Candle | Sigil Card | Printed Guide | Historical Practice | Gift for Home",
+  "description": "Protection ritual kit based on historical practices — candle, original sigil card, and a clear printed guide.\n\nHOW IT WORKS:\n1. Order the kit\n2. Pack arrives candle + sigil card + guide\n3. Follow the historical context notes\n\nWHAT YOU GET:\n- Protection candle\n- Original hand-drawn sigil card (our design)\n- Printed guide with sources and honest disclaimers\n- Gift-ready wrap\n\nWe say \"based on historical practices,\" not \"this spell works.\" 5% charity.",
+  "tags": [
+    "protection ritual",
+    "spell kit",
+    "candle kit",
+    "sigil card",
+    "pagan gift",
+    "home blessing",
+    "witch kit",
+    "ritual guide",
+    "occult gift",
+    "protection spell",
+    "handmade kit",
+    "spiritual gift",
+    "yule gift"
+  ],
+  "agent_sku": "grimoirer-protection-kit",
+  "supplier_primary": "SELF",
+  "unit_cost": 6.5,
+  "cost_currency": "USD",
+  "cost_source": "estimate",
+  "cost_note": "Candle + card print + guide — confirm AromaG's / Mountain Rose pins",
+  "personalisation": [],
+  "agent_catalog": {
+    "display_name": "Protection Ritual Kit",
+    "summary": "Candle, original sigil card, and a historical-practice guide. Honest craft, not magic guarantees.",
+    "how_it_works": "1. Order 2. Pack arrives 3. Read the guide first 4. Practice with sources",
+    "price_tier": "treat",
+    "gift_occasions": "housewarming,yule,birthday",
+    "fulfilment_blurb": "Packed to order · 5–10 day dispatch",
+    "is_orderable": 0,
+    "is_customisable": 0
+  },
+  "ip_notes": "Original sigil design. Historical language only. No medical/therapeutic claims.",
+  "go_live_blocker": "Sample + photos + charity partner wiring",
+  "source_refs": [
+    "/root/grimoirer/docs/PRODUCTS.md"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "priority": 15,
+  "sku": "ALBUM-WEDDING-VIDEO",
+  "etsy_listing_id": "4586678898",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Couples & Weddings",
+  "etsy_title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+  "price": 59.99,
+  "taxonomy_id": 1250,
+  "tags": [
+    "wedding album",
+    "wedding cd",
+    "video album",
+    "anniversary gift",
+    "wedding keepsake",
+    "custom wedding",
+    "personalised wedding",
+    "photo album",
+    "gift for couple",
+    "engagement gift",
+    "wedding gift",
+    "keepsake",
+    "christmas gift"
+  ],
+  "description": "Send your wedding footage — we craft a keepsake audio album and optional photo book.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design — not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 · postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Couple and date",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 500
+    },
+    {
+      "question_text": "Key moments",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Music direction",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 1024
+    }
+  ],
+  "agent_sku": "wedding-video-album",
+  "fulfilment_blurb": "Produced to order. Longer lead time.",
+  "gift_occasions": "wedding,anniversary,engagement",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#album-wedding-video",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ],
+  "shopify_product_id": 16052219740541,
+  "shopify_handle": "album-wedding-video",
+  "shopify_status": "draft",
+  "store_id": "oddhobb",
+  "brand_id": "oddhobb",
+  "section": "Couples & Weddings"
+}

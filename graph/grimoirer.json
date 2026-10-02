@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-02T05:57:32.467811+00:00",
+  "store_id": "grimoirer",
+  "store": {
+    "id": "grimoirer",
+    "name": "Grimoirer",
+    "brand_id": "grimoirer",
+    "brand_name": "Grimoirer",
+    "currency": "USD",
+    "status": "draft",
+    "pack_path": "stores/grimoirer",
+    "r2_prefix": "commerce/stores/grimoirer"
+  },
+  "counts": {
+    "products": 4,
+    "listings": 0,
+    "assets": 0,
+    "agent_catalog": 4,
+    "channels": 1,
+    "nodes": 10,
+    "edges": 10
+  },
+  "channels": [
+    {
+      "id": "site:grimoirer",
+      "channel": "website",
+      "shop_name": "Grimoirer",
+      "external_id": null,
+      "domain": "https://grimoirer.com",
+      "currency": "USD",
+      "status": "pending_dns"
+    }
+  ],
+  "products": [
+    {
+      "product_row_id": 4,
+      "sku": "GRIMOIRER-SIGIL-PROTECTION",
+      "title": "Protection Sigil Pack | Printable Occult Symbols | 20 Original Sigils | Transparent PNG | Digital Download",
+      "section": "Digital Projects",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "grimoirer-protection-sigils",
+      "priority": null,
+      "retail_price": 7.99,
+      "retail_currency": "USD",
+      "unit_cost": 0.0,
+      "cost_currency": "USD"
+    },
+    {
+      "product_row_id": 1,
+      "sku": "GRIMOIRER-KOS-DIGITAL",
+      "title": "Key of Solomon Digital Grimoire Pack | Printable Pentacles | Ritual Guide | Academic Occult PDF | Digital Download",
+      "section": "Grimoire Packs",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "grimoirer-kos-digital",
+      "priority": null,
+      "retail_price": 4.99,
+      "retail_currency": "USD",
+      "unit_cost": 0.0,
+      "cost_currency": "USD"
+    },
+    {
+      "product_row_id": 2,
+      "sku": "GRIMOIRER-KOS-STARTER",
+      "title": "Key of Solomon Starter Ritual Kit | Paperback Grimoire | Candle | Herb Set | Guide | Gift for Practitioner",
+      "section": "Grimoire Packs",
+      "make": "kit",
+      "status": "draft",
+      "agent_sku": "grimoirer-kos-starter",
+      "priority": null,
+      "retail_price": 25.0,
+      "retail_currency": "USD",
+      "unit_cost": 9.5,
+      "cost_currency": "USD"
+    },
+    {
+      "product_row_id": 3,
+      "sku": "GRIMOIRER-PROTECTION-SPELL",
+      "title": "Protection Ritual Kit | Candle | Sigil Card | Printed Guide | Historical Practice | Gift for Home",
+      "section": "Spell Kits",
+      "make": "kit",
+      "status": "draft",
+      "agent_sku": "grimoirer-protection-kit",
+      "priority": null,
+      "retail_price": 20.0,
+      "retail_currency": "USD",
+      "unit_cost": 6.5,
+      "cost_currency": "USD"
+    }
+  ],
+  "listings": [],
+  "assets": [],
+  "agent_catalog": [
+    {
+      "agent_sku": "grimoirer-kos-digital",
+      "display_name": "Key of Solomon Digital Pack",
+      "summary": "Printable scholarly Key of Solomon pack — pentacles, hours, ritual structure. Instant PDF delivery.",
+      "price_tier": "impulse",
+      "gift_occasions": "yule,birthday,self-gift",
+      "fulfilment_blurb": "Instant digital download",
+      "is_orderable": 0,
+      "product_id": 1
+    },
+    {
+      "agent_sku": "grimoirer-kos-starter",
+      "display_name": "Key of Solomon Starter Kit",
+      "summary": "Paperback grimoire plus candle, tools, and a printed guide that explains what everything is for.",
+      "price_tier": "gift",
+      "gift_occasions": "yule,birthday,handfasting",
+      "fulfilment_blurb": "Packed to order · 5–10 day dispatch",
+      "is_orderable": 0,
+      "product_id": 2
+    },
+    {
+      "agent_sku": "grimoirer-protection-kit",
+      "display_name": "Protection Ritual Kit",
+      "summary": "Candle, original sigil card, and a historical-practice guide. Honest craft, not magic guarantees.",
+      "price_tier": "treat",
+      "gift_occasions": "housewarming,yule,birthday",
+      "fulfilment_blurb": "Packed to order · 5–10 day dispatch",
+      "is_orderable": 0,
+      "product_id": 3
+    },
+    {
+      "agent_sku": "grimoirer-protection-sigils",
+      "display_name": "Protection Sigil Pack",
+      "summary": "20 original protection sigils as transparent PNGs plus a printable sheet.",
+      "price_tier": "impulse",
+      "gift_occasions": "self-gift,yule,birthday",
+      "fulfilment_blurb": "Instant digital download",
+      "is_orderable": 0,
+      "product_id": 4
+    }
+  ],
+  "sales_summary": [],
+  "ad_readiness": [
+    {
+      "sku": "GRIMOIRER-KOS-DIGITAL",
+      "title": "Key of Solomon Digital Grimoire Pack | Printable Pentacles | Ritual Guide | Academic Occult PDF | Digital Download",
+      "status": "draft",
+      "retail_price": 4.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "GRIMOIRER-KOS-STARTER",
+      "title": "Key of Solomon Starter Ritual Kit | Paperback Grimoire | Candle | Herb Set | Guide | Gift for Practitioner",
+      "status": "draft",
+      "retail_price": 25.0,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "GRIMOIRER-PROTECTION-SPELL",
+      "title": "Protection Ritual Kit | Candle | Sigil Card | Printed Guide | Historical Practice | Gift for Home",
+      "status": "draft",
+      "retail_price": 20.0,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "GRIMOIRER-SIGIL-PROTECTION",
+      "title": "Protection Sigil Pack | Printable Occult Symbols | 20 Original Sigils | Transparent PNG | Digital Download",
+      "status": "draft",
+      "retail_price": 7.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    }
+  ],
+  "nodes": [
+    {
+      "id": "grimoirer",
+      "type": "store",
+      "label": "Grimoirer",
+      "data": {
+        "brand_id": "grimoirer",
+        "brand_name": "Grimoirer",
+        "currency": "USD",
+        "status": "draft",
+        "thesis": "Esoteric craft — grimoire packs, ritual kits, scholarly occult objects. Honest sources. Charity cut."
+      }
+    },
+    {
+      "id": "site:grimoirer",
+      "type": "channel",
+      "label": "Grimoirer",
+      "data": {
+        "id": "site:grimoirer",
+        "channel": "website",
+        "shop_name": "Grimoirer",
+        "external_id": null,
+        "domain": "https://grimoirer.com",
+        "currency": "USD",
+        "status": "pending_dns"
+      }
+    },
+    {
+      "id": "grimoirer:product:GRIMOIRER-SIGIL-PROTECTION",
+      "type": "product",
+      "label": "Protection Sigil Pack | Printable Occult Symbols | 20 Original Sigils | Transparent PNG | Digital Download",
+      "data": {
+        "product_row_id": 4,
+        "sku": "GRIMOIRER-SIGIL-PROTECTION",
+        "title": "Protection Sigil Pack | Printable Occult Symbols | 20 Original Sigils | Transparent PNG | Digital Download",
+        "section": "Digital Projects",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "grimoirer-protection-sigils",
+        "priority": null,
+        "retail_price": 7.99,
+        "retail_currency": "USD",
+        "unit_cost": 0.0,
+        "cost_currency": "USD"
+      }
+    },
+    {
+      "id": "grimoirer:agent:grimoirer-protection-sigils",
+      "type": "agent_sku",
+      "label": "grimoirer-protection-sigils",
+      "data": {
+        "agent_sku": "grimoirer-protection-sigils"
+      }
+    },
+    {
+      "id": "grimoirer:product:GRIMOIRER-KOS-DIGITAL",
+      "type": "product",
+      "label": "Key of Solomon Digital Grimoire Pack | Printable Pentacles | Ritual Guide | Academic Occult PDF | Digital Download",
+      "data": {
+        "product_row_id": 1,
+        "sku": "GRIMOIRER-KOS-DIGITAL",
+        "title": "Key of Solomon Digital Grimoire Pack | Printable Pentacles | Ritual Guide | Academic Occult PDF | Digital Download",
+        "section": "Grimoire Packs",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "grimoirer-kos-digital",
+        "priority": null,
+        "retail_price": 4.99,
+        "retail_currency": "USD",
+        "unit_cost": 0.0,
+        "cost_currency": "USD"
+      }
+    },
+    {
+      "id": "grimoirer:agent:grimoirer-kos-digital",
+      "type": "agent_sku",
+      "label": "grimoirer-kos-digital",
+      "data": {
+        "agent_sku": "grimoirer-kos-digital"
+      }
+    },
+    {
+      "id": "grimoirer:product:GRIMOIRER-KOS-STARTER",
+      "type": "product",
+      "label": "Key of Solomon Starter Ritual Kit | Paperback Grimoire | Candle | Herb Set | Guide | Gift for Practitioner",
+      "data": {
+        "product_row_id": 2,
+        "sku": "GRIMOIRER-KOS-STARTER",
+        "title": "Key of Solomon Starter Ritual Kit | Paperback Grimoire | Candle | Herb Set | Guide | Gift for Practitioner",
+        "section": "Grimoire Packs",
+        "make": "kit",
+        "status": "draft",
+        "agent_sku": "grimoirer-kos-starter",
+        "priority": null,
+        "retail_price": 25.0,
+        "retail_currency": "USD",
+        "unit_cost": 9.5,
+        "cost_currency": "USD"
+      }
+    },
+    {
+      "id": "grimoirer:agent:grimoirer-kos-starter",
+      "type": "agent_sku",
+      "label": "grimoirer-kos-starter",
+      "data": {
+        "agent_sku": "grimoirer-kos-starter"
+      }
+    },
+    {
+      "id": "grimoirer:product:GRIMOIRER-PROTECTION-SPELL",
+      "type": "product",
+      "label": "Protection Ritual Kit | Candle | Sigil Card | Printed Guide | Historical Practice | Gift for Home",
+      "data": {
+        "product_row_id": 3,
+        "sku": "GRIMOIRER-PROTECTION-SPELL",
+        "title": "Protection Ritual Kit | Candle | Sigil Card | Printed Guide | Historical Practice | Gift for Home",
+        "section": "Spell Kits",
+        "make": "kit",
+        "status": "draft",
+        "agent_sku": "grimoirer-protection-kit",
+        "priority": null,
+        "retail_price": 20.0,
+        "retail_currency": "USD",
+        "unit_cost": 6.5,
+        "cost_currency": "USD"
+      }
+    },
+    {
+      "id": "grimoirer:agent:grimoirer-protection-kit",
+      "type": "agent_sku",
+      "label": "grimoirer-protection-kit",
+      "data": {
+        "agent_sku": "grimoirer-protection-kit"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "grimoirer",
+      "to": "grimoirer",
+      "rel": "operates"
+    },
+    {
+      "from": "grimoirer",
+      "to": "site:grimoirer",
+      "rel": "channel"
+    },
+    {
+      "from": "grimoirer",
+      "to": "grimoirer:product:GRIMOIRER-SIGIL-PROTECTION",
+      "rel": "sells"
+    },
+    {
+      "from": "grimoirer:product:GRIMOIRER-SIGIL-PROTECTION",
+      "to": "grimoirer:agent:grimoirer-protection-sigils",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "grimoirer",
+      "to": "grimoirer:product:GRIMOIRER-KOS-DIGITAL",
+      "rel": "sells"
+    },
+    {
+      "from": "grimoirer:product:GRIMOIRER-KOS-DIGITAL",
+      "to": "grimoirer:agent:grimoirer-kos-digital",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "grimoirer",
+      "to": "grimoirer:product:GRIMOIRER-KOS-STARTER",
+      "rel": "sells"
+    },
+    {
+      "from": "grimoirer:product:GRIMOIRER-KOS-STARTER",
+      "to": "grimoirer:agent:grimoirer-kos-starter",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "grimoirer",
+      "to": "grimoirer:product:GRIMOIRER-PROTECTION-SPELL",
+      "rel": "sells"
+    },
+    {
+      "from": "grimoirer:product:GRIMOIRER-PROTECTION-SPELL",
+      "to": "grimoirer:agent:grimoirer-protection-kit",
+      "rel": "exposed_as"
+    }
+  ]
+}

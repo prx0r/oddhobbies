@@ -1,0 +1,73 @@
+{
+  "priority": 3,
+  "sku": "XMAS-3D-MAHJONG-READER",
+  "etsy_listing_id": "4586657665",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Game Night",
+  "etsy_title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+  "price": 11.99,
+  "taxonomy_id": 2387,
+  "tags": [
+    "mahjong gift",
+    "line reader",
+    "mahjong accessory",
+    "personalised mahjong",
+    "custom tile guide",
+    "mahjong player",
+    "christmas gift",
+    "board game",
+    "family game",
+    "personalised gift",
+    "game night",
+    "tabletop gift",
+    "mahjong set"
+  ],
+  "description": "A slim personalised guide that helps you read mahjong tile sequences. The accessory serious players actually want.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design — not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 · postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Name to engrave",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Colour",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 80
+    }
+  ],
+  "agent_sku": "mahjong-line-reader",
+  "fulfilment_blurb": "3D printed to order. Fast UK dispatch.",
+  "gift_occasions": "christmas,mahjong night,gift for her",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#xmas-3d-mahjong-reader",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ],
+  "shopify_product_id": 16052220035453,
+  "shopify_handle": "xmas-3d-mahjong-reader",
+  "shopify_status": "draft",
+  "store_id": "oddhobb",
+  "brand_id": "oddhobb",
+  "section": "Game Night"
+}

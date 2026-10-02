@@ -1,0 +1,138 @@
+{
+  "store_id": "oddhobb",
+  "brand_id": "oddhobb",
+  "store_name": "OddHobb",
+  "shopify_store_name": "OddHobb",
+  "currency": "USD",
+  "channel_currencies": {
+    "etsy": "USD",
+    "shopify": "GBP"
+  },
+  "base_country": "GB",
+  "status": "draft",
+  "thesis": "Brick figures + hobby gifts. Couples, game night, keepsakes. Whole-store gift energy.",
+  "brand_line": "Your people. In brick. For the ones who matter.",
+  "pack_path": "stores/oddhobb",
+  "r2_prefix": "commerce/stores/oddhobb",
+  "sections": [
+    "Featured",
+    "Couples & Weddings",
+    "Game Night",
+    "Physical Media",
+    "Add-Ons"
+  ],
+  "sections_forbidden": [
+    "Christmas Gifts",
+    "Christmas Stocking Fillers"
+  ],
+  "style_lock": {
+    "background": "warm cream (#F7F3EE) or soft white; optional seasonal bokeh",
+    "lighting": "soft key light, gentle shadows, warm fill",
+    "figures": "blocky brick-style characters, matte PLA, not copyrighted characters",
+    "avoid": [
+      "brand-name toys",
+      "LEGO marks",
+      "Scrabble boards",
+      "busy neon"
+    ]
+  },
+  "identity": {
+    "primary_domain": "oddhobb.com",
+    "alt_domains": [
+      "pog.pet"
+    ],
+    "cf_account_id": "954612afb5a97bb15dddcdc70176813d",
+    "cf_nameservers": [
+      "gina.ns.cloudflare.com",
+      "pete.ns.cloudflare.com"
+    ],
+    "cf_status": "active",
+    "registrar": "spaceship_or_cf",
+    "dns_status": "active",
+    "email_hello": "hello@oddhobb.com",
+    "email_orders": "orders@oddhobb.com",
+    "email_forward": "tradesprior@gmail.com",
+    "shopify_custom_domain": "https://oddhobb.com",
+    "identity_doc": "stores/oddhobb/IDENTITY.md",
+    "socials": {
+      "lock_status": "LOCKED",
+      "uniform_handle": "@oddhobbstudio",
+      "display_name": "OddHobb",
+      "x": "@oddhobbstudio",
+      "x_status": "available",
+      "youtube": "@oddhobbstudio",
+      "youtube_status": "available",
+      "tiktok": "@oddhobbstudio",
+      "tiktok_status": "claim_not_found",
+      "instagram": "@oddhobbstudio",
+      "instagram_status": "phone_check",
+      "pinterest": "@oddhobbstudio",
+      "pinterest_status": "browser_check",
+      "github": "@oddhobbstudio",
+      "github_status": "not_found_signup",
+      "email": "hello@oddhobb.com",
+      "bio": "Your people. In brick. For the ones who matter.",
+      "notes": "Matches Etsy oddhobbstudio; legacy IG @oddhobb may remain",
+      "checked": "2026-10-02",
+      "locked_on": "2026-10-02"
+    },
+    "socials_doc": "/root/oddhobbies/stores/oddhobb/SOCIALS.md",
+    "email_status": "ready_cf_routing",
+    "shared_phone": "+447822000802",
+    "shared_phone_provider": "telnyx",
+    "shared_phone_status": "requirement-info-exception_kyc",
+    "shared_phone_doc": "docs/commerce/SHARED-PHONE.md"
+  },
+  "channels": [
+    {
+      "channel_id": "shopify:oddhobb",
+      "channel": "shopify",
+      "shop_name": "OddHobb",
+      "external_id": null,
+      "domain": "https://byg8sv-p6.myshopify.com",
+      "custom_domain": "https://oddhobb.com",
+      "currency": "GBP",
+      "auth_ref": "SHOPIFY_SHOP_DOMAIN / SHOPIFY_ACCESS_TOKEN",
+      "status": "active",
+      "email_hello": "hello@oddhobb.com",
+      "email_orders": "orders@oddhobb.com",
+      "phone": "+447822000802"
+    },
+    {
+      "channel_id": "etsy:legacy_pogpet",
+      "channel": "etsy",
+      "shop_name": "PogPet (legacy — do not brand as PogPet)",
+      "external_id": "67863887",
+      "domain": "https://www.etsy.com/shop/pogpet",
+      "currency": "USD",
+      "auth_ref": "ETSY_* (laptop OAuth)",
+      "status": "blocked",
+      "note": "Historical drafts only. Public brand = OddHobb. Create Etsy OddHobb shop when ready."
+    }
+  ],
+  "fulfilment": {
+    "3d_print_uk": "MAKR3D",
+    "3d_print_us": "PRINTIE",
+    "flat_print": "PRODIGI",
+    "media": "KUNAKI / DISKCR"
+  },
+  "pricing_policy": {
+    "currency_note": "Pack prices USD display intent. Shopify store GBP — convert or reprice before go-live.",
+    "free_shipping_threshold": 19.99,
+    "addons": [
+      {
+        "sku": "ADDON-STICKER",
+        "price_usd": 3.99
+      },
+      {
+        "sku": "ADDON-POSTCARD",
+        "price_usd": 2.99
+      }
+    ]
+  },
+  "related_repos": [
+    "/root/oddhobbies",
+    "/root/bwick"
+  ],
+  "updated": "2026-10-02"
+}

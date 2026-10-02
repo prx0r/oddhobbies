@@ -1,0 +1,99 @@
+{
+  "store_id": "stonedoorway",
+  "brand_id": "stonedoorway",
+  "store_name": "StoneDoorway",
+  "currency": "USD",
+  "channel_currencies": {
+    "etsy": "USD",
+    "shopify": "USD"
+  },
+  "base_country": "GB",
+  "status": "draft",
+  "thesis": "PLACEHOLDER — define thesis before products.",
+  "brand_line": "TODO",
+  "pack_path": "stores/stonedoorway",
+  "r2_prefix": "commerce/stores/stonedoorway",
+  "sections": [
+    "Featured",
+    "TODO"
+  ],
+  "sections_forbidden": [],
+  "style_lock": {
+    "background": "TODO",
+    "lighting": "TODO",
+    "props": [],
+    "avoid": []
+  },
+  "identity": {
+    "primary_domain": "stonedoorway.com",
+    "alt_domains": [],
+    "cf_account_id": "954612afb5a97bb15dddcdc70176813d",
+    "cf_zone_id": "fb5d6107f3ba0ec36985b046d4c91570",
+    "cf_nameservers": [
+      "gina.ns.cloudflare.com",
+      "pete.ns.cloudflare.com"
+    ],
+    "cf_status": "active",
+    "registrar": "spaceship",
+    "dns_status": "active",
+    "email_hello": "hello@stonedoorway.com",
+    "email_orders": "orders@stonedoorway.com",
+    "email_forward": "tradesprior@gmail.com",
+    "identity_doc": "stores/stonedoorway/IDENTITY.md",
+    "socials": {
+      "lock_status": "LOCKED",
+      "uniform_handle": "@stonedoorway",
+      "display_name": "StoneDoorway",
+      "x": "@stonedoorway",
+      "x_status": "available",
+      "youtube": "@stonedoorway",
+      "youtube_status": "available",
+      "tiktok": "@stonedoorway",
+      "tiktok_status": "claim_not_found",
+      "instagram": "@stonedoorway",
+      "instagram_status": "phone_check",
+      "pinterest": "@stonedoorway",
+      "pinterest_status": "browser_check",
+      "github": "@stonedoorway",
+      "github_status": "not_found_signup",
+      "email": "hello@stonedoorway.com",
+      "bio": "TODO thesis",
+      "checked": "2026-10-02",
+      "locked_on": "2026-10-02"
+    },
+    "socials_doc": "/root/oddhobbies/stores/stonedoorway/SOCIALS.md",
+    "email_status": "ready_cf_routing",
+    "shared_phone": "+447822000802",
+    "shared_phone_provider": "telnyx",
+    "shared_phone_status": "requirement-info-exception_kyc",
+    "shared_phone_doc": "docs/commerce/SHARED-PHONE.md"
+  },
+  "channels": [
+    {
+      "channel_id": "site:stonedoorway",
+      "channel": "website",
+      "shop_name": "StoneDoorway",
+      "external_id": null,
+      "domain": "https://stonedoorway.com",
+      "currency": "USD",
+      "auth_ref": "CF zone stonedoorway.com",
+      "status": "pending_dns",
+      "email_hello": "hello@stonedoorway.com",
+      "email_orders": "orders@stonedoorway.com",
+      "phone": "+447822000802"
+    }
+  ],
+  "fulfilment": {},
+  "pricing_policy": {
+    "currency_note": "Set after brand thesis."
+  },
+  "related_repos": [],
+  "updated": "2026-10-02",
+  "blockers": [
+    "Define brand thesis",
+    "Choose first SKUs",
+    "Style lock",
+    "Listing packs",
+    "Channels"
+  ]
+}

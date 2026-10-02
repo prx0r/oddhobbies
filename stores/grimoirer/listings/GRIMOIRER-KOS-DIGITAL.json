@@ -1,0 +1,58 @@
+{
+  "store_id": "grimoirer",
+  "brand_id": "grimoirer",
+  "sku": "GRIMOIRER-KOS-DIGITAL",
+  "price": 4.99,
+  "currency": "USD",
+  "state": "draft",
+  "section": "Grimoire Packs",
+  "make": "digital",
+  "etsy_title": "Key of Solomon Digital Grimoire Pack | Printable Pentacles | Ritual Guide | Academic Occult PDF | Digital Download",
+  "description": "Scholarly Key of Solomon digital pack — printable pentacles, planetary hours, and ritual structure based on the public-domain Mathers translation.\n\nHOW IT WORKS:\n1. Order and download instantly\n2. Print pages you need (A5 + US Letter)\n3. Follow the included correspondence tables\n\nWHAT YOU GET:\n- 50+ printable pages\n- Sigil / pentacle cards\n- Ritual structure guide (historical, not a guarantee of results)\n- Source notes and translation credit\n\nHonest craft for your practice. 5% of sale goes to a verified charity.\nInstant delivery · original layout · public-domain source text.",
+  "tags": [
+    "key of solomon",
+    "grimoire digital",
+    "printable grimoire",
+    "pentacles",
+    "ritual guide",
+    "occult pdf",
+    "solomonic magic",
+    "pagan digital",
+    "book of shadows",
+    "sigil cards",
+    "planetary hours",
+    "witch journal",
+    "digital download"
+  ],
+  "agent_sku": "grimoirer-kos-digital",
+  "supplier_primary": "SELF",
+  "unit_cost": 0,
+  "cost_currency": "USD",
+  "cost_source": "verified",
+  "cost_note": "Digital — no unit production cost",
+  "personalisation": [
+    {
+      "question_text": "Name on cover (optional)",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 40
+    }
+  ],
+  "agent_catalog": {
+    "display_name": "Key of Solomon Digital Pack",
+    "summary": "Printable scholarly Key of Solomon pack — pentacles, hours, ritual structure. Instant PDF delivery.",
+    "how_it_works": "1. Order 2. Download 3. Print what you need 4. Practice with historical sources",
+    "price_tier": "impulse",
+    "gift_occasions": "yule,birthday,self-gift",
+    "fulfilment_blurb": "Instant digital download",
+    "is_orderable": 0,
+    "is_customisable": 1
+  },
+  "ip_notes": "Public-domain Mathers translation. Original layout. No trademarked occult brand names.",
+  "go_live_blocker": "PDF production + listing photos + Etsy/Shopify credentials for Ochema",
+  "source_refs": [
+    "/root/grimoirer/data/grimoires/key_of_solomon.json",
+    "/root/grimoirer/docs/GRIMOIRE-PACK-STRATEGY.md",
+    "/root/grimoirer/docs/PRODUCTS.md"
+  ]
+}

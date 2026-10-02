@@ -1,0 +1,19 @@
+{
+  "provider": "telnyx",
+  "phone_number": "+447822000802",
+  "phone_number_status": "requirement-info-exception",
+  "connection_id": "3030047971774301870",
+  "connection_name": "QuickCall SIP",
+  "messaging_profile_id": "4001a0d8-bd38-4c90-98e9-79fc8d6fc01a",
+  "shared_across": [
+    "oddhobb",
+    "grimoirer",
+    "stonedoorway"
+  ],
+  "vault_keys": [
+    "TELNYX_API_KEY",
+    "SHARED_PHONE_NUMBER",
+    "TELNYX_CONNECTION_ID",
+    "TELNYX_MESSAGING_PROFILE_ID"
+  ]
+}

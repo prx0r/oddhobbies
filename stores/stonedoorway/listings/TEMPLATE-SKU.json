@@ -1,0 +1,31 @@
+{
+  "store_id": "stonedoorway",
+  "brand_id": "stonedoorway",
+  "sku": "TEMPLATE-SKU",
+  "price": 0,
+  "currency": "USD",
+  "state": "draft",
+  "section": "Featured",
+  "make": "digital",
+  "etsy_title": "REPLACE ME | Store title ≤140 chars | No brand marks | Include what it fits",
+  "description": "REPLACE ME — hook first (~160 chars), then HOW IT WORKS, WHAT YOU GET, IP note, fulfilment.\n\nHOW IT WORKS:\n1. ...\n\nWHAT YOU GET:\n- ...\n\nOriginal design. No third-party brand marks.",
+  "tags": [
+    "template",
+    "replace-me",
+    "tag-1",
+    "tag-2",
+    "tag-3",
+    "tag-4",
+    "tag-5",
+    "tag-6",
+    "tag-7",
+    "tag-8",
+    "tag-9",
+    "tag-10",
+    "tag-11"
+  ],
+  "agent_sku": "template-sku",
+  "make_note": "Delete this file when the first real SKU lands.",
+  "ip_notes": "Scan titles/tags for brand marks before any push.",
+  "go_live_blocker": "Define brand thesis first"
+}

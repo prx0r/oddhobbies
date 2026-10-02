@@ -1,0 +1,125 @@
+{
+  "store_id": "grimoirer",
+  "brand_id": "grimoirer",
+  "store_name": "Grimoirer",
+  "currency": "USD",
+  "channel_currencies": {
+    "etsy": "USD",
+    "shopify": "USD"
+  },
+  "base_country": "GB",
+  "status": "draft",
+  "thesis": "Esoteric craft — grimoire packs, ritual kits, scholarly occult objects. Honest sources. Charity cut.",
+  "brand_line": "Your practice, your way.",
+  "pack_path": "stores/grimoirer",
+  "r2_prefix": "commerce/stores/grimoirer",
+  "sections": [
+    "Featured",
+    "Spell Kits",
+    "Digital Projects",
+    "Grimoire Packs",
+    "Custom Items",
+    "Bundles"
+  ],
+  "sections_forbidden": [],
+  "style_lock": {
+    "background": "deep purple (#3D1F5C), black velvet, dark wood; gold accents (#C9A94E)",
+    "lighting": "candlelight or warm tungsten; product lit for engraving",
+    "props": [
+      "candles",
+      "crystals",
+      "dried herbs",
+      "old keys",
+      "feathers"
+    ],
+    "avoid": [
+      "white studio backgrounds",
+      "medical claims",
+      "guaranteed spell results"
+    ]
+  },
+  "identity": {
+    "primary_domain": "grimoirer.com",
+    "alt_domains": [],
+    "cf_account_id": "954612afb5a97bb15dddcdc70176813d",
+    "cf_zone_id": "3b0ddcea9c15b0de55a8b349dd31c89d",
+    "cf_nameservers": [
+      "gina.ns.cloudflare.com",
+      "pete.ns.cloudflare.com"
+    ],
+    "cf_status": "active",
+    "registrar": "spaceship",
+    "dns_status": "active",
+    "email_hello": "hello@grimoirer.com",
+    "email_orders": "orders@grimoirer.com",
+    "email_forward": "tradesprior@gmail.com",
+    "identity_doc": "stores/grimoirer/IDENTITY.md",
+    "socials": {
+      "lock_status": "LOCKED",
+      "uniform_handle": "@thegrimoirer",
+      "display_name": "Grimoirer",
+      "x": "@thegrimoirer",
+      "x_status": "available",
+      "youtube": "@thegrimoirer",
+      "youtube_status": "available",
+      "tiktok": "@thegrimoirer",
+      "tiktok_status": "claim_on_signup",
+      "instagram": "@thegrimoirer",
+      "instagram_status": "phone_check",
+      "pinterest": "@thegrimoirer",
+      "pinterest_status": "browser_check",
+      "github": "@thegrimoirer",
+      "github_status": "not_found_signup",
+      "email": "hello@grimoirer.com",
+      "bio": "Your practice, your way. Honest craft. 5% charity.",
+      "avoid": [
+        "@grimoirer",
+        "@grimoirer_",
+        "@grimoirerhq",
+        "@grimoirerstudio"
+      ],
+      "checked": "2026-10-02",
+      "locked_on": "2026-10-02"
+    },
+    "socials_doc": "stores/grimoirer/SOCIALS.md",
+    "email_status": "ready_cf_routing",
+    "shared_phone": "+447822000802",
+    "shared_phone_provider": "telnyx",
+    "shared_phone_status": "requirement-info-exception_kyc",
+    "shared_phone_doc": "docs/commerce/SHARED-PHONE.md"
+  },
+  "channels": [
+    {
+      "channel_id": "site:grimoirer",
+      "channel": "website",
+      "shop_name": "Grimoirer",
+      "external_id": null,
+      "domain": "https://grimoirer.com",
+      "currency": "USD",
+      "auth_ref": "CF zone grimoirer.com",
+      "status": "pending_dns",
+      "email_hello": "hello@grimoirer.com",
+      "email_orders": "orders@grimoirer.com",
+      "phone": "+447822000802"
+    }
+  ],
+  "fulfilment": {
+    "digital": "self",
+    "books": "INGRAMSPARK / KDP",
+    "kits": "self + suppliers",
+    "3d_print": "MAKR3D",
+    "tarot": "QINPRINTING / MAKE_PLAYING_CARDS"
+  },
+  "pricing_policy": {
+    "currency_note": "Whole-number tiers preferred ($5 / $20 / $25 / $50 / $100).",
+    "charity_pct": 5,
+    "profit_target_pct": 20
+  },
+  "content_machine": [
+    "Grimoirer"
+  ],
+  "related_repos": [
+    "/root/grimoirer"
+  ],
+  "updated": "2026-10-02"
+}

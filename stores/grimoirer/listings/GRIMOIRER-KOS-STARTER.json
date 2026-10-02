@@ -1,0 +1,57 @@
+{
+  "store_id": "grimoirer",
+  "brand_id": "grimoirer",
+  "sku": "GRIMOIRER-KOS-STARTER",
+  "price": 25,
+  "currency": "USD",
+  "state": "draft",
+  "section": "Grimoire Packs",
+  "make": "kit",
+  "etsy_title": "Key of Solomon Starter Ritual Kit | Paperback Grimoire | Candle | Herb Set | Guide | Gift for Practitioner",
+  "description": "Starter Solomonic kit — paperback grimoire, candle, small herb/tool set, and an education layer that explains what each piece is for.\n\nHOW IT WORKS:\n1. Order the kit\n2. We pack paperback + tools + printed guide\n3. Tracked shipping\n\nWHAT YOU GET:\n- Paperback Key of Solomon (layout we designed from public-domain text)\n- Candle + small tool/herb set\n- Printed education layer (the part reviewers love)\n- Gift-ready packaging\n\nHistorical craft, not a spell guarantee. 5% charity on every sale.",
+  "tags": [
+    "ritual kit",
+    "starter kit",
+    "key of solomon",
+    "grimoire gift",
+    "pagan kit",
+    "spell candle",
+    "occult gift",
+    "witch starter",
+    "herb set",
+    "book of shadows",
+    "ritual tools",
+    "gift for witch",
+    "solomonic"
+  ],
+  "agent_sku": "grimoirer-kos-starter",
+  "supplier_primary": "SELF",
+  "unit_cost": 9.5,
+  "cost_currency": "USD",
+  "cost_source": "estimate",
+  "cost_note": "Paperback + candle + herbs + guide — confirm with print suppliers",
+  "personalisation": [
+    {
+      "question_text": "Gift note (optional)",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 200
+    }
+  ],
+  "agent_catalog": {
+    "display_name": "Key of Solomon Starter Kit",
+    "summary": "Paperback grimoire plus candle, tools, and a printed guide that explains what everything is for.",
+    "how_it_works": "1. Order 2. We pack kit 3. Tracked ship 4. Open the education layer first",
+    "price_tier": "gift",
+    "gift_occasions": "yule,birthday,handfasting",
+    "fulfilment_blurb": "Packed to order · 5–10 day dispatch",
+    "is_orderable": 0,
+    "is_customisable": 1
+  },
+  "ip_notes": "Original pack design. Public-domain source. No brand-marked tools.",
+  "go_live_blocker": "Sample kit build + photos + supplier pins",
+  "source_refs": [
+    "/root/grimoirer/docs/GRIMOIRE-PACK-STRATEGY.md",
+    "/root/grimoirer/docs/PREMIUM-MATERIALS.md"
+  ]
+}

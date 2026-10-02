@@ -1,0 +1,3169 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-02T05:57:32.469119+00:00",
+  "store_id": "oddhobb",
+  "store": {
+    "id": "oddhobb",
+    "name": "OddHobb",
+    "brand_id": "oddhobb",
+    "brand_name": "OddHobb",
+    "currency": "USD",
+    "status": "draft",
+    "pack_path": "stores/oddhobb",
+    "r2_prefix": "commerce/stores/oddhobb"
+  },
+  "counts": {
+    "products": 15,
+    "listings": 30,
+    "assets": 40,
+    "agent_catalog": 15,
+    "channels": 2,
+    "nodes": 103,
+    "edges": 68
+  },
+  "channels": [
+    {
+      "id": "etsy:legacy_pogpet",
+      "channel": "etsy",
+      "shop_name": "PogPet (legacy — do not brand as PogPet)",
+      "external_id": "67863887",
+      "domain": "https://www.etsy.com/shop/pogpet",
+      "currency": "USD",
+      "status": "blocked"
+    },
+    {
+      "id": "shopify:oddhobb",
+      "channel": "shopify",
+      "shop_name": "OddHobb",
+      "external_id": null,
+      "domain": "https://byg8sv-p6.myshopify.com",
+      "currency": "GBP",
+      "status": "active"
+    }
+  ],
+  "products": [
+    {
+      "product_row_id": 5,
+      "sku": "ALBUM-MEMORY-CD",
+      "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "section": "Couples & Weddings",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "memory-album",
+      "priority": "6",
+      "retail_price": 34.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 6,
+      "sku": "ALBUM-WEDDING-VIDEO",
+      "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "section": "Couples & Weddings",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "wedding-video-album",
+      "priority": "15",
+      "retail_price": 59.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 9,
+      "sku": "PROD-PET-TAG-SET",
+      "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "section": "Couples & Weddings",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "metal-pet-tag",
+      "priority": "10",
+      "retail_price": 16.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 11,
+      "sku": "PROD-XMAS-PLAYING-CARDS",
+      "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "section": "Couples & Weddings",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "playing-cards",
+      "priority": "14",
+      "retail_price": 22.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 17,
+      "sku": "XMAS-3D-ORNAMENT",
+      "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "section": "Featured",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "xmas-ornament",
+      "priority": "1",
+      "retail_price": 14.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 7,
+      "sku": "PROD-BOARDGAME-NOTEBOOK",
+      "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "boardgame-notebook",
+      "priority": "12",
+      "retail_price": 16.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 8,
+      "sku": "PROD-COASTER-SET",
+      "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "coaster-set",
+      "priority": "13",
+      "retail_price": 19.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 10,
+      "sku": "PROD-TOP-TRUMPS",
+      "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "top-trumps",
+      "priority": "11",
+      "retail_price": 24.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 12,
+      "sku": "XMAS-3D-CRIBBAGE-BOARD",
+      "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "cribbage-board",
+      "priority": "7",
+      "retail_price": 29.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 13,
+      "sku": "XMAS-3D-CRIBBAGE-PEGS",
+      "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "cribbage-pegs",
+      "priority": "5",
+      "retail_price": 14.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 14,
+      "sku": "XMAS-3D-FIRST-PLAYER",
+      "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "first-player-token",
+      "priority": "4",
+      "retail_price": 8.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 15,
+      "sku": "XMAS-3D-MAHJONG-READER",
+      "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "mahjong-line-reader",
+      "priority": "3",
+      "retail_price": 11.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 16,
+      "sku": "XMAS-3D-MAHJONG-WINDS",
+      "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "mahjong-wind-markers",
+      "priority": "8",
+      "retail_price": 16.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 18,
+      "sku": "XMAS-3D-TILE-RACK",
+      "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "tile-rack",
+      "priority": "2",
+      "retail_price": 12.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    },
+    {
+      "product_row_id": 19,
+      "sku": "XMAS-3D-TOKEN-TRAY",
+      "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "section": "Game Night",
+      "make": "digital",
+      "status": "draft",
+      "agent_sku": "token-tray",
+      "priority": "9",
+      "retail_price": 22.99,
+      "retail_currency": "USD",
+      "unit_cost": null,
+      "cost_currency": null
+    }
+  ],
+  "listings": [
+    {
+      "id": 5,
+      "product_id": 7,
+      "channel": "etsy",
+      "external_id": "4586687823",
+      "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 19,
+      "product_id": 14,
+      "channel": "etsy",
+      "external_id": "4586658541",
+      "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "state": "draft",
+      "channel_price": 8.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 25,
+      "product_id": 17,
+      "channel": "etsy",
+      "external_id": "4586658575",
+      "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "state": "draft",
+      "channel_price": 14.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 11,
+      "product_id": 10,
+      "channel": "etsy",
+      "external_id": "4586691360",
+      "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "state": "draft",
+      "channel_price": 24.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 7,
+      "product_id": 8,
+      "channel": "etsy",
+      "external_id": "4586691376",
+      "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "state": "draft",
+      "channel_price": 19.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 29,
+      "product_id": 19,
+      "channel": "etsy",
+      "external_id": "4586661282",
+      "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "state": "draft",
+      "channel_price": 22.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 23,
+      "product_id": 16,
+      "channel": "etsy",
+      "external_id": "4586671970",
+      "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 9,
+      "product_id": 9,
+      "channel": "etsy",
+      "external_id": "4586691324",
+      "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 17,
+      "product_id": 13,
+      "channel": "etsy",
+      "external_id": "4586671942",
+      "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "state": "draft",
+      "channel_price": 14.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 21,
+      "product_id": 15,
+      "channel": "etsy",
+      "external_id": "4586657665",
+      "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "state": "draft",
+      "channel_price": 11.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 1,
+      "product_id": 5,
+      "channel": "etsy",
+      "external_id": "4586678882",
+      "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "state": "draft",
+      "channel_price": 34.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 13,
+      "product_id": 11,
+      "channel": "etsy",
+      "external_id": "4586691388",
+      "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "state": "draft",
+      "channel_price": 22.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 27,
+      "product_id": 18,
+      "channel": "etsy",
+      "external_id": "4586662106",
+      "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "state": "draft",
+      "channel_price": 12.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 15,
+      "product_id": 12,
+      "channel": "etsy",
+      "external_id": "4586671960",
+      "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "state": "draft",
+      "channel_price": 29.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 3,
+      "product_id": 6,
+      "channel": "etsy",
+      "external_id": "4586678898",
+      "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "state": "draft",
+      "channel_price": 59.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 6,
+      "product_id": 7,
+      "channel": "shopify",
+      "external_id": "16052219773309",
+      "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 20,
+      "product_id": 14,
+      "channel": "shopify",
+      "external_id": "16052220002685",
+      "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "state": "draft",
+      "channel_price": 8.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 26,
+      "product_id": 17,
+      "channel": "shopify",
+      "external_id": "16052220100989",
+      "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "state": "draft",
+      "channel_price": 14.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 12,
+      "product_id": 10,
+      "channel": "shopify",
+      "external_id": "16052219871613",
+      "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "state": "draft",
+      "channel_price": 24.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 8,
+      "product_id": 8,
+      "channel": "shopify",
+      "external_id": "16052219806077",
+      "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "state": "draft",
+      "channel_price": 19.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 30,
+      "product_id": 19,
+      "channel": "shopify",
+      "external_id": "16052220166525",
+      "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "state": "draft",
+      "channel_price": 22.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 24,
+      "product_id": 16,
+      "channel": "shopify",
+      "external_id": "16052220068221",
+      "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 10,
+      "product_id": 9,
+      "channel": "shopify",
+      "external_id": "16052219838845",
+      "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "state": "draft",
+      "channel_price": 16.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 18,
+      "product_id": 13,
+      "channel": "shopify",
+      "external_id": "16052219969917",
+      "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "state": "draft",
+      "channel_price": 14.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 22,
+      "product_id": 15,
+      "channel": "shopify",
+      "external_id": "16052220035453",
+      "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "state": "draft",
+      "channel_price": 11.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 2,
+      "product_id": 5,
+      "channel": "shopify",
+      "external_id": "16052219707773",
+      "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "state": "draft",
+      "channel_price": 34.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 14,
+      "product_id": 11,
+      "channel": "shopify",
+      "external_id": "16052219904381",
+      "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "state": "draft",
+      "channel_price": 22.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 28,
+      "product_id": 18,
+      "channel": "shopify",
+      "external_id": "16052220133757",
+      "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "state": "draft",
+      "channel_price": 12.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 16,
+      "product_id": 12,
+      "channel": "shopify",
+      "external_id": "16052219937149",
+      "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "state": "draft",
+      "channel_price": 29.99,
+      "channel_currency": "USD"
+    },
+    {
+      "id": 4,
+      "product_id": 6,
+      "channel": "shopify",
+      "external_id": "16052219740541",
+      "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "state": "draft",
+      "channel_price": 59.99,
+      "channel_currency": "USD"
+    }
+  ],
+  "assets": [
+    {
+      "id": 13,
+      "asset_key": "oddhobb/local-product_previews_figure_preview",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_figure_preview.png",
+      "alt_text": "product previews figure preview",
+      "agent_blurb": "Flat product card: BRICK FIGURE $19.99, 8cm PLA display base + add-ons — info graphic.",
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 14,
+      "asset_key": "oddhobb/local-product_previews_wrapping_preview",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_wrapping_preview.png",
+      "alt_text": "product previews wrapping preview",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 15,
+      "asset_key": "oddhobb/local-product_previews_sticker_preview",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_sticker_preview.png",
+      "alt_text": "product previews sticker preview",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 16,
+      "asset_key": "oddhobb/local-product_previews_ornament_preview",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_ornament_preview.png",
+      "alt_text": "product previews ornament preview",
+      "agent_blurb": "Flat product card: PET ORNAMENT $14.99, 7cm PLA hanging loop — info graphic not photo.",
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 17,
+      "asset_key": "oddhobb/local-pogpet_cards_justbecause",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_justbecause.png",
+      "alt_text": "pogpet cards justbecause",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 18,
+      "asset_key": "oddhobb/local-pogpet_cards_bday_party",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_party.png",
+      "alt_text": "pogpet cards bday party",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 19,
+      "asset_key": "oddhobb/local-pogpet_cards_bday_elegant",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_elegant.png",
+      "alt_text": "pogpet cards bday elegant",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 20,
+      "asset_key": "oddhobb/local-pogpet_cards_xmas_santa",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_santa.png",
+      "alt_text": "pogpet cards xmas santa",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 21,
+      "asset_key": "oddhobb/local-pogpet_cards_xmas_snow",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_snow.png",
+      "alt_text": "pogpet cards xmas snow",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 22,
+      "asset_key": "oddhobb/local-pogpet_cards_bday_funny",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_funny.png",
+      "alt_text": "pogpet cards bday funny",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 23,
+      "asset_key": "oddhobb/local-pogpet_cards_xmas_classic",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_classic.png",
+      "alt_text": "pogpet cards xmas classic",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 24,
+      "asset_key": "oddhobb/local-pogpet_cards_test_with_photo",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_test_with_photo.png",
+      "alt_text": "pogpet cards test with photo",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 25,
+      "asset_key": "oddhobb/local-pogpet_cards_xmas_festive",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_festive.png",
+      "alt_text": "pogpet cards xmas festive",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 26,
+      "asset_key": "oddhobb/local-pogpet_cards_xmas_naughty",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_naughty.png",
+      "alt_text": "pogpet cards xmas naughty",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 27,
+      "asset_key": "oddhobb/local-pogpet_cards_thankyou",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_thankyou.png",
+      "alt_text": "pogpet cards thankyou",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 28,
+      "asset_key": "oddhobb/local-generated_cards_bday_funny_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_funny_max.png",
+      "alt_text": "generated cards bday funny max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 29,
+      "asset_key": "oddhobb/local-generated_cards_justbecause_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_justbecause_max.png",
+      "alt_text": "generated cards justbecause max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 30,
+      "asset_key": "oddhobb/local-generated_cards_xmas_snow_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_snow_max.png",
+      "alt_text": "generated cards xmas snow max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 31,
+      "asset_key": "oddhobb/local-generated_cards_thankyou_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_thankyou_max.png",
+      "alt_text": "generated cards thankyou max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 32,
+      "asset_key": "oddhobb/local-generated_cards_xmas_santa_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_santa_max.png",
+      "alt_text": "generated cards xmas santa max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 33,
+      "asset_key": "oddhobb/local-generated_cards_xmas_classic_d2eb43f2_1790653293",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_classic_d2eb43f2_1790653293.png",
+      "alt_text": "generated cards xmas classic d2eb43f2 1790653293",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 34,
+      "asset_key": "oddhobb/local-generated_cards_xmas_naughty_d2eb43f2_1790653303",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_naughty_d2eb43f2_1790653303.png",
+      "alt_text": "generated cards xmas naughty d2eb43f2 1790653303",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 35,
+      "asset_key": "oddhobb/local-generated_cards_bday_party_d2eb43f2_1790653303",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_party_d2eb43f2_1790653303.png",
+      "alt_text": "generated cards bday party d2eb43f2 1790653303",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 36,
+      "asset_key": "oddhobb/local-generated_cards_xmas_classic_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_classic_max.png",
+      "alt_text": "generated cards xmas classic max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 37,
+      "asset_key": "oddhobb/local-generated_cards_bday_elegant_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_elegant_max.png",
+      "alt_text": "generated cards bday elegant max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 38,
+      "asset_key": "oddhobb/local-generated_cards_xmas_festive_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_festive_max.png",
+      "alt_text": "generated cards xmas festive max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 39,
+      "asset_key": "oddhobb/local-generated_cards_xmas_naughty_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_naughty_max.png",
+      "alt_text": "generated cards xmas naughty max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 40,
+      "asset_key": "oddhobb/local-generated_cards_bday_party_max",
+      "sku": null,
+      "asset_type": "mockup",
+      "role": "mockup",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_party_max.png",
+      "alt_text": "generated cards bday party max",
+      "agent_blurb": null,
+      "channel_fit": "pinterest,shopify,etsy,agent"
+    },
+    {
+      "id": 1,
+      "asset_key": "oddhobb/etsy-4584658234-8649391211",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391211.jpg",
+      "alt_text": "Personalized Couple Figurine From Photo",
+      "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 2,
+      "asset_key": "oddhobb/etsy-4584658234-8649391189",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391189.jpg",
+      "alt_text": "Personalized Couple Figurine From Photo",
+      "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 3,
+      "asset_key": "oddhobb/etsy-4584658234-8649391193",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391193.jpg",
+      "alt_text": "Personalized Couple Figurine From Photo",
+      "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 9,
+      "asset_key": "oddhobb/etsy-4584650499-8600613438",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8600613438.jpg",
+      "alt_text": "Your Own Brick Figure",
+      "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 10,
+      "asset_key": "oddhobb/etsy-4584650499-8648454035",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8648454035.jpg",
+      "alt_text": "Your Own Brick Figure",
+      "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 11,
+      "asset_key": "oddhobb/etsy-4584650499-8648454029",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8648454029.jpg",
+      "alt_text": "Your Own Brick Figure",
+      "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 12,
+      "asset_key": "oddhobb/etsy-4584650499-8600613426",
+      "sku": "KEYCHAIN-BRICK",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8600613426.jpg",
+      "alt_text": "Your Own Brick Figure",
+      "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 4,
+      "asset_key": "oddhobb/etsy-4584658252-8649381383",
+      "sku": "XMAS-3D-ORNAMENT",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8649381383.jpg",
+      "alt_text": "Custom Christmas Ornament",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 5,
+      "asset_key": "oddhobb/etsy-4584658252-8601539634",
+      "sku": "XMAS-3D-ORNAMENT",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539634.jpg",
+      "alt_text": "Custom Christmas Ornament",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 6,
+      "asset_key": "oddhobb/etsy-4584658252-8601539620",
+      "sku": "XMAS-3D-ORNAMENT",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539620.jpg",
+      "alt_text": "Custom Christmas Ornament",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 7,
+      "asset_key": "oddhobb/etsy-4584658252-8601539516",
+      "sku": "XMAS-3D-ORNAMENT",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539516.jpg",
+      "alt_text": "Custom Christmas Ornament",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    },
+    {
+      "id": 8,
+      "asset_key": "oddhobb/etsy-4584658252-8601539642",
+      "sku": "XMAS-3D-ORNAMENT",
+      "asset_type": "etsy_listing_photo",
+      "role": "lifestyle",
+      "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539642.jpg",
+      "alt_text": "Custom Christmas Ornament",
+      "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+      "channel_fit": "pinterest,etsy,shopify,agent"
+    }
+  ],
+  "agent_catalog": [
+    {
+      "agent_sku": "boardgame-notebook",
+      "display_name": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "summary": "Scorebook or blank journal with custom cover — cribbage scores, house rules, session logs.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n",
+      "price_tier": null,
+      "gift_occasions": "christmas,cribbage,game night",
+      "fulfilment_blurb": "Printed on demand.",
+      "is_orderable": 0,
+      "product_id": 7
+    },
+    {
+      "agent_sku": "coaster-set",
+      "display_name": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "summary": "Wooden coasters with house rules, names, or a hobby pattern.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview",
+      "price_tier": null,
+      "gift_occasions": "christmas,host gift,game night",
+      "fulfilment_blurb": "Printed on demand.",
+      "is_orderable": 0,
+      "product_id": 8
+    },
+    {
+      "agent_sku": "cribbage-board",
+      "display_name": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "summary": "Compact travel cribbage board with magnetic peg seats and optional family name engraving.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n-",
+      "price_tier": null,
+      "gift_occasions": "christmas,cribbage,family gift",
+      "fulfilment_blurb": "3D printed to order. Larger print.",
+      "is_orderable": 0,
+      "product_id": 12
+    },
+    {
+      "agent_sku": "cribbage-pegs",
+      "display_name": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "summary": "Engraved cribbage pegs for the person who always brings the board. Heirloom Christmas gift.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product",
+      "price_tier": null,
+      "gift_occasions": "christmas,cribbage,anniversary",
+      "fulfilment_blurb": "3D printed to order.",
+      "is_orderable": 0,
+      "product_id": 13
+    },
+    {
+      "agent_sku": "first-player-token",
+      "display_name": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "summary": "Christmas first-player token — dragon egg or festive motif, optional name. Easy stocking gift.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised prod",
+      "price_tier": null,
+      "gift_occasions": "christmas,stocking stuffer,game night",
+      "fulfilment_blurb": "3D printed to order.",
+      "is_orderable": 0,
+      "product_id": 14
+    },
+    {
+      "agent_sku": "mahjong-line-reader",
+      "display_name": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "summary": "A slim personalised guide that helps you read mahjong tile sequences. The accessory serious players actually want.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:",
+      "price_tier": null,
+      "gift_occasions": "christmas,mahjong night,gift for her",
+      "fulfilment_blurb": "3D printed to order. Fast UK dispatch.",
+      "is_orderable": 0,
+      "product_id": 15
+    },
+    {
+      "agent_sku": "mahjong-wind-markers",
+      "display_name": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "summary": "Wind marker set with optional name tray — the next mahjong accessory after line readers.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- ",
+      "price_tier": null,
+      "gift_occasions": "christmas,mahjong",
+      "fulfilment_blurb": "3D printed to order.",
+      "is_orderable": 0,
+      "product_id": 16
+    },
+    {
+      "agent_sku": "memory-album",
+      "display_name": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "summary": "We turn your stories and style notes into a 4–10 track album with custom cover, CD and digital download.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Persona",
+      "price_tier": null,
+      "gift_occasions": "anniversary,birthday,christmas,wedding",
+      "fulfilment_blurb": "Produced to order. UK/US CD partners. Order early for Christmas.",
+      "is_orderable": 0,
+      "product_id": 5
+    },
+    {
+      "agent_sku": "metal-pet-tag",
+      "display_name": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "summary": "Bone or round metallic tag engraved with name and number. Hang on any collar.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready ",
+      "price_tier": null,
+      "gift_occasions": "christmas,pet gift,dog lover",
+      "fulfilment_blurb": "Printed on demand via Prodigi. Thin margin — quirky gift.",
+      "is_orderable": 0,
+      "product_id": 9
+    },
+    {
+      "agent_sku": "playing-cards",
+      "display_name": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "summary": "Custom deck from your photos. Also works as a wedding guest-book card set.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready pac",
+      "price_tier": null,
+      "gift_occasions": "christmas,wedding,gift for couple",
+      "fulfilment_blurb": "Card deck printed on demand.",
+      "is_orderable": 0,
+      "product_id": 11
+    },
+    {
+      "agent_sku": "tile-rack",
+      "display_name": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "summary": "One modern word-game rack engraved with your name. Magnetic base option. Buy 1–6 with volume discounts.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personal",
+      "price_tier": null,
+      "gift_occasions": "christmas,game night,housewarming",
+      "fulfilment_blurb": "3D printed to order. UK 2–5 days, US 6–16 days.",
+      "is_orderable": 0,
+      "product_id": 18
+    },
+    {
+      "agent_sku": "token-tray",
+      "display_name": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "summary": "Stackable magnetic hex trays for tokens and resources. Custom colours and optional game name.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised produ",
+      "price_tier": null,
+      "gift_occasions": "christmas,board game night,catan",
+      "fulfilment_blurb": "3D printed to order.",
+      "is_orderable": 0,
+      "product_id": 19
+    },
+    {
+      "agent_sku": "top-trumps",
+      "display_name": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "summary": "Family or couple battle cards — your people, your pets, your stats. Game night only your table can play.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Persona",
+      "price_tier": null,
+      "gift_occasions": "christmas,game night,family",
+      "fulfilment_blurb": "Card deck printed on demand.",
+      "is_orderable": 0,
+      "product_id": 10
+    },
+    {
+      "agent_sku": "wedding-video-album",
+      "display_name": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "summary": "Send your wedding footage — we craft a keepsake audio album and optional photo book.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift",
+      "price_tier": null,
+      "gift_occasions": "wedding,anniversary,engagement",
+      "fulfilment_blurb": "Produced to order. Longer lead time.",
+      "is_orderable": 0,
+      "product_id": 6
+    },
+    {
+      "agent_sku": "xmas-ornament",
+      "display_name": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "summary": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET",
+      "price_tier": null,
+      "gift_occasions": "christmas,stocking stuffer,pet gift",
+      "fulfilment_blurb": "3D printed to order.",
+      "is_orderable": 0,
+      "product_id": 17
+    }
+  ],
+  "sales_summary": [],
+  "ad_readiness": [
+    {
+      "sku": "ALBUM-MEMORY-CD",
+      "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "status": "draft",
+      "retail_price": 34.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "ALBUM-WEDDING-VIDEO",
+      "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "status": "draft",
+      "retail_price": 59.99,
+      "asset_count": 6,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "PROD-BOARDGAME-NOTEBOOK",
+      "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "status": "draft",
+      "retail_price": 16.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "PROD-COASTER-SET",
+      "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "status": "draft",
+      "retail_price": 19.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "PROD-PET-TAG-SET",
+      "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "status": "draft",
+      "retail_price": 16.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "PROD-TOP-TRUMPS",
+      "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "status": "draft",
+      "retail_price": 24.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "PROD-XMAS-PLAYING-CARDS",
+      "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "status": "draft",
+      "retail_price": 22.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-CRIBBAGE-BOARD",
+      "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "status": "draft",
+      "retail_price": 29.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-CRIBBAGE-PEGS",
+      "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "status": "draft",
+      "retail_price": 14.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-FIRST-PLAYER",
+      "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "status": "draft",
+      "retail_price": 8.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-MAHJONG-READER",
+      "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "status": "draft",
+      "retail_price": 11.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-MAHJONG-WINDS",
+      "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "status": "draft",
+      "retail_price": 16.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-ORNAMENT",
+      "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "status": "draft",
+      "retail_price": 14.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-TILE-RACK",
+      "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "status": "draft",
+      "retail_price": 12.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    },
+    {
+      "sku": "XMAS-3D-TOKEN-TRAY",
+      "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "status": "draft",
+      "retail_price": 22.99,
+      "asset_count": 0,
+      "creative_count": 0,
+      "live_listing_id": null
+    }
+  ],
+  "nodes": [
+    {
+      "id": "oddhobb",
+      "type": "store",
+      "label": "OddHobb",
+      "data": {
+        "brand_id": "oddhobb",
+        "brand_name": "OddHobb",
+        "currency": "USD",
+        "status": "draft",
+        "thesis": "Brick figures + hobby gifts. Couples, game night, keepsakes. Whole-store gift energy."
+      }
+    },
+    {
+      "id": "etsy:legacy_pogpet",
+      "type": "channel",
+      "label": "PogPet (legacy — do not brand as PogPet)",
+      "data": {
+        "id": "etsy:legacy_pogpet",
+        "channel": "etsy",
+        "shop_name": "PogPet (legacy — do not brand as PogPet)",
+        "external_id": "67863887",
+        "domain": "https://www.etsy.com/shop/pogpet",
+        "currency": "USD",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "shopify:oddhobb",
+      "type": "channel",
+      "label": "OddHobb",
+      "data": {
+        "id": "shopify:oddhobb",
+        "channel": "shopify",
+        "shop_name": "OddHobb",
+        "external_id": null,
+        "domain": "https://byg8sv-p6.myshopify.com",
+        "currency": "GBP",
+        "status": "active"
+      }
+    },
+    {
+      "id": "oddhobb:product:ALBUM-MEMORY-CD",
+      "type": "product",
+      "label": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "data": {
+        "product_row_id": 5,
+        "sku": "ALBUM-MEMORY-CD",
+        "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+        "section": "Couples & Weddings",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "memory-album",
+        "priority": "6",
+        "retail_price": 34.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:memory-album",
+      "type": "agent_sku",
+      "label": "memory-album",
+      "data": {
+        "agent_sku": "memory-album"
+      }
+    },
+    {
+      "id": "oddhobb:product:ALBUM-WEDDING-VIDEO",
+      "type": "product",
+      "label": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "data": {
+        "product_row_id": 6,
+        "sku": "ALBUM-WEDDING-VIDEO",
+        "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+        "section": "Couples & Weddings",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "wedding-video-album",
+        "priority": "15",
+        "retail_price": 59.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:wedding-video-album",
+      "type": "agent_sku",
+      "label": "wedding-video-album",
+      "data": {
+        "agent_sku": "wedding-video-album"
+      }
+    },
+    {
+      "id": "oddhobb:product:PROD-PET-TAG-SET",
+      "type": "product",
+      "label": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "data": {
+        "product_row_id": 9,
+        "sku": "PROD-PET-TAG-SET",
+        "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+        "section": "Couples & Weddings",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "metal-pet-tag",
+        "priority": "10",
+        "retail_price": 16.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:metal-pet-tag",
+      "type": "agent_sku",
+      "label": "metal-pet-tag",
+      "data": {
+        "agent_sku": "metal-pet-tag"
+      }
+    },
+    {
+      "id": "oddhobb:product:PROD-XMAS-PLAYING-CARDS",
+      "type": "product",
+      "label": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "data": {
+        "product_row_id": 11,
+        "sku": "PROD-XMAS-PLAYING-CARDS",
+        "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+        "section": "Couples & Weddings",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "playing-cards",
+        "priority": "14",
+        "retail_price": 22.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:playing-cards",
+      "type": "agent_sku",
+      "label": "playing-cards",
+      "data": {
+        "agent_sku": "playing-cards"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "type": "product",
+      "label": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "data": {
+        "product_row_id": 17,
+        "sku": "XMAS-3D-ORNAMENT",
+        "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+        "section": "Featured",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "xmas-ornament",
+        "priority": "1",
+        "retail_price": 14.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:xmas-ornament",
+      "type": "agent_sku",
+      "label": "xmas-ornament",
+      "data": {
+        "agent_sku": "xmas-ornament"
+      }
+    },
+    {
+      "id": "oddhobb:product:PROD-BOARDGAME-NOTEBOOK",
+      "type": "product",
+      "label": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "data": {
+        "product_row_id": 7,
+        "sku": "PROD-BOARDGAME-NOTEBOOK",
+        "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "boardgame-notebook",
+        "priority": "12",
+        "retail_price": 16.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:boardgame-notebook",
+      "type": "agent_sku",
+      "label": "boardgame-notebook",
+      "data": {
+        "agent_sku": "boardgame-notebook"
+      }
+    },
+    {
+      "id": "oddhobb:product:PROD-COASTER-SET",
+      "type": "product",
+      "label": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "data": {
+        "product_row_id": 8,
+        "sku": "PROD-COASTER-SET",
+        "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "coaster-set",
+        "priority": "13",
+        "retail_price": 19.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:coaster-set",
+      "type": "agent_sku",
+      "label": "coaster-set",
+      "data": {
+        "agent_sku": "coaster-set"
+      }
+    },
+    {
+      "id": "oddhobb:product:PROD-TOP-TRUMPS",
+      "type": "product",
+      "label": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "data": {
+        "product_row_id": 10,
+        "sku": "PROD-TOP-TRUMPS",
+        "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "top-trumps",
+        "priority": "11",
+        "retail_price": 24.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:top-trumps",
+      "type": "agent_sku",
+      "label": "top-trumps",
+      "data": {
+        "agent_sku": "top-trumps"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-CRIBBAGE-BOARD",
+      "type": "product",
+      "label": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "data": {
+        "product_row_id": 12,
+        "sku": "XMAS-3D-CRIBBAGE-BOARD",
+        "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "cribbage-board",
+        "priority": "7",
+        "retail_price": 29.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:cribbage-board",
+      "type": "agent_sku",
+      "label": "cribbage-board",
+      "data": {
+        "agent_sku": "cribbage-board"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-CRIBBAGE-PEGS",
+      "type": "product",
+      "label": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "data": {
+        "product_row_id": 13,
+        "sku": "XMAS-3D-CRIBBAGE-PEGS",
+        "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "cribbage-pegs",
+        "priority": "5",
+        "retail_price": 14.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:cribbage-pegs",
+      "type": "agent_sku",
+      "label": "cribbage-pegs",
+      "data": {
+        "agent_sku": "cribbage-pegs"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-FIRST-PLAYER",
+      "type": "product",
+      "label": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "data": {
+        "product_row_id": 14,
+        "sku": "XMAS-3D-FIRST-PLAYER",
+        "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "first-player-token",
+        "priority": "4",
+        "retail_price": 8.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:first-player-token",
+      "type": "agent_sku",
+      "label": "first-player-token",
+      "data": {
+        "agent_sku": "first-player-token"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-MAHJONG-READER",
+      "type": "product",
+      "label": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "data": {
+        "product_row_id": 15,
+        "sku": "XMAS-3D-MAHJONG-READER",
+        "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "mahjong-line-reader",
+        "priority": "3",
+        "retail_price": 11.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:mahjong-line-reader",
+      "type": "agent_sku",
+      "label": "mahjong-line-reader",
+      "data": {
+        "agent_sku": "mahjong-line-reader"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-MAHJONG-WINDS",
+      "type": "product",
+      "label": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "data": {
+        "product_row_id": 16,
+        "sku": "XMAS-3D-MAHJONG-WINDS",
+        "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "mahjong-wind-markers",
+        "priority": "8",
+        "retail_price": 16.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:mahjong-wind-markers",
+      "type": "agent_sku",
+      "label": "mahjong-wind-markers",
+      "data": {
+        "agent_sku": "mahjong-wind-markers"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-TILE-RACK",
+      "type": "product",
+      "label": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "data": {
+        "product_row_id": 18,
+        "sku": "XMAS-3D-TILE-RACK",
+        "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "tile-rack",
+        "priority": "2",
+        "retail_price": 12.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:tile-rack",
+      "type": "agent_sku",
+      "label": "tile-rack",
+      "data": {
+        "agent_sku": "tile-rack"
+      }
+    },
+    {
+      "id": "oddhobb:product:XMAS-3D-TOKEN-TRAY",
+      "type": "product",
+      "label": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "data": {
+        "product_row_id": 19,
+        "sku": "XMAS-3D-TOKEN-TRAY",
+        "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+        "section": "Game Night",
+        "make": "digital",
+        "status": "draft",
+        "agent_sku": "token-tray",
+        "priority": "9",
+        "retail_price": 22.99,
+        "retail_currency": "USD",
+        "unit_cost": null,
+        "cost_currency": null
+      }
+    },
+    {
+      "id": "oddhobb:agent:token-tray",
+      "type": "agent_sku",
+      "label": "token-tray",
+      "data": {
+        "agent_sku": "token-tray"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586687823",
+      "type": "listing",
+      "label": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "data": {
+        "id": 5,
+        "product_id": 7,
+        "channel": "etsy",
+        "external_id": "4586687823",
+        "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586658541",
+      "type": "listing",
+      "label": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "data": {
+        "id": 19,
+        "product_id": 14,
+        "channel": "etsy",
+        "external_id": "4586658541",
+        "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+        "state": "draft",
+        "channel_price": 8.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586658575",
+      "type": "listing",
+      "label": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "data": {
+        "id": 25,
+        "product_id": 17,
+        "channel": "etsy",
+        "external_id": "4586658575",
+        "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+        "state": "draft",
+        "channel_price": 14.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586691360",
+      "type": "listing",
+      "label": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "data": {
+        "id": 11,
+        "product_id": 10,
+        "channel": "etsy",
+        "external_id": "4586691360",
+        "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+        "state": "draft",
+        "channel_price": 24.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586691376",
+      "type": "listing",
+      "label": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "data": {
+        "id": 7,
+        "product_id": 8,
+        "channel": "etsy",
+        "external_id": "4586691376",
+        "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+        "state": "draft",
+        "channel_price": 19.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586661282",
+      "type": "listing",
+      "label": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "data": {
+        "id": 29,
+        "product_id": 19,
+        "channel": "etsy",
+        "external_id": "4586661282",
+        "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+        "state": "draft",
+        "channel_price": 22.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586671970",
+      "type": "listing",
+      "label": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "data": {
+        "id": 23,
+        "product_id": 16,
+        "channel": "etsy",
+        "external_id": "4586671970",
+        "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586691324",
+      "type": "listing",
+      "label": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "data": {
+        "id": 9,
+        "product_id": 9,
+        "channel": "etsy",
+        "external_id": "4586691324",
+        "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586671942",
+      "type": "listing",
+      "label": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "data": {
+        "id": 17,
+        "product_id": 13,
+        "channel": "etsy",
+        "external_id": "4586671942",
+        "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+        "state": "draft",
+        "channel_price": 14.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586657665",
+      "type": "listing",
+      "label": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "data": {
+        "id": 21,
+        "product_id": 15,
+        "channel": "etsy",
+        "external_id": "4586657665",
+        "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+        "state": "draft",
+        "channel_price": 11.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586678882",
+      "type": "listing",
+      "label": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "data": {
+        "id": 1,
+        "product_id": 5,
+        "channel": "etsy",
+        "external_id": "4586678882",
+        "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+        "state": "draft",
+        "channel_price": 34.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586691388",
+      "type": "listing",
+      "label": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "data": {
+        "id": 13,
+        "product_id": 11,
+        "channel": "etsy",
+        "external_id": "4586691388",
+        "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+        "state": "draft",
+        "channel_price": 22.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586662106",
+      "type": "listing",
+      "label": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "data": {
+        "id": 27,
+        "product_id": 18,
+        "channel": "etsy",
+        "external_id": "4586662106",
+        "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+        "state": "draft",
+        "channel_price": 12.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586671960",
+      "type": "listing",
+      "label": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "data": {
+        "id": 15,
+        "product_id": 12,
+        "channel": "etsy",
+        "external_id": "4586671960",
+        "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+        "state": "draft",
+        "channel_price": 29.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:etsy:4586678898",
+      "type": "listing",
+      "label": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "data": {
+        "id": 3,
+        "product_id": 6,
+        "channel": "etsy",
+        "external_id": "4586678898",
+        "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+        "state": "draft",
+        "channel_price": 59.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219773309",
+      "type": "listing",
+      "label": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+      "data": {
+        "id": 6,
+        "product_id": 7,
+        "channel": "shopify",
+        "external_id": "16052219773309",
+        "title": "Board Game Notebook | Custom Game Scorebook | Cribbage Score Notebook | Personalised Game Night Journal | Christmas Gift | Family Game",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220002685",
+      "type": "listing",
+      "label": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+      "data": {
+        "id": 20,
+        "product_id": 14,
+        "channel": "shopify",
+        "external_id": "16052220002685",
+        "title": "Christmas First Player Token | Dragon Egg Token | Personalised Board Game Token | Game Night Gift | Stocking Stuffer | Board Game Accessory",
+        "state": "draft",
+        "channel_price": 8.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220100989",
+      "type": "listing",
+      "label": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+      "data": {
+        "id": 26,
+        "product_id": 17,
+        "channel": "shopify",
+        "external_id": "16052220100989",
+        "title": "Custom Christmas Ornament | Personalised Pet Ornament | 3D Printed Bauble | Family Name Ornament | Christmas Gift | Stocking Stuffer",
+        "state": "draft",
+        "channel_price": 14.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219871613",
+      "type": "listing",
+      "label": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+      "data": {
+        "id": 12,
+        "product_id": 10,
+        "channel": "shopify",
+        "external_id": "16052219871613",
+        "title": "Custom Top Trumps | Family Battle Cards | Personalised Card Game | Christmas Gift | Game Night Cards | Custom Playing Cards",
+        "state": "draft",
+        "channel_price": 24.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219806077",
+      "type": "listing",
+      "label": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+      "data": {
+        "id": 8,
+        "product_id": 8,
+        "channel": "shopify",
+        "external_id": "16052219806077",
+        "title": "Game Night Coaster Set | Custom Coasters | Personalised Coaster Set | Christmas Gift | House Rules Coasters | Family Game Night",
+        "state": "draft",
+        "channel_price": 19.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220166525",
+      "type": "listing",
+      "label": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+      "data": {
+        "id": 30,
+        "product_id": 19,
+        "channel": "shopify",
+        "external_id": "16052220166525",
+        "title": "Magnetic Token Tray Set Christmas | Board Game Organizer | Hex Token Holder | Personalised Game Night Gift | Resource Tray",
+        "state": "draft",
+        "channel_price": 22.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220068221",
+      "type": "listing",
+      "label": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+      "data": {
+        "id": 24,
+        "product_id": 16,
+        "channel": "shopify",
+        "external_id": "16052220068221",
+        "title": "Mahjong Wind Markers | Personalised Mahjong Accessory | Christmas Mahjong Gift | Tile Marker Set | Mahjong Player Gift",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219838845",
+      "type": "listing",
+      "label": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+      "data": {
+        "id": 10,
+        "product_id": 9,
+        "channel": "shopify",
+        "external_id": "16052219838845",
+        "title": "Metal Pet Tag | Personalised Dog Tag | Christmas Gift For Dog | Custom Pet Tag | Bone Or Round | Pet Lover Gift",
+        "state": "draft",
+        "channel_price": 16.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219969917",
+      "type": "listing",
+      "label": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+      "data": {
+        "id": 18,
+        "product_id": 13,
+        "channel": "shopify",
+        "external_id": "16052219969917",
+        "title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+        "state": "draft",
+        "channel_price": 14.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220035453",
+      "type": "listing",
+      "label": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+      "data": {
+        "id": 22,
+        "product_id": 15,
+        "channel": "shopify",
+        "external_id": "16052220035453",
+        "title": "Personalised Mahjong Line Reader | Mahjong Gift | Custom Tile Guide | Christmas Mahjong Accessory | Mahjong Player Gift",
+        "state": "draft",
+        "channel_price": 11.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219707773",
+      "type": "listing",
+      "label": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+      "data": {
+        "id": 2,
+        "product_id": 5,
+        "channel": "shopify",
+        "external_id": "16052219707773",
+        "title": "Personalised Memory Album | Custom Song EP From Your Stories | Anniversary Gift | Birthday Album | Digital Download Included | Made For You",
+        "state": "draft",
+        "channel_price": 34.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219904381",
+      "type": "listing",
+      "label": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+      "data": {
+        "id": 14,
+        "product_id": 11,
+        "channel": "shopify",
+        "external_id": "16052219904381",
+        "title": "Personalised Playing Cards | Custom Card Deck | Christmas Gift | Family Photo Cards | Wedding Guest Book Alternative | Custom Deck",
+        "state": "draft",
+        "channel_price": 22.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052220133757",
+      "type": "listing",
+      "label": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+      "data": {
+        "id": 28,
+        "product_id": 18,
+        "channel": "shopify",
+        "external_id": "16052220133757",
+        "title": "Personalised Tile Rack | Modern Game Rack | Board Game Accessory | Christmas Gift | Family Game Night | Magnetic Tile Holder",
+        "state": "draft",
+        "channel_price": 12.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219937149",
+      "type": "listing",
+      "label": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+      "data": {
+        "id": 16,
+        "product_id": 12,
+        "channel": "shopify",
+        "external_id": "16052219937149",
+        "title": "Travel Cribbage Board | Personalised Cribbage Board | Magnetic Peg Board | Cribbage Christmas Gift | Family Game Night | Compact Cribbage",
+        "state": "draft",
+        "channel_price": 29.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:listing:shopify:16052219740541",
+      "type": "listing",
+      "label": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+      "data": {
+        "id": 4,
+        "product_id": 6,
+        "channel": "shopify",
+        "external_id": "16052219740541",
+        "title": "Wedding Video Album | Custom Wedding CD From Your Footage | Anniversary Gift | Wedding Keepsake | Photo Book Add On | Personalised",
+        "state": "draft",
+        "channel_price": 59.99,
+        "channel_currency": "USD"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-product_previews_figure_preview",
+      "type": "asset",
+      "label": "oddhobb/local-product_previews_figure_preview",
+      "data": {
+        "id": 13,
+        "asset_key": "oddhobb/local-product_previews_figure_preview",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_figure_preview.png",
+        "alt_text": "product previews figure preview",
+        "agent_blurb": "Flat product card: BRICK FIGURE $19.99, 8cm PLA display base + add-ons — info graphic.",
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-product_previews_wrapping_preview",
+      "type": "asset",
+      "label": "oddhobb/local-product_previews_wrapping_preview",
+      "data": {
+        "id": 14,
+        "asset_key": "oddhobb/local-product_previews_wrapping_preview",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_wrapping_preview.png",
+        "alt_text": "product previews wrapping preview",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-product_previews_sticker_preview",
+      "type": "asset",
+      "label": "oddhobb/local-product_previews_sticker_preview",
+      "data": {
+        "id": 15,
+        "asset_key": "oddhobb/local-product_previews_sticker_preview",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_sticker_preview.png",
+        "alt_text": "product previews sticker preview",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-product_previews_ornament_preview",
+      "type": "asset",
+      "label": "oddhobb/local-product_previews_ornament_preview",
+      "data": {
+        "id": 16,
+        "asset_key": "oddhobb/local-product_previews_ornament_preview",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/product_previews_ornament_preview.png",
+        "alt_text": "product previews ornament preview",
+        "agent_blurb": "Flat product card: PET ORNAMENT $14.99, 7cm PLA hanging loop — info graphic not photo.",
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_justbecause",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_justbecause",
+      "data": {
+        "id": 17,
+        "asset_key": "oddhobb/local-pogpet_cards_justbecause",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_justbecause.png",
+        "alt_text": "pogpet cards justbecause",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_bday_party",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_bday_party",
+      "data": {
+        "id": 18,
+        "asset_key": "oddhobb/local-pogpet_cards_bday_party",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_party.png",
+        "alt_text": "pogpet cards bday party",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_bday_elegant",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_bday_elegant",
+      "data": {
+        "id": 19,
+        "asset_key": "oddhobb/local-pogpet_cards_bday_elegant",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_elegant.png",
+        "alt_text": "pogpet cards bday elegant",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_xmas_santa",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_xmas_santa",
+      "data": {
+        "id": 20,
+        "asset_key": "oddhobb/local-pogpet_cards_xmas_santa",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_santa.png",
+        "alt_text": "pogpet cards xmas santa",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_xmas_snow",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_xmas_snow",
+      "data": {
+        "id": 21,
+        "asset_key": "oddhobb/local-pogpet_cards_xmas_snow",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_snow.png",
+        "alt_text": "pogpet cards xmas snow",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_bday_funny",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_bday_funny",
+      "data": {
+        "id": 22,
+        "asset_key": "oddhobb/local-pogpet_cards_bday_funny",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_bday_funny.png",
+        "alt_text": "pogpet cards bday funny",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_xmas_classic",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_xmas_classic",
+      "data": {
+        "id": 23,
+        "asset_key": "oddhobb/local-pogpet_cards_xmas_classic",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_classic.png",
+        "alt_text": "pogpet cards xmas classic",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_test_with_photo",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_test_with_photo",
+      "data": {
+        "id": 24,
+        "asset_key": "oddhobb/local-pogpet_cards_test_with_photo",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_test_with_photo.png",
+        "alt_text": "pogpet cards test with photo",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_xmas_festive",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_xmas_festive",
+      "data": {
+        "id": 25,
+        "asset_key": "oddhobb/local-pogpet_cards_xmas_festive",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_festive.png",
+        "alt_text": "pogpet cards xmas festive",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_xmas_naughty",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_xmas_naughty",
+      "data": {
+        "id": 26,
+        "asset_key": "oddhobb/local-pogpet_cards_xmas_naughty",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_xmas_naughty.png",
+        "alt_text": "pogpet cards xmas naughty",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-pogpet_cards_thankyou",
+      "type": "asset",
+      "label": "oddhobb/local-pogpet_cards_thankyou",
+      "data": {
+        "id": 27,
+        "asset_key": "oddhobb/local-pogpet_cards_thankyou",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/pogpet_cards_thankyou.png",
+        "alt_text": "pogpet cards thankyou",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_bday_funny_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_bday_funny_max",
+      "data": {
+        "id": 28,
+        "asset_key": "oddhobb/local-generated_cards_bday_funny_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_funny_max.png",
+        "alt_text": "generated cards bday funny max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_justbecause_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_justbecause_max",
+      "data": {
+        "id": 29,
+        "asset_key": "oddhobb/local-generated_cards_justbecause_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_justbecause_max.png",
+        "alt_text": "generated cards justbecause max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_snow_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_snow_max",
+      "data": {
+        "id": 30,
+        "asset_key": "oddhobb/local-generated_cards_xmas_snow_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_snow_max.png",
+        "alt_text": "generated cards xmas snow max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_thankyou_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_thankyou_max",
+      "data": {
+        "id": 31,
+        "asset_key": "oddhobb/local-generated_cards_thankyou_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_thankyou_max.png",
+        "alt_text": "generated cards thankyou max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_santa_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_santa_max",
+      "data": {
+        "id": 32,
+        "asset_key": "oddhobb/local-generated_cards_xmas_santa_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_santa_max.png",
+        "alt_text": "generated cards xmas santa max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_classic_d2eb43f2_1790653293",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_classic_d2eb43f2_1790653293",
+      "data": {
+        "id": 33,
+        "asset_key": "oddhobb/local-generated_cards_xmas_classic_d2eb43f2_1790653293",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_classic_d2eb43f2_1790653293.png",
+        "alt_text": "generated cards xmas classic d2eb43f2 1790653293",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_naughty_d2eb43f2_1790653303",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_naughty_d2eb43f2_1790653303",
+      "data": {
+        "id": 34,
+        "asset_key": "oddhobb/local-generated_cards_xmas_naughty_d2eb43f2_1790653303",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_naughty_d2eb43f2_1790653303.png",
+        "alt_text": "generated cards xmas naughty d2eb43f2 1790653303",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_bday_party_d2eb43f2_1790653303",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_bday_party_d2eb43f2_1790653303",
+      "data": {
+        "id": 35,
+        "asset_key": "oddhobb/local-generated_cards_bday_party_d2eb43f2_1790653303",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_party_d2eb43f2_1790653303.png",
+        "alt_text": "generated cards bday party d2eb43f2 1790653303",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_classic_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_classic_max",
+      "data": {
+        "id": 36,
+        "asset_key": "oddhobb/local-generated_cards_xmas_classic_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_classic_max.png",
+        "alt_text": "generated cards xmas classic max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_bday_elegant_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_bday_elegant_max",
+      "data": {
+        "id": 37,
+        "asset_key": "oddhobb/local-generated_cards_bday_elegant_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_elegant_max.png",
+        "alt_text": "generated cards bday elegant max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_festive_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_festive_max",
+      "data": {
+        "id": 38,
+        "asset_key": "oddhobb/local-generated_cards_xmas_festive_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_festive_max.png",
+        "alt_text": "generated cards xmas festive max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_xmas_naughty_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_xmas_naughty_max",
+      "data": {
+        "id": 39,
+        "asset_key": "oddhobb/local-generated_cards_xmas_naughty_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_xmas_naughty_max.png",
+        "alt_text": "generated cards xmas naughty max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/local-generated_cards_bday_party_max",
+      "type": "asset",
+      "label": "oddhobb/local-generated_cards_bday_party_max",
+      "data": {
+        "id": 40,
+        "asset_key": "oddhobb/local-generated_cards_bday_party_max",
+        "sku": null,
+        "asset_type": "mockup",
+        "role": "mockup",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/local/generated_cards_bday_party_max.png",
+        "alt_text": "generated cards bday party max",
+        "agent_blurb": null,
+        "channel_fit": "pinterest,shopify,etsy,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658234-8649391211",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658234-8649391211",
+      "data": {
+        "id": 1,
+        "asset_key": "oddhobb/etsy-4584658234-8649391211",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391211.jpg",
+        "alt_text": "Personalized Couple Figurine From Photo",
+        "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658234-8649391189",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658234-8649391189",
+      "data": {
+        "id": 2,
+        "asset_key": "oddhobb/etsy-4584658234-8649391189",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391189.jpg",
+        "alt_text": "Personalized Couple Figurine From Photo",
+        "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658234-8649391193",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658234-8649391193",
+      "data": {
+        "id": 3,
+        "asset_key": "oddhobb/etsy-4584658234-8649391193",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-COUPLE-FIGURE/4584658234_8649391193.jpg",
+        "alt_text": "Personalized Couple Figurine From Photo",
+        "agent_blurb": "Couple holding a two-brick-figure couple on a black base, Christmas gifts in background — weddings/anniversary couple SKU context.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584650499-8600613438",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584650499-8600613438",
+      "data": {
+        "id": 9,
+        "asset_key": "oddhobb/etsy-4584650499-8600613438",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8600613438.jpg",
+        "alt_text": "Your Own Brick Figure",
+        "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584650499-8648454035",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584650499-8648454035",
+      "data": {
+        "id": 10,
+        "asset_key": "oddhobb/etsy-4584650499-8648454035",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8648454035.jpg",
+        "alt_text": "Your Own Brick Figure",
+        "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584650499-8648454029",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584650499-8648454029",
+      "data": {
+        "id": 11,
+        "asset_key": "oddhobb/etsy-4584650499-8648454029",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8648454029.jpg",
+        "alt_text": "Your Own Brick Figure",
+        "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584650499-8600613426",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584650499-8600613426",
+      "data": {
+        "id": 12,
+        "asset_key": "oddhobb/etsy-4584650499-8600613426",
+        "sku": "KEYCHAIN-BRICK",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-BRICK-FIGURE/4584650499_8600613426.jpg",
+        "alt_text": "Your Own Brick Figure",
+        "agent_blurb": "Young man in white tee holding a small LEGO-style brick figure, Christmas tree bokeh behind — scale + gift context for custom brick figures.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658252-8649381383",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658252-8649381383",
+      "data": {
+        "id": 4,
+        "asset_key": "oddhobb/etsy-4584658252-8649381383",
+        "sku": "XMAS-3D-ORNAMENT",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8649381383.jpg",
+        "alt_text": "Custom Christmas Ornament",
+        "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658252-8601539634",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658252-8601539634",
+      "data": {
+        "id": 5,
+        "asset_key": "oddhobb/etsy-4584658252-8601539634",
+        "sku": "XMAS-3D-ORNAMENT",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539634.jpg",
+        "alt_text": "Custom Christmas Ornament",
+        "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658252-8601539620",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658252-8601539620",
+      "data": {
+        "id": 6,
+        "asset_key": "oddhobb/etsy-4584658252-8601539620",
+        "sku": "XMAS-3D-ORNAMENT",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539620.jpg",
+        "alt_text": "Custom Christmas Ornament",
+        "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658252-8601539516",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658252-8601539516",
+      "data": {
+        "id": 7,
+        "asset_key": "oddhobb/etsy-4584658252-8601539516",
+        "sku": "XMAS-3D-ORNAMENT",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539516.jpg",
+        "alt_text": "Custom Christmas Ornament",
+        "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    },
+    {
+      "id": "oddhobb:asset:oddhobb/etsy-4584658252-8601539642",
+      "type": "asset",
+      "label": "oddhobb/etsy-4584658252-8601539642",
+      "data": {
+        "id": 8,
+        "asset_key": "oddhobb/etsy-4584658252-8601539642",
+        "sku": "XMAS-3D-ORNAMENT",
+        "asset_type": "etsy_listing_photo",
+        "role": "lifestyle",
+        "path_or_url": "r2://powpowpow-warehouse/commerce/stores/oddhobb/assets/etsy/ACTIVE-XMAS-ORNAMENT/4584658252_8601539642.jpg",
+        "alt_text": "Custom Christmas Ornament",
+        "agent_blurb": "Golden chibi puppy Christmas ornament with red ribbon hanging on a lit tree — hero lifestyle for Xmas pet ornament.",
+        "channel_fit": "pinterest,etsy,shopify,agent"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "oddhobb",
+      "to": "oddhobb",
+      "rel": "operates"
+    },
+    {
+      "from": "oddhobb",
+      "to": "etsy:legacy_pogpet",
+      "rel": "channel"
+    },
+    {
+      "from": "oddhobb",
+      "to": "shopify:oddhobb",
+      "rel": "channel"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:ALBUM-MEMORY-CD",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-MEMORY-CD",
+      "to": "oddhobb:agent:memory-album",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:ALBUM-WEDDING-VIDEO",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-WEDDING-VIDEO",
+      "to": "oddhobb:agent:wedding-video-album",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:PROD-PET-TAG-SET",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:PROD-PET-TAG-SET",
+      "to": "oddhobb:agent:metal-pet-tag",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:PROD-XMAS-PLAYING-CARDS",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:PROD-XMAS-PLAYING-CARDS",
+      "to": "oddhobb:agent:playing-cards",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:agent:xmas-ornament",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:PROD-BOARDGAME-NOTEBOOK",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:PROD-BOARDGAME-NOTEBOOK",
+      "to": "oddhobb:agent:boardgame-notebook",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:PROD-COASTER-SET",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:PROD-COASTER-SET",
+      "to": "oddhobb:agent:coaster-set",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:PROD-TOP-TRUMPS",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:PROD-TOP-TRUMPS",
+      "to": "oddhobb:agent:top-trumps",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-CRIBBAGE-BOARD",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-BOARD",
+      "to": "oddhobb:agent:cribbage-board",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-CRIBBAGE-PEGS",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-PEGS",
+      "to": "oddhobb:agent:cribbage-pegs",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-FIRST-PLAYER",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-FIRST-PLAYER",
+      "to": "oddhobb:agent:first-player-token",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-MAHJONG-READER",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-READER",
+      "to": "oddhobb:agent:mahjong-line-reader",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-MAHJONG-WINDS",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-WINDS",
+      "to": "oddhobb:agent:mahjong-wind-markers",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-TILE-RACK",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TILE-RACK",
+      "to": "oddhobb:agent:tile-rack",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb",
+      "to": "oddhobb:product:XMAS-3D-TOKEN-TRAY",
+      "rel": "sells"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TOKEN-TRAY",
+      "to": "oddhobb:agent:token-tray",
+      "rel": "exposed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-BOARDGAME-NOTEBOOK",
+      "to": "oddhobb:listing:etsy:4586687823",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-FIRST-PLAYER",
+      "to": "oddhobb:listing:etsy:4586658541",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:listing:etsy:4586658575",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-TOP-TRUMPS",
+      "to": "oddhobb:listing:etsy:4586691360",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-COASTER-SET",
+      "to": "oddhobb:listing:etsy:4586691376",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TOKEN-TRAY",
+      "to": "oddhobb:listing:etsy:4586661282",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-WINDS",
+      "to": "oddhobb:listing:etsy:4586671970",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-PET-TAG-SET",
+      "to": "oddhobb:listing:etsy:4586691324",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-PEGS",
+      "to": "oddhobb:listing:etsy:4586671942",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-READER",
+      "to": "oddhobb:listing:etsy:4586657665",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-MEMORY-CD",
+      "to": "oddhobb:listing:etsy:4586678882",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-XMAS-PLAYING-CARDS",
+      "to": "oddhobb:listing:etsy:4586691388",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TILE-RACK",
+      "to": "oddhobb:listing:etsy:4586662106",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-BOARD",
+      "to": "oddhobb:listing:etsy:4586671960",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-WEDDING-VIDEO",
+      "to": "oddhobb:listing:etsy:4586678898",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-BOARDGAME-NOTEBOOK",
+      "to": "oddhobb:listing:shopify:16052219773309",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-FIRST-PLAYER",
+      "to": "oddhobb:listing:shopify:16052220002685",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:listing:shopify:16052220100989",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-TOP-TRUMPS",
+      "to": "oddhobb:listing:shopify:16052219871613",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-COASTER-SET",
+      "to": "oddhobb:listing:shopify:16052219806077",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TOKEN-TRAY",
+      "to": "oddhobb:listing:shopify:16052220166525",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-WINDS",
+      "to": "oddhobb:listing:shopify:16052220068221",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-PET-TAG-SET",
+      "to": "oddhobb:listing:shopify:16052219838845",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-PEGS",
+      "to": "oddhobb:listing:shopify:16052219969917",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-MAHJONG-READER",
+      "to": "oddhobb:listing:shopify:16052220035453",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-MEMORY-CD",
+      "to": "oddhobb:listing:shopify:16052219707773",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:PROD-XMAS-PLAYING-CARDS",
+      "to": "oddhobb:listing:shopify:16052219904381",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-TILE-RACK",
+      "to": "oddhobb:listing:shopify:16052220133757",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-CRIBBAGE-BOARD",
+      "to": "oddhobb:listing:shopify:16052219937149",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:ALBUM-WEDDING-VIDEO",
+      "to": "oddhobb:listing:shopify:16052219740541",
+      "rel": "listed_as"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:asset:oddhobb/etsy-4584658252-8649381383",
+      "rel": "has_image"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:asset:oddhobb/etsy-4584658252-8601539634",
+      "rel": "has_image"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:asset:oddhobb/etsy-4584658252-8601539620",
+      "rel": "has_image"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:asset:oddhobb/etsy-4584658252-8601539516",
+      "rel": "has_image"
+    },
+    {
+      "from": "oddhobb:product:XMAS-3D-ORNAMENT",
+      "to": "oddhobb:asset:oddhobb/etsy-4584658252-8601539642",
+      "rel": "has_image"
+    }
+  ]
+}

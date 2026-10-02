@@ -1,0 +1,73 @@
+{
+  "priority": 5,
+  "sku": "XMAS-3D-CRIBBAGE-PEGS",
+  "etsy_listing_id": "4586671942",
+  "state": "draft",
+  "go_live_blocker": "listing photos + production partner",
+  "shop_section_target": "Game Night",
+  "etsy_title": "Personalised Cribbage Pegs | Christmas Cribbage Gift | Magnetic Cribbage Pegs | Cribbage Player Gift | Family Game Night | Custom Pegs",
+  "price": 14.99,
+  "taxonomy_id": 2151,
+  "tags": [
+    "cribbage pegs",
+    "cribbage gift",
+    "personalised cribbag",
+    "cribbage player",
+    "christmas gift",
+    "magnetic pegs",
+    "card game gift",
+    "game night",
+    "family gift",
+    "cribbage board",
+    "custom pegs",
+    "tabletop gift",
+    "christmas game"
+  ],
+  "description": "Engraved cribbage pegs for the person who always brings the board. Heirloom Christmas gift.\n\nHOW IT WORKS:\n1. Order and send personalisation\n2. Approve preview\n3. We make it to order\n4. Tracked shipping\n\nWHAT YOU GET:\n- Personalised product\n- Gift-ready packing\n- Preview before print where applicable\n\nOriginal design — not affiliated with any game brand.\nFree shipping. Orders over $19.99 combined ship free.\nAdd-ons: sticker sheet $3.99 · postcard $2.99.\n",
+  "who_made": "collective",
+  "when_made": "made_to_order",
+  "shipping_profile_id": 316299492609,
+  "readiness_state_id": 1518572416146,
+  "processing": [
+    3,
+    8
+  ],
+  "personalisation": [
+    {
+      "question_text": "Engraving text",
+      "question_type": "text_input",
+      "required": 1,
+      "max_chars": 1024
+    },
+    {
+      "question_text": "Colour",
+      "question_type": "text_input",
+      "required": 0,
+      "max_chars": 80
+    }
+  ],
+  "agent_sku": "cribbage-pegs",
+  "fulfilment_blurb": "3D printed to order.",
+  "gift_occasions": "christmas,cribbage,anniversary",
+  "photo_shot_list_ref": "oddhobbies/shop/listing-photo-shots.md#xmas-3d-cribbage-pegs",
+  "assets_now": [],
+  "announce": "Free shipping over $19.99 combined. Order by Dec 10 for Christmas delivery on 3D prints.",
+  "addons": [
+    {
+      "item": "Christmas Sticker Sheet",
+      "add_on_price": 3.99,
+      "usual": 7.99
+    },
+    {
+      "item": "Custom Postcard",
+      "add_on_price": 2.99,
+      "usual": 3.99
+    }
+  ],
+  "shopify_product_id": 16052219969917,
+  "shopify_handle": "xmas-3d-cribbage-pegs",
+  "shopify_status": "draft",
+  "store_id": "oddhobb",
+  "brand_id": "oddhobb",
+  "section": "Game Night"
+}

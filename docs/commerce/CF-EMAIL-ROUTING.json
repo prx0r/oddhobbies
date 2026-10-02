@@ -1,0 +1,548 @@
+[
+  {
+    "domain": "oddhobb.com",
+    "store_id": "pogpet",
+    "zone_id": "509842389893260195f171785c98c64c",
+    "zone_status": "active",
+    "enable_routing": {
+      "http": 405,
+      "success": false,
+      "errors": [
+        {
+          "code": 10405,
+          "message": "Method not allowed for this authentication scheme"
+        }
+      ],
+      "result_status": null
+    },
+    "mx_before_or_after": [
+      [
+        "route3.mx.cloudflare.net",
+        77
+      ],
+      [
+        "route2.mx.cloudflare.net",
+        54
+      ],
+      [
+        "route1.mx.cloudflare.net",
+        66
+      ]
+    ],
+    "hello_rule": {
+      "http": 200,
+      "success": true,
+      "errors": [],
+      "id": "7d65a5f8115140238498acf3ab26cc78"
+    },
+    "orders_rule": {
+      "http": 200,
+      "success": true,
+      "errors": []
+    },
+    "rules": [
+      {
+        "name": "orders@oddhobb.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "orders@oddhobb.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "hello@oddhobb.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "hello@oddhobb.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "support inbox",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "support@oddhobb.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "enabled": false,
+        "matchers": [
+          {
+            "type": "all"
+          }
+        ],
+        "actions": [
+          {
+            "type": "drop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "pog.pet",
+    "store_id": "pogpet",
+    "zone_id": "abadc6500da5fdac89a74bbfa5bfd49e",
+    "zone_status": "active",
+    "enable_routing": {
+      "http": 405,
+      "success": false,
+      "errors": [
+        {
+          "code": 10405,
+          "message": "Method not allowed for this authentication scheme"
+        }
+      ],
+      "result_status": null
+    },
+    "mx_before_or_after": [],
+    "mx_create": [
+      {
+        "host": "route1.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route2.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route3.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      }
+    ],
+    "hello_rule": {
+      "http": 200,
+      "success": true,
+      "errors": [],
+      "id": "7c59ff0a69a044cb94fed77f5ca9e564"
+    },
+    "orders_rule": {
+      "http": 200,
+      "success": true,
+      "errors": []
+    },
+    "rules": [
+      {
+        "name": "orders@pog.pet",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "orders@pog.pet"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "hello@pog.pet",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "hello@pog.pet"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "enabled": false,
+        "matchers": [
+          {
+            "type": "all"
+          }
+        ],
+        "actions": [
+          {
+            "type": "drop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "grimoirer.com",
+    "store_id": "ochema",
+    "zone_id": "3b0ddcea9c15b0de55a8b349dd31c89d",
+    "zone_status": "active",
+    "enable_routing": {
+      "http": 405,
+      "success": false,
+      "errors": [
+        {
+          "code": 10405,
+          "message": "Method not allowed for this authentication scheme"
+        }
+      ],
+      "result_status": null
+    },
+    "mx_before_or_after": [],
+    "mx_create": [
+      {
+        "host": "route1.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route2.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route3.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      }
+    ],
+    "hello_rule": {
+      "http": 200,
+      "success": true,
+      "errors": [],
+      "id": "6afb34f1211149e5a8b38e212ea3e2f9"
+    },
+    "orders_rule": {
+      "http": 200,
+      "success": true,
+      "errors": []
+    },
+    "rules": [
+      {
+        "name": "orders@grimoirer.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "orders@grimoirer.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "hello@grimoirer.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "hello@grimoirer.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "enabled": false,
+        "matchers": [
+          {
+            "type": "all"
+          }
+        ],
+        "actions": [
+          {
+            "type": "drop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "ochema.co",
+    "store_id": "ochema",
+    "zone_id": "1f0d6f8d88dec141c2d25011659e391c",
+    "zone_status": "active",
+    "enable_routing": {
+      "http": 405,
+      "success": false,
+      "errors": [
+        {
+          "code": 10405,
+          "message": "Method not allowed for this authentication scheme"
+        }
+      ],
+      "result_status": null
+    },
+    "mx_before_or_after": [],
+    "mx_create": [
+      {
+        "host": "route1.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route2.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route3.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      }
+    ],
+    "hello_rule": {
+      "http": 200,
+      "success": true,
+      "errors": [],
+      "id": "695348d1b09847f98f25b0fd4705e801"
+    },
+    "orders_rule": {
+      "http": 200,
+      "success": true,
+      "errors": []
+    },
+    "rules": [
+      {
+        "name": "orders@ochema.co",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "orders@ochema.co"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "hello@ochema.co",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "hello@ochema.co"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "support inbox",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "support@ochema.co"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "enabled": false,
+        "matchers": [
+          {
+            "type": "all"
+          }
+        ],
+        "actions": [
+          {
+            "type": "drop"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "stonedoorway.com",
+    "store_id": "stonedoorway",
+    "zone_id": "fb5d6107f3ba0ec36985b046d4c91570",
+    "zone_status": "active",
+    "enable_routing": {
+      "http": 405,
+      "success": false,
+      "errors": [
+        {
+          "code": 10405,
+          "message": "Method not allowed for this authentication scheme"
+        }
+      ],
+      "result_status": null
+    },
+    "mx_before_or_after": [],
+    "mx_create": [
+      {
+        "host": "route1.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route2.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      },
+      {
+        "host": "route3.mx.cloudflare.net",
+        "http": 200,
+        "success": true,
+        "errors": []
+      }
+    ],
+    "hello_rule": {
+      "http": 200,
+      "success": true,
+      "errors": [],
+      "id": "6fdd1dccd39d4af4ae3d4fdae3df8276"
+    },
+    "orders_rule": {
+      "http": 200,
+      "success": true,
+      "errors": []
+    },
+    "rules": [
+      {
+        "name": "orders@stonedoorway.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "orders@stonedoorway.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "hello@stonedoorway.com",
+        "enabled": true,
+        "matchers": [
+          {
+            "type": "literal",
+            "field": "to",
+            "value": "hello@stonedoorway.com"
+          }
+        ],
+        "actions": [
+          {
+            "type": "forward",
+            "value": [
+              "tradesprior@gmail.com"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "enabled": false,
+        "matchers": [
+          {
+            "type": "all"
+          }
+        ],
+        "actions": [
+          {
+            "type": "drop"
+          }
+        ]
+      }
+    ]
+  }
+]

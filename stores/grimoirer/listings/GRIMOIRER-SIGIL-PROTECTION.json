@@ -1,0 +1,49 @@
+{
+  "store_id": "grimoirer",
+  "brand_id": "grimoirer",
+  "sku": "GRIMOIRER-SIGIL-PROTECTION",
+  "price": 7.99,
+  "currency": "USD",
+  "state": "draft",
+  "section": "Digital Projects",
+  "make": "digital",
+  "etsy_title": "Protection Sigil Pack | Printable Occult Symbols | 20 Original Sigils | Transparent PNG | Digital Download",
+  "description": "20 original protection sigils — transparent PNGs + printable sheet + short usage notes.\n\nHOW IT WORKS:\n1. Instant download\n2. Print or place digitally\n3. Use with your own practice\n\nWHAT YOU GET:\n- 20 original sigils (PNG, 300 DPI)\n- Printable A5/Letter sheet\n- Brief historical framing\n\nOriginal artwork. Not a promise of results. 5% charity.",
+  "tags": [
+    "protection sigils",
+    "occult symbols",
+    "printable sigils",
+    "sigil pack",
+    "pagan art",
+    "digital download",
+    "magick symbols",
+    "witch art",
+    "protection symbols",
+    "printable occult",
+    "sigil png",
+    "grimoire pages",
+    "yule digital"
+  ],
+  "agent_sku": "grimoirer-protection-sigils",
+  "supplier_primary": "SELF",
+  "unit_cost": 0,
+  "cost_currency": "USD",
+  "cost_source": "verified",
+  "cost_note": "Digital",
+  "personalisation": [],
+  "agent_catalog": {
+    "display_name": "Protection Sigil Pack",
+    "summary": "20 original protection sigils as transparent PNGs plus a printable sheet.",
+    "how_it_works": "1. Download 2. Print or place digitally 3. Practice your way",
+    "price_tier": "impulse",
+    "gift_occasions": "self-gift,yule,birthday",
+    "fulfilment_blurb": "Instant digital download",
+    "is_orderable": 0,
+    "is_customisable": 0
+  },
+  "ip_notes": "Original hand-drawn sigils. No copied occult brand art.",
+  "go_live_blocker": "PNG export + listing photos + channel credentials",
+  "source_refs": [
+    "/root/grimoirer/docs/PRODUCTS.md"
+  ]
+}

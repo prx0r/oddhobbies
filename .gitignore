@@ -19,11 +19,13 @@ Thumbs.db
 /tmp/
 *.tmp
 
-# SQLite runtime DB (rebuild: python3 db/seed.py)
+# SQLite runtime DBs (rebuild: python3 db/seed_store.py or db/seed.py)
 db/*.db
 db/*.db-journal
 db/*.db-wal
 db/*.db-shm
+db/oddhobbies.db
+db/commerce.db
 
 # Secrets / tokens
 *token*.json
