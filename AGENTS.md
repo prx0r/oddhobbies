@@ -13,7 +13,8 @@ Multi-store product graph: packs + SQLite + R2 + MCP + channel push + ads/sales 
 |-------|--------|
 | Source of truth | `db/commerce.db` |
 | Packs | `stores/<store_id>/` |
-| MCP | `db/commerce_mcp.py` |
+| Ops MCP | `db/commerce_mcp.py` |
+| **Consumer MCP** (ChatGPT/Muse) | `db/consumer_mcp.py` · `docs/commerce/CONSUMER-MCP-CHATGPT.md` |
 | Graph export | `graph/<store_id>.json` |
 | Push | `shop/push_listings.py --store <id>` |
 
@@ -86,3 +87,5 @@ MCP tools: `store_list`, `store_get`, `store_products`, `store_agent_catalog`, `
 | Photos / ads | next blockers |
 
 **Spine:** `/root/bgraph` · site map: `docs/commerce/SITE-LINK.md`
+
+**Agent surfaces (ChatGPT/Muse/Grok):** `/root/bgraph/registry/agent_surfaces/` + `db/consumer_mcp.py`
