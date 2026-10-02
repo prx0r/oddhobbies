@@ -58,19 +58,22 @@ def store_id(raw: Any) -> str:
 
 
 def _public_product(row: sqlite3.Row) -> dict:
+    keys = row.keys()
+    sku = row["product_sku"] if "product_sku" in keys else row["sku"]
+    display_name = row["display_name"] if "display_name" in keys else row.get("title")
     return {
-        "sku": row["sku"],
-        "agent_sku": row["agent_sku"] or row["sku"],
-        "display_name": row["display_name"] or row["title"],
-        "summary": row["summary"] or (row["title"] or "")[:200],
-        "price_tier": row["price_tier"] or "gift",
-        "display_price": row["display_price"],
-        "display_currency": row["display_currency"],
-        "section": row["section"],
-        "fulfilment_blurb": row["fulfilment_blurb"],
-        "is_orderable": bool(row["is_orderable"]),
-        "is_customisable": bool(row["is_customisable"]),
-        "gift_occasions": row["gift_occasions"],
+        "sku": sku,
+        "agent_sku": row["agent_sku"] if "agent_sku" in keys else sku,
+        "display_name": display_name,
+        "summary": (row["summary"] if "summary" in keys else None) or (display_name or "")[:200],
+        "price_tier": row["price_tier"] if "price_tier" in keys else "gift",
+        "display_price": row["display_price"] if "display_price" in keys else None,
+        "display_currency": row["display_currency"] if "display_currency" in keys else None,
+        "section": row["section"] if "section" in keys else None,
+        "fulfilment_blurb": row["fulfilment_blurb"] if "fulfilment_blurb" in keys else None,
+        "is_orderable": bool(row["is_orderable"]) if "is_orderable" in keys else False,
+        "is_customisable": bool(row["is_customisable"]) if "is_customisable" in keys else True,
+        "gift_occasions": row["gift_occasions"] if "gift_occasions" in keys else None,
     }
 
 
