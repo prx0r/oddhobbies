@@ -169,9 +169,29 @@ def tool_get_product(args: dict) -> dict:
         (sid, row["product_sku"]),
     ).fetchall()
     conn.close()
+    pub = _public_product(row)
+    # fill gaps from commerce products if catalog projection is thin
+    if not pub.get("display_name") or not pub.get("display_price"):
+        conn2 = connect()
+        p2 = conn2.execute(
+            """SELECT p.title, p.sku, rp.price, rp.currency, p.section
+               FROM products p
+               LEFT JOIN product_retail_prices rp
+                 ON rp.product_id=p.id AND rp.is_current=1 AND rp.channel='etsy'
+                AND rp.tier_code IS NULL
+               WHERE p.store_id=? AND (p.sku=? OR p.agent_sku=?)""",
+            (sid, pub["sku"], sku),
+        ).fetchone()
+        conn2.close()
+        if p2:
+            pub["display_name"] = pub.get("display_name") or p2["title"]
+            pub["summary"] = pub.get("summary") or (p2["title"] or "")[:200]
+            pub["display_price"] = pub.get("display_price") if pub.get("display_price") is not None else p2["price"]
+            pub["display_currency"] = pub.get("display_currency") or p2["currency"]
+            pub["section"] = pub.get("section") or p2["section"]
     return {
         "store_id": sid,
-        **_public_product(row),
+        **pub,
         "personalisation_questions": [dict(q) for q in questions],
         "public_assets": [
             {"asset_key": a["asset_key"], "role": a["role"], "url": a["path_or_url"], "alt": a["alt_text"]}
